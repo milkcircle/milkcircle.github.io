@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2014-09-07T16:31:30+05:30
 ---
 # About
-The name 'Six Honest Serving Men' is drawn from Rudyard Kipling's [tribute to curiosity 
+The name 'Six Honest Serving Men' is drawn from Rudyard Kipling's ![tribute to curiosity 
 and inquisitiveness] (http://www.kiplingsociety.co.uk/poems_serving.htm). I treat this
 website as an area for me to introspect, explore, and stay curious about my experiences. 
 Here I plan to write stories and reflections about the things I see and learn.
