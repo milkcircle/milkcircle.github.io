@@ -1,25 +1,37 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+##The website title
+name: Blog Name
+##Markdown processor
+markdown: kramdown
+##syntax highlighter. change it to pygments
+highlighter: pygments
 
-# Permalinks
-permalink:        pretty
+##define base_url for valid usage in sitemap.xml and robots.txt
+base_url: http://example.com
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: Put website description for your home page. (about 50 words or more)
+##Some frequently used keywords on your website
+keywords: some, relevant, keywords, for, usage, in metatags
 
-# Setup
-title:            Six Honest Serving-Men
-tagline:          Medicine, Writing, and Other Pursuits
-description:      Documenting the journey of a medical student
-url:              http://milkcircle.github.io
-baseurl:          /
+##define this for disqus comment support
+#disqus: forumname
 
-author:
-  name:           'Aaron Cheng'
-  url:            http://milkcircle.github.io
-  
-paginate:         5
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
 
-# Custom vars
-version:          2.1.0
+##Some commonly used links
+links:
+  facebook: username
+  twitter: username
+  email: username@gmail.com
+  github: username
 
-github:
-  repo:           https://github.com/milkcircle/milkcircle.github.io
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: placeholder.jpg
+##comment this if you want full width posts with no sidebar
+sidebar: on
