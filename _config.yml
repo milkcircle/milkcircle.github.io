@@ -13,7 +13,7 @@ sass:
 paginate: 5
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
-description: 'Test test test'
+description: Put website description for your home page. (about 50 words or more)
 ##Some frequently used keywords on your website
 keywords: medicine, writing, code, math, photography
 
@@ -34,4 +34,4 @@ links:
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: profpic.jpg
 ##comment this if you want full width posts with no sidebar
-sidebar: on
+#sidebar: on
