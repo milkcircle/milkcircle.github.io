@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            New Blood
-tagline:          Medicine, coding, and other pursuits
-description:      Documenting the adventure of a premedical student
+title:            Six Honest Serving-Men
+tagline:          Medicine, Writing, and Other Pursuits
+description:      Documenting the journey of a medical student
 url:              http://milkcircle.github.io
 baseurl:          /
 
