@@ -18,7 +18,7 @@ description: Put website description for your home page. (about 50 words or more
 keywords: medicine, writing, code, math, photography
 
 ##define this for disqus comment support
-#disqus: forumname
+disqus: sixhonestservingmen
 
 ##set this to enable google analytics
 ga_id: UA-64904363-1
@@ -32,6 +32,6 @@ links:
   #github: 
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: placeholder.jpg
+about_image: profpic.jpg
 ##comment this if you want full width posts with no sidebar
 sidebar: on
