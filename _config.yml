@@ -1,12 +1,12 @@
 ##The website title
-name: Six Honest Serving-Men
+name: Blog Name
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
 highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://milkcircle.github.io
+base_url: http://example.com
 sass:
   sass_dir: _sass
   style: :compressed
@@ -15,23 +15,23 @@ paginate_path: "page:num"
 ##The website description (to be used in meta tags)
 description: Put website description for your home page. (about 50 words or more)
 ##Some frequently used keywords on your website
-keywords: medicine, writing, code, math, photography
+keywords: some, relevant, keywords, for, usage, in metatags
 
 ##define this for disqus comment support
-disqus: sixhonestservingmen
+#disqus: forumname
 
 ##set this to enable google analytics
-ga_id: UA-64904363-1
-ga_domain: http://milkcircle.github.io
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
 
 ##Some commonly used links
 links:
-  #facebook: narfnarfnarfnarf
-  #twitter: username
-  email: Aaron_Cheng@hms.harvard.edu
-  #github: 
+  facebook: username
+  twitter: username
+  email: username@gmail.com
+  github: username
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: profpic.jpg
+about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
 sidebar: on
