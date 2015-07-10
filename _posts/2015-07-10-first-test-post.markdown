@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  
+title:  Test Post
 date:   2015-07-10 15:00:00
 categories: test
 ---
