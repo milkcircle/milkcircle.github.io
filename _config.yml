@@ -1,12 +1,12 @@
 ##The website title
-name: Blog Name
+name: Six Honest Serving-Men
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
 highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://example.com
+base_url: http://milkcircle.github.io
 sass:
   sass_dir: _sass
   style: :compressed
@@ -26,10 +26,7 @@ keywords: some, relevant, keywords, for, usage, in metatags
 
 ##Some commonly used links
 links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
+  email: aaron_cheng@hms.harvard.edu
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
