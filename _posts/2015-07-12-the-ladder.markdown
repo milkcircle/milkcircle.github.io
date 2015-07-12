@@ -2,7 +2,7 @@
 layout: post
 title:  The Ladder
 date:   2015-07-10
-categories: fragments, poetry
+categories: poetry
 ---
 Four years ago when the ground rumbled and shook\\
 I watched the sidewalk blister and crack\\
