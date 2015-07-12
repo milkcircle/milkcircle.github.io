@@ -2,10 +2,8 @@
 layout: post
 title:  The Ladder
 date:   2015-07-10
-categories: fragments
+categories: fragments, poetry
 ---
-## The Ladder
-
 Four years ago the ladder appeared\\
 It burst through the grass in my front yard\\
 As though it came from Earth's core
