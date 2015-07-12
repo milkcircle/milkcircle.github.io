@@ -26,7 +26,7 @@ I climbed until these plains merged into one
 
 When I finally tired I looked up\\
 And saw more ladder above me, as though I had never started\\
-The ivory beckoned as though there were a prize at the elusive end
+The ivory beckoned as if there were a prize at the elusive end
 
 Four years I climbed, and from the lonely rungs in the sky\\
 I saw alien places from afar\\
