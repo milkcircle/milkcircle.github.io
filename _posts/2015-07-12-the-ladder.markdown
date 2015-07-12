@@ -4,40 +4,40 @@ title:  The Ladder
 date:   2015-07-10
 categories: fragments, poetry
 ---
-Four years ago the ladder appeared\\
-It burst through the grass in my front yard\\
-As though it came from Earth's core
+Four years ago when the ground rumbled and shook\\
+I watched the sidewalk blister and crack\\
+As a ladder emerged from the depths of the Earth
 
-Sleek ivory rungs that gleamed in the daylight\\
-Though I strained my neck to see where it led\\
-There was no end in sight
+I touched its sleek, clean ivory rungs\\
+And strained my neck to see where it led\\
+But there was no end in sight
 
 So I stepped onto the ladder and climbed\\
 And with each rung\\
 The world grew smaller beneath me
 
-Until I could no longer see my parents' faces\\
-And the city became a grid\\
-And the people and cars, like specks of slow-moving dust
+I climbed until I could no longer see my parents’ faces\\
+Until the city became a grid\\
+Until the people and cars were like specks of slow-moving dust
 
-Up ahead past the familiar grid\\
-Were other fields of specks, some less organized than others\\
-And I kept climbing until the plains merged into one
+And past the familiar grid\\
+I could see other fields of specks, some brighter than the others\\
+I climbed until these plains merged into one
 
-I was at a dizzying height\\
-But there was more ladder above me\\
-Each rung beckoning as though there were a prize at the elusive end
+When I finally tired I looked up\\
+And saw more ladder above me, as though I had never started\\
+Each rung beckoned as though there were a prize at the elusive end
 
-Four more years I climbed, and I saw\\
-So many other places from afar\\
+Four more years I climbed, and from the lonely rungs in the sky\\
+I saw many other places from afar\\
 Colors and textures I never knew existed
 
-And it took four years for me to realize that\\
+And it took four years for me to realize\\
 The ladder would never end\\
-I stopped my ascent, sighed, and looked down
+I stopped my ascent, and looked down
 
 Remembering the time when I was one of the specks within a speck\\
 How firm the ground was\\
-How, before there was a ladder, I had never yearned to climb...
+How before the ladder I had never yearned to climb…
 
 Then I began my slow descent.
