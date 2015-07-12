@@ -21,23 +21,23 @@ Until the city became a grid\\
 Until the people and cars were like specks of slow-moving dust
 
 And past the familiar grid\\
-I could see other fields of specks, some brighter than the others\\
+I could see other fields of specks, some brighter the others\\
 I climbed until these plains merged into one
 
 When I finally tired I looked up\\
 And saw more ladder above me, as though I had never started\\
-Each rung beckoned as though there were a prize at the elusive end
+The ivory beckoned as though there were a prize at the elusive end
 
-Four more years I climbed, and from the lonely rungs in the sky\\
-I saw many other places from afar\\
+Four years I climbed, and from the lonely rungs in the sky\\
+I saw alien places from afar\\
 Colors and textures I never knew existed
 
 And it took four years for me to realize\\
 The ladder would never end\\
 I stopped my ascent, and looked down
 
-Remembering the time when I was one of the specks within a speck\\
+Remembering a time when I was one of the specks within a speck\\
 How firm the ground was\\
-How before the ladder I had never yearned to climb…
+How before the ladder appeared I had never yearned to climb…
 
 Then I began my slow descent.
