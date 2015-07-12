@@ -14,7 +14,7 @@ About me:
 I studied Chemical and Physical Biology (with a minor in Math) at Harvard College
 from 2011 to 2015. I'm currently a first-year medical student at Harvard Medical School, 
 where I hope to learn how to reconcile my interests in writing, research, entrepreneurship,
-and patient care into my future career. Outside of school, I like to go to heavy metal 
+and patient care in my future career. Outside of school, I like to go to heavy metal 
 concerts, play chess, read, write, and hike.
 
 About this website:  
