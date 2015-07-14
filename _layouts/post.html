@@ -1,40 +1,47 @@
 ---
 layout: default
 ---
-<div id="home" class="grid post">
-<div class="unit whole">
-<article>
-	<header>
-		<h1>{{ page.title }}</h1>
-		<p class="meta">
-			<time class="timeago postlist-meta" datetime="{{ page.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar"></i>{{ page.date | date: "%B %-d, %Y" }}</time>
-			
-			<!-- Sharing stuff -->
-			<!--<a class="sharer facebook" href="#" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+window.location.href,'_blank','height=300,width=600');return false;"><i class="fa fa-facebook"></i></a>
-			{% if site.twitter %}
-				<a class="sharer twitter" href="#" target="_blank" onclick="window.open('https://twitter.com/share?url='+window.location.href+'&via={{ site.twitter }}','_blank','height=300,width=600');return false;"><i class="fa fa-twitter"></i></a>
-			{% else %}
-				<a class="sharer twitter" href="#" target="_blank" onclick="window.open('https://twitter.com/share?url='+window.location.href,'_blank','height=300,width=600');return false;"><i class="fa fa-twitter"></i></a>
-			{% endif %}-->
-		</p>
-	</header>
-	<section>
-		{% if page.tags and page.tags.size > 0 %}
-			<div class="tags">
-				Tagged:
-				{% for tag in page.tags %}
-				<span><i class="fa fa-tag"></i>{{ tag }}</span>
-				{% endfor %}
-			</div>
-		{% endif %}
-		{{ content }}
-	</section>
-	{% if site.disqus %}
-	<footer>
-		<p><a href="#" id="showComments">Comments</a></p>
-		<div id="disqus_thread"></div>
-	</footer>
-	{% endif %}
-</article>
+<div class="post">
+  {% if page.image %}
+    <div class="featuredImage">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+      </div>
+  {% endif %}
+  <h1 class="postTitle">{{ page.title }}</h1>
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+  
+  {{ content }}
+
+  <!-- POST NAVIGATION -->
+  <div class="postNav clearfix">
+    {% if page.previous.url %} 
+      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
+      {% if page.previous.image %} 
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+      {% endif %}
+    </a>
+    {% endif %}  
+    {% if page.next.url %}  
+      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
+      {% if page.next.image %} 
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+      {% endif %} 
+      </a>
+    {% endif %} 
+  </div>
 </div>
-</div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'sixhonestservingmen'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
