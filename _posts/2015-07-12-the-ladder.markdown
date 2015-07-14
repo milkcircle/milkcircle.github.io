@@ -5,7 +5,7 @@ date:   2015-07-10
 categories: poetry
 description: Four years ago when the ground rumbled and shook...
 ---
-<p class="intro">Four years ago when the ground rumbled and shook</p>
+Four years ago when the ground rumbled and shook<br>
 I watched the sidewalk blister and crack<br>
 As a ladder emerged from the depths of the Earth
 
