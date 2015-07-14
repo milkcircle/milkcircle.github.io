@@ -15,8 +15,12 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+ #- title: Contact
+ #  url: /contact
+ - title: Archive
+   url: /archive
+ - title: Photography
+   url: /photography
 
 social:
    #github: brianmaierjr
