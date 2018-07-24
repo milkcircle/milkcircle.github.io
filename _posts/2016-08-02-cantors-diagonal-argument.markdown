@@ -20,6 +20,6 @@ $$4 \rightarrow 4.56497494138\ldots$$
 $$5 \rightarrow 0.676767676767\ldots$$  
 $$\vdots$$
 
-$$\textrm{Cantor shows that there must exist at least one real number that cannot be contained within this list. That is: the most foolproof algorithm for enumerating all the elements in $$\mathbb{R}$$ — simply list all of them! — must fail because there exists real numbers that the algorithm can never access.}$$
+Cantor shows that there must exist at least one real number that cannot be contained within this list. That is: the most foolproof algorithm for enumerating all the elements in $$\mathbb{R}$$ — simply list all of them! — must fail because there exists real numbers that the algorithm can never access.
 
 What is this elusive real number that can’t even be contained within an infinitely ongoing list of all the elements in the set? To generate this number, take the diagonal of the list and add 1 to each digit. In the above example, the diagonal is $$0.3447 \ldots$$ (simply take the first digit of the first element, which is 0, then the second digit of the second element, which is 3, and so on). We add 1 to each digit to get $$1.4558 \ldots$$. By construction, this number never shows up in our infinite list! Therefore we have proven that this list cannot contain all real numbers. The set of reals must therefore be uncountably infinite.
