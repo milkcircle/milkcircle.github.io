@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Me
+===
+I studied Chemical and Physical Biology (with a minor in Mathematics) at Harvard from 2011 to 2015. Afterward I moved across the Charles and began my studies at Harvard Medical School. Aside from my primary passion in medicine, I am interested in computer science, heavy metal music, chess, rock climbing, and writing.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site
+===
+The name of this site is drawn from Rudyard Kipling’s [poem](http://www.kiplingsociety.co.uk/poems_serving.htm) about curiosity and youth. This is where I deposit my thoughts and write about things that interest me.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+*Err
+and err
+and err again
+but less
+and less
+and less*
+– Piet Hein
