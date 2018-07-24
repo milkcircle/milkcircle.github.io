@@ -18,3 +18,4 @@ The following code in R immediately retrieves the answer.
 {% highlight R %}
 7*(1-phyper(0,10,60,20))
 {% endhighlight %}
+
