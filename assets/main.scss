@@ -4,28 +4,28 @@
 @import "minima";
 
 @font-face {
+	font-family: "Computer Modern";
+    src: url('../assets/fonts/cmunrm.ttf');
+}
+@font-face {
     font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
+    src: url('../assets/fonts/cmunbx.ttf');
     font-weight: bold;
-  }
-  @font-face {
+}
+@font-face {
     font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
+    src: url('../assets/fonts/cmunsl.ttf');
     font-style: italic, oblique;
-  }
-  @font-face {
+}
+@font-face {
     font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
+    src: url('../assets/fonts/cmunbl.ttf');
     font-weight: bold;
     font-style: italic, oblique;
-  }
+}
 
-  body {
+body {
     font-family: "Computer Modern", sans-serif;
-  }
+}
 
-  $base-font-family: "Computer Modern" !default;
+$base-font-family: "Computer Modern" !default;
