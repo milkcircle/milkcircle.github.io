@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-03-28 11:13:25 -0700
-categories: jekyll update
+title: Cantor's Diagonal Argument 
+date: 2016-08-02 11:13:25 -0700
+categories: explanatory 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Below I describe an elegant proof first presented by the brilliant Georg Cantor. Through this argument Cantor determined that the set of all real numbers (\mathbb{R}) is uncountably — rather than countably — infinite. The proof demonstrates a powerful technique called “diagonalization” that heavily influenced the field of metamathematics; indeed, Gödel’s incompleteness theorems employ a similar technique to prove that no set of mathematical axioms can be both complete and consistent, thereby establishing one of the most important limitations in mathematics.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
