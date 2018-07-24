@@ -12,11 +12,11 @@ Cantor’s diagonal argument answers the question: is the set of all real number
 
 Now we have the necessary terminology to pursue with Cantor’s proof. What follows is a proof by contradiction, a strategy mathematicians employ that assumes a statement to be disproven is true, then describes why the statement cannot be true. To begin, we assume that the set of all reals is countably infinite. It must follow then that we can create an infinite list of all numbers that exist in \mathbb{R}. The following example attempts to visualize what this infinite list might look like.
 
-$$1 \rightarrow 0.500000000\ldots$$
-$$2 \rightarrow 0.333333333\ldots$$
-$$3 \rightarrow 3.141592653\ldots$$
-$$4 \rightarrow 4.56497494138\ldots$$
-$$5 \rightarrow 0.676767676767\ldots$$
+$$1 \rightarrow 0.500000000\ldots$$  
+$$2 \rightarrow 0.333333333\ldots$$  
+$$3 \rightarrow 3.141592653\ldots$$  
+$$4 \rightarrow 4.56497494138\ldots$$  
+$$5 \rightarrow 0.676767676767\ldots$$  
 $$\vdots$$
 
 Cantor shows that there must exist at least one real number that cannot be contained within this list. That is: the most foolproof algorithm for enumerating all the elements in $$\mathbb{R}$$ — simply list all of them! — must fail because there exists real numbers that the algorithm can never access.

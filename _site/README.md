@@ -1,1 +1,1 @@
-My website.
+Six Honest Serving-Men, a blog about math, music, medicine, and more.
