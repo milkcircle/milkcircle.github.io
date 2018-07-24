@@ -12,10 +12,10 @@ This site
 ===
 The name of this site is drawn from Rudyard Kipling’s [poem](http://www.kiplingsociety.co.uk/poems_serving.htm) about curiosity and youth. This is where I deposit my thoughts and write about things that interest me.
 
-*Err
-and err
-and err again
-but less
-and less
-and less*
+*Err  
+and err  
+and err again  
+but less  
+and less  
+and less*  
 – Piet Hein
