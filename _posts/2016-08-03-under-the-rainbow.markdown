@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cantor's Diagonal Argument 
+title: Under the Rainbow 
 date: 2016-08-03 12:00:00 -0700
 categories: explanatory 
 math: true
