@@ -13,7 +13,7 @@ The Problem
 ===
 The problem is stated in the following way: Assume there are two equally-sized sets of people, n men ($$m_1, \ldots, m_n$$) and n women ($$w_1, \ldots, w_n$$), who all have a preference list of the opposite sex. How do we pair up the men and women in such a way that they all stay with each other (nobody cheats on each other)?
 
-To understand this question further it helps to consider an example where the arrangement is not stable. Consider a very small system with 2 men and 2 women. Let’s say $$m_1$$ prefers $$w_1$$ to $$w_2$$, and $$w_1$$ prefers $$m_1$$ to $$m_2$$. Then the following arrangement $$m_1$$—w_2$$, $$m_2$$—$$w_1$$ is unstable, because $$m_1$$ and $$w_1$$ would simply elope and leave their partners in the dust! We definitely don’t want that.
+To understand this question further it helps to consider an example where the arrangement is not stable. Consider a very small system with 2 men and 2 women. Let’s say $$m_1$$ prefers $$w_1$$ to $$w_2$$, and $$w_1$$ prefers $$m_1$$ to $$m_2$$. Then the following arrangement $$m_1$$—$$w_2$$, $$m_2$$—$$w_1$$ is unstable, because $$m_1$$ and $$w_1$$ would simply elope and leave their partners in the dust! We definitely don’t want that.
 
 The Solution
 ===
