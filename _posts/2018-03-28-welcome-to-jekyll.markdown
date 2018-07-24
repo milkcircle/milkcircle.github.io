@@ -5,7 +5,7 @@ date: 2016-08-02 11:13:25 -0700
 categories: explanatory 
 math: true
 ---
-Below I describe an elegant proof first presented by the brilliant Georg Cantor. Through this argument Cantor determined that the set of all real numbers (\mathbb{R}) is uncountably — rather than countably — infinite. The proof demonstrates a powerful technique called “diagonalization” that heavily influenced the field of metamathematics; indeed, Gödel’s incompleteness theorems employ a similar technique to prove that no set of mathematical axioms can be both complete and consistent, thereby establishing one of the most important limitations in mathematics.
+Below I describe an elegant proof first presented by the brilliant Georg Cantor. Through this argument Cantor determined that the set of all real numbers ($$\mathbb{R}$$) is uncountably — rather than countably — infinite. The proof demonstrates a powerful technique called “diagonalization” that heavily influenced the field of metamathematics; indeed, Gödel’s incompleteness theorems employ a similar technique to prove that no set of mathematical axioms can be both complete and consistent, thereby establishing one of the most important limitations in mathematics.
 
 
 {% highlight ruby %}
