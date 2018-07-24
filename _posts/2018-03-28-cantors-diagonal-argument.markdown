@@ -4,6 +4,7 @@ title: Cantor's Diagonal Argument
 date: 2016-08-02 11:13:25 -0700
 categories: explanatory 
 math: true
+comments: true
 ---
 Below I describe an elegant proof first presented by the brilliant Georg Cantor. Through this argument Cantor determined that the set of all real numbers ($$\mathbb{R}$$) is uncountably — rather than countably — infinite. The proof demonstrates a powerful technique called “diagonalization” that heavily influenced the field of metamathematics; indeed, Gödel’s incompleteness theorems employ a similar technique to prove that no set of mathematical axioms can be both complete and consistent, thereby establishing one of the most important limitations in mathematics.
 
@@ -21,3 +22,25 @@ $$\vdots$$
 Cantor shows that there must exist at least one real number that cannot be contained within this list. That is: the most foolproof algorithm for enumerating all the elements in $$\mathbb{R}$$ — simply list all of them! — must fail because there exists real numbers that the algorithm can never access.
 
 What is this elusive real number that can’t even be contained within an infinitely ongoing list of all the elements in the set? To generate this number, take the diagonal of the list and add 1 to each digit. In the above example, the diagonal is $$0.3447 \ldots$$ (simply take the first digit of the first element, which is 0, then the second digit of the second element, which is 3, and so on). We add 1 to each digit to get $$1.4558 \ldots$$. By construction, this number never shows up in our infinite list! Therefore we have proven that this list cannot contain all real numbers. The set of reals must therefore be uncountably infinite.
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+var disqus_config = function () {
+this.page.url = "{{ site.baseurl }}";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://six-honest-serving-men.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
