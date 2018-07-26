@@ -64,7 +64,7 @@ hist ( ibd$PI_HAT, breaks = 100, ylim = c(0,1000))
 ~~~
 
 The result should resemble something like this:
-![IBD Plot]("../images/IBD_plot.png")
+![IBD](../images/IBD_plot.png)
 
 We'll pick one sample from each closely-related pair to exclude, and record the related samples for later input into plink.
 ~~~ R
