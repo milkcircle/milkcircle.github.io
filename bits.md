@@ -11,8 +11,7 @@ Polysomal profiling
 
 Applied Mathematics
 ===
-1. Principal component analysis  
----
+1. **Principal component analysis**
 
 The goal of PCA is to identify eigenvectors with the largest eigenvalues, as these are the vectors which accounts for the maximal spread of data. 
 
