@@ -43,3 +43,15 @@ Prune the .vcf first.
 use PLINK2
 plink --vcf sampleVCF.vcf.gz --maf 0.01 --indep-pairwise 50 5 0.2 --out sampleVCF_clean
 ~~~
+
+Calculate identity by descent.
+~~~ bash
+plink --vcf sampleVCF.vcf.gz --genome gz --out sampleVCF-clean --extract sampleVCF_clean.prune.in
+~~~
+
+The output should contain ~~~sampleVCF-clean.genome.gz~~~, which can be imported into R for visualization. 
+
+In RStudio, we can plot the 
+
+2. **VCFtools**
+
