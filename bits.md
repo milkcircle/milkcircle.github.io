@@ -69,7 +69,7 @@ The result should resemble something like this:
 We'll pick one sample from each closely-related pair to exclude, and record the related samples for later input into plink.
 ~~~ R
 exclusions = ibd[ ibd$PI_HAT > 0.2, c('FID2','IID2')]
-write.table( exclusions, file="related_samples.txt", col.names = F, row.names = F, quote = F)
+write.table( unique(exclusions), file="related_samples.txt", col.names = F, row.names = F, quote = F)
 ~~~
 
 Now, we use plink to compute principal components.
