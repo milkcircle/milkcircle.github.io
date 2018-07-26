@@ -7,4 +7,4 @@ I often read medical literature in my free time to stay up-to-date with my areas
 
 Genetics
 ===
-1. [PrimateAI][milkcircle.github.io/download/primateai.pdf]
+1. [PrimateAI](milkcircle.github.io/download/primateai.pdf)
