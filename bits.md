@@ -30,5 +30,5 @@ Genetics
 Prune the .vcf first.
 ~~~ bash
 use PLINK2
-plink --vcf Vertex_Sankaran_1474_Samples_MEGA_VCF.vcf.gz --maf 0.01 --indep-pairwise 50 5 0.2 --out Vertex_clean
+plink --vcf sampleVCF.vcf.gz --maf 0.01 --indep-pairwise 50 5 0.2 --out sampleVCF_clean
 ~~~
