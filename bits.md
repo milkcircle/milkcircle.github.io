@@ -25,4 +25,9 @@ Reconstructing the original data from our feature vector: $$X'' = (F^T \times X'
 
 Genetics
 ===
-GWAS
+1. **Using PLINK2 for PCA of large .vcf**
+
+Prune the .vcf first.
+~~~ bash
+plink --vcf Vertex_Sankaran_1474_Samples_MEGA_VCF.vcf.gz --maf 0.01 --indep-pairwise 50 5 0.2 --out Vertex_clean
+~~~
