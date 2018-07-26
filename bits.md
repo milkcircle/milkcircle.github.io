@@ -12,6 +12,8 @@ Polysomal profiling
 Applied Mathematics
 ===
 1. Principal component analysis  
+---
+
 The goal of PCA is to identify eigenvectors with the largest eigenvalues, as these are the vectors which accounts for the maximal spread of data. 
 
 To do this, we calculate the covariance matrix of the *mean-adjusted* data matrix ($$X - \overline{X}$$). Next we identify the eigenvectors and their associated eigenvalues of the covariance matrix.
