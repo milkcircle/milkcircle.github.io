@@ -7,7 +7,18 @@ Short notes for myself on various topics (to be separated into pages once this d
 
 Molecular biology
 ===
-Polysomal profiling
+1. Polysomal profiling
+
+BASH
+===
+1. **Running a job on UGER**
+
+~~~ bash
+ssh login
+use UGER
+ish
+cd $LOCATION
+~~~
 
 Applied Mathematics
 ===
