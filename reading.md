@@ -12,4 +12,4 @@ Genetics
 Hematology
 ===
 1. 07/2018 -- CRIPSR screen identifies HRI as fetal globin regulator ([paper](../download/201807_hri_crispr.pdf)).
-2. 04/2018 -- NETs promote thrombosis in MPNs ([paper](../download/201804_nets_mpn_thrombosis)).
+2. 04/2018 -- NETs promote thrombosis in MPNs ([paper](../download/201804_nets_mpn_thrombosis.pdf)).
