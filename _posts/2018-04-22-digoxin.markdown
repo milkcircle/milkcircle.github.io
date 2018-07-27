@@ -1,0 +1,55 @@
+---
+layout: post
+title: Digoxin 
+date: 2018-04-22 12:00:00 -0700
+categories: explanatory 
+math: true
+comments: true
+author: Aaron
+---
+Inotropes are medications that help the heart to operate at higher capacity by increasing the force of ventricular contraction. This causes the Frank-Starling curve to shift upward toward normal, so that at any left ventricular end-diastolic pressure, the cardiac output is greater. Here I describe the actions of **digoxin**, a previously popular inotrope that has fallen out of favor to other inotropic drugs.
+
+Mechanism
+===
+![Mechanism -- from *Pathophysiology of Heart Disease, 5th edition. Lilly et. al.*](../images/digoxin_mechanism.png)
+
+The **mechanical effect** of digoxin is described below.
+
+1. Digoxin inhibits the Na/K ATPase, leading to an increase in intracellular Na+.
+2. This drives the Na/Ca exchanger, preventing calcium from exiting the cell.
+3. The increased intracellular calcium gets stored in the sarcoplasmic reticulum.
+4. When an action potential arrives, an elevated concentration of calcium is released from the sarcoplasmic reticulum and interacts with contractile elements to intensify the force of contraction.
+
+Digoxin also has an **electrical** effect at the atrioventicular node.
+
+1. Digoxin slows conduction velocity at the AV node and increases refractoriness.
+2. Digoxin also enhances vagal tone and reduces sympathetic activity.
+
+Digoxin can, however, have **toxic effects** that lead to arrhythmias. It does this through 3 important actions at *high doses*.
+
+1. Less negative resting potential, which slows phase 0 depolarization heterogeneously among conduction cells, enhancing the risk of reentrant arrhythmias.
+2. Decreased action potential duration, which shortens the refractory period and allows for greater opportunity for propagation of arrhtyhmic impulses.
+3. Enhanced automaticity, through 1) a less negative resting potential even in nonpacemaker cells, and 2) delayed afterdepolarizations leading to ectopic beats.
+
+Indirect vagal effects can also cause high degrees of AV block.
+
+Uses
+===
+When do we use digoxin today?
+
+1. CHF complicated by atrial fibrillation (since it also slows the ventricular rate)
+2. When symptoms do not respond adequately to ACE inhibitors, beta blockers, and diuretics.
+
+Importantly, *digoxin does not prolong life expectancy of patients with chronic heart failure*.
+
+Pharmacokinetics and toxicity
+===
+Digoxin is excreted by the kidneys, and requires loading doses (an initially higher dose of a drug) to achieve therapeutic concentrations. Digoxin may act on the area postrema of the brain to induce nausea. Digoxin can also cause arrhythmias, heart blocks, and tachycardias.
+
+In patients with hypokalemia, hypomagnesemia, and hypercalcemia, digitalis toxicity should be monitored. Administering with amniodarone can also raise serum digoxin concentration through changes in digoxin clearance.
+
+Treatment of digoxin toxicity includes potassium repletion and IV lidocaine for digoxin-triggered arrhythmias. High-grade AV block could be an indication for pacemaker therapy. For severe intoxication, anti-digoxin antibodies may be useful.
+
+Summary
+===
+![Summary slide](../images/digoxin_summary.png)
