@@ -39,7 +39,7 @@ plink
 	plink --vcf sampleVCF.vcf --double-id --make-bed --out {output}
 	~~~
 
-	Note that the $$\texttt{--double-id}$$ flag is used so that both the family and within-family IDs are set to the sample ID. $$\texttt{--make-bed}$$ creates a new PLINK binary fileset, and $$\texttt{out}$$ determines the name of the output file.
+	Note that the $$\texttt{--double-id}$$ flag is used so that both the family and within-family IDs are set to the sample ID. $$\texttt{--make-bed}$$ creates a new PLINK binary fileset, and $$\texttt{--out}$$ determines the name of the output file.
 
 2. **PED files**
 
