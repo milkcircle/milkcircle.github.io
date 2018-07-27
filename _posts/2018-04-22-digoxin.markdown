@@ -52,4 +52,4 @@ Treatment of digoxin toxicity includes potassium repletion and IV lidocaine for 
 
 Summary
 ===
-![Summary](../images/digoxin_summary.png)
+![Summary]({{ site.url }}/images/digoxin_summary.png)
