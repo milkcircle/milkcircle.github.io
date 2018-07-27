@@ -5,10 +5,6 @@ permalink: /bits/
 ---
 Short notes for myself on various topics (to be separated into pages once this document gets too long).
 
-Molecular biology
-===
-1. Polysomal profiling
-
 BASH
 ===
 1. **Running a job on UGER**
@@ -37,7 +33,7 @@ Applied Mathematics
 plink
 ===
 
-1. vcf to plink format
+1. **vcf to plink format**
 
 	~~~ bash
 	plink --vcf sampleVCF.vcf --double-id --make-bed --out {output}
@@ -45,7 +41,9 @@ plink
 
 	Note that the $$\texttt{--double-id}$$ flag is used so that both the family and within-family IDs are set to the sample ID. $$\texttt{--make-bed}$$ creates a new PLINK binary fileset, and $$\texttt{out}$$ determines the name of the output file.
 
-2. Using plink for principal component analysis (*in progress*)
+2. **PED files**
+
+3. **Using plink for principal component analysis (*in progress*)**
 
 	Prune the .vcf first.
 	~~~ bash
@@ -84,4 +82,18 @@ plink
 	Now, we use plink to compute principal components.
 	~~~ bash
 	plink --vcf sampleVCF.vcf.gz --extract sampleVCF_clean.prune.in --remove related_samples.txt --pca var-wts -out sampleVCF_clean
+	~~~
+
+R
+===
+1. **Subsetting columns from matrices by value**
+	
+	~~~ R
+	subset_matrix = subset(large_matrix, select=c("value1", "value2", ...))
+	~~~
+
+2. **Writing matrices to files**
+
+	~~~ R
+	write.table(sample_matrix, file="sample_file.txt", row.names=FALSE, col.names=FALSE)
 	~~~
