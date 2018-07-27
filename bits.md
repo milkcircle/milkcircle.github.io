@@ -34,9 +34,18 @@ Deriving the new dataset simply involves $$X' = F\times X^T$$, where $$F$$ repre
 
 Reconstructing the original data from our feature vector: $$X'' = (F^T \times X') + \overline{X}$$.
 
-Genetics
+plink
 ===
-1. **Using PLINK2 for PCA of large .vcf**
+
+1. vcf to plink format
+
+~~~ bash
+plink --vcf sampleVCF.vcf --double-id --make-bed --out {output}
+~~~
+
+Note that the $$\texttt{--double-id}$$ flag is used so that both the family and within-family IDs are set to the sample ID. $$\texttt{--make-bed}$$ creates a new PLINK binary fileset, and $$\texttt{out}$$ determines the name of the output file.
+
+2. Using plink for principal component analysis (*in progress*)
 
 Prune the .vcf first.
 ~~~ bash
@@ -77,6 +86,5 @@ Now, we use plink to compute principal components.
 plink --vcf sampleVCF.vcf.gz --extract sampleVCF_clean.prune.in --remove related_samples.txt --pca var-wts -out sampleVCF_clean
 ~~~
 
-
-2. **VCFtools**
+2. 
 
