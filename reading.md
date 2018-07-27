@@ -13,6 +13,9 @@ Genetics
 2. 02/2017 -- Cardiovascular polygenic risk score ([paper](../download/201702_prs_cardiovascular.pdf)).
 	*Natarajan, et. al.* describe developing a polygenic risk score from 57 SNPs which predicted additional benefit from statin therapy. This study demonstrated several important points. 1) Statins confer a greater risk reduction in those patients at high genetic risk, determined by the polygenic risk score. Interestingly this group does not on average have higher LDL levels compared to lower genetic risk subgroups. 2) Asymptomatic individuals with no history of coronary heart disease have higher burden of subclinical atherosclerosis with higher PRS. The PRS only incorporates common genetic variation but is not validated in patients with familial hypercholesterolemia.
 
+3. 03/2017 -- Rare and common variants in LPL associated with coronary artery disease ([paper](../download/201703_rare_common_cvd.pdf)).
+	*Khera, et. al.*
+
 Hematology
 ===
 1. 07/2018 -- CRIPSR screen identifies HRI as fetal globin regulator ([paper](../download/201807_hri_crispr.pdf)). 
