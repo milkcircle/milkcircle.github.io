@@ -11,7 +11,7 @@ Inotropes are medications that help the heart to operate at higher capacity by i
 
 Mechanism
 ===
-![Mechanism -- from *Pathophysiology of Heart Disease, 5th edition. Lilly et. al.*](../../images/digoxin_mechanism.png)
+![Mechanism -- from *Pathophysiology of Heart Disease, 5th edition. Lilly et. al.*]({{ site.url }}/images/digoxin_mechanism.png)
 
 The **mechanical effect** of digoxin is described below.
 
