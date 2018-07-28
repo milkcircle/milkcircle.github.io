@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Potential
-date: 2018-07-14 12:00:00 -0700
+date: 2018-07-01 12:00:00 -0700
 categories: poetry 
 math: true
 comments: true
