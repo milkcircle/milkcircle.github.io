@@ -44,24 +44,24 @@ Applied Mathematics
 	power_vector = vector(,length(loop_vector))
 
 	test_sin <- function(x){
-  		1*sin(twopi*1000*x) + 3*sin(twopi*2000*x) + 5*sin(twopi*3000*x)
+  	  1*sin(twopi*1000*x) + 3*sin(twopi*2000*x) + 5*sin(twopi*3000*x)
 	}
 
 	power_spectrum <- function(FUN){
-  		for(f in 1:length(loop_vector))
-  		{
-    		e = loop_vector[f]
-    		realf = 0
-    		imagef = 0
-    		temp_arg = twopi * e * TimeInterval
-    		for (i in 1:NPTS)
-    		{
-      			realf = realf + FUN(i) * cos(temp_arg*i)
-      			imagef = imagef + FUN(i) * sin(temp_arg*i)
-    		}
-    	power_vector[f] <- realf ** 2 + imagef ** 2
-  		}
-  	plot(power_vector)
+  	  for(f in 1:length(loop_vector))
+  	  {
+        e = loop_vector[f]
+        realf = 0
+        imagef = 0
+        temp_arg = twopi * e * TimeInterval
+        for (i in 1:NPTS)
+        {
+      	  realf = realf + FUN(i) * cos(temp_arg*i)
+      	  imagef = imagef + FUN(i) * sin(temp_arg*i)
+        }
+        power_vector[f] <- realf ** 2 + imagef ** 2
+  	  }
+  	  plot(power_vector)
 	}
 	~~~
 
