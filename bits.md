@@ -2,6 +2,7 @@
 layout: page
 title: Bits
 permalink: /bits/
+order: 3
 ---
 Short notes for myself on various topics (to be separated into pages once this document gets too long).
 
