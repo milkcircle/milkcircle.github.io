@@ -2,7 +2,7 @@
 layout: page
 title: Reading
 permalink: /reading/
-order: 4
+order: 3
 ---
 Below is a growing collection of medical literature I have read along with some summary thoughts.
 
