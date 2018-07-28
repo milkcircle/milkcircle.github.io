@@ -17,6 +17,40 @@ BASH
     cd $LOCATION
     ~~~
 
+    Now we are in the interactive shell.
+
+    ~~~ bash
+    use UGER
+    qsub {/path/to/job_script}
+    ~~~
+
+    The default settings at the Broad are as follows:
+    * Memory: 1G
+    * Runtime: 2h
+    * OS: RedHat6
+    * Cores: 1 core
+
+    You can use flags to modify $$\texttt{qsub}$$.
+    ~~~ bash
+    # The following runs for 12 hours, 34 min, 56 sec.
+    qsub -l h_rt=12:34:56 {/path/to/job_script}
+
+    # The following accesses 12G of memory.
+    qsub -l h_vmem=12G {/path/to/job_script}
+
+    # The following requests 4 cores and 8G memory (simply requested memory multiplied by number of cores). Use the pe and binding flags.
+    qsub -pe smp 4 -binding linear:4 -l h_vmem=2G {/path/to/job_script}
+
+    # Execute the job as a binary.
+    qsub -b y command
+
+    # Name the job "someName".
+    qsub -N someName {/path/to/job_script}
+
+    # Determine the output of the job.
+    qsub -o /path/to/output {/path/to/job_script}
+    ~~~ 
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
