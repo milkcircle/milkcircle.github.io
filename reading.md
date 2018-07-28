@@ -14,7 +14,7 @@ Genetics
 	*Natarajan, et. al.* describe developing a polygenic risk score from 57 SNPs which predicted additional benefit from statin therapy. This study demonstrated several important points. 1) Statins confer a greater risk reduction in those patients at high genetic risk, determined by the polygenic risk score. Interestingly this group does not on average have higher LDL levels compared to lower genetic risk subgroups. 2) Asymptomatic individuals with no history of coronary heart disease have higher burden of subclinical atherosclerosis with higher PRS. The PRS only incorporates common genetic variation but is not validated in patients with familial hypercholesterolemia.
 
 3. 03/2017 -- Rare and common variants in LPL associated with coronary artery disease ([paper](../download/201703_rare_common_cvd.pdf)).
-	*Khera, et. al.*
+	*Khera, et. al.* sequenced the protein-coding regions of lipoprotein lipase from several case-control cohorts to characterize rare damaging mutations within *LPL*. Interestingly, heterozygous LPL deficiency was correlated with early-onset CAD, possibly due to impaired lipolysis of triglyceride-rich lipoproteins that penetrate directly into the arterial wall. The authors also performed common variant analysis and characterized an odds ratio of 1.51 for CAD with common *LDL* locus variants. Importantly, this study has limitations characteristic of those involving variant annotations; specifically, the authors used prediction algorithms (LRT score, MutationTaster, PolyPhen-2 HumDiv, PolyPhen-2 HumVar, and SIFT), and did not functionally validate rare missense variants -- this allows for the possibility ofimpact severity misclassification.
 
 Hematology
 ===
