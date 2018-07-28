@@ -7,7 +7,7 @@ math: true
 comments: true
 author: Aaron
 ---
-Two television networks, Network A and Network B, each have a set of $$n$$ television shows. Each television show $$A_1 \ldots A_n and B_1 \ldots B_n/$$ has its own rating, and no two shows share the same rating. There are $$n$$ programming slots, each of which can accomodate a single television show. Network A and Network B both wish to maximize the number of shows they are able to schedule into these slots. A network wins a slot if the show it schedules for that slot has a higher rating than the show the other network proposes for that slot.
+Two television networks, Network A and Network B, each have a set of $$n$$ television shows. Each television show $$A_1 \ldots A_n$$ and $$B_1 \ldots B_n$$ has its own rating, and no two shows share the same rating. There are $$n$$ programming slots, each of which can accomodate a single television show. Network A and Network B both wish to maximize the number of shows they are able to schedule into these slots. A network wins a slot if the show it schedules for that slot has a higher rating than the show the other network proposes for that slot.
 
 A pair of proposed schedules $$(A, B)$$ is stable if neither network can unilaterally change their proposed schedule to win more time slots.
 
