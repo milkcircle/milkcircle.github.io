@@ -22,3 +22,7 @@ Hematology
 	*Grevet, et. al.* developed a CRISPR-Cas9 screen to target protein kinases, which theoretically are easier to target by small molecules. They identified the heme-regulated inhibitor HRI (a.k.a. EIF2AK1) as an inducer of HbF, and found that although HRI has been shown previously to play a role in global translation, the elevation of HbF was remarkably specific. In follow-up experiments, they used short-hairpin RNA to knock down HRI and demonstrated 1) reproducible HbF elevations, 2) diminished sickling of CD34$$^+$$ HbSS cells, 3) decreased BCL11A protein expression with HRI knockdown, and 4) unimpaired erythrocyte maturation with HRI knockdown. This evidence points toward HRI as a potential target for HbF induction and characterizes HRI as a potential upstream player of the BCL11A pathway. However, importantly HRI has a role in global protein translation, which may make clinical translation difficult. Furthermore, HRI$$^{-/-}$$ mice have been previously shown to display impaired adaptation to iron deficiency, and had phenotypes of thalassemia.
 
 2. 04/2018 -- NETs promote thrombosis in MPNs ([paper](../download/201804_nets_mpn_thrombosis.pdf)).
+
+Critical Care
+===
+1. 06/2018 -- *(review)* Upper GI bleed prophylaxis in hospitalized patients ([paper](../download/201806_gi_ppx_review.pdf)).
