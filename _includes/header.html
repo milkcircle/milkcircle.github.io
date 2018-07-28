@@ -28,9 +28,7 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}-->
           {% assign sorted_pages = site.pages | sort:"order" | where: "path", path | first %}
-          {% for node in sorted_pages %}
-              <a class="page-link" href="{{ node.url | relative_url }}">{{ node.title | escape }}</a>
-          {% endfor %}
+              <a class="page-link" href="{{ sorted_pages.url | relative_url }}">{{ node.title | escape }}</a>
 
           {% endfor %}
         </div>
