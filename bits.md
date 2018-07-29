@@ -25,11 +25,12 @@ BASH
     ~~~
 
     The default settings at the Broad are as follows:
+
     * Memory: 1G
     * Runtime: 2h
     * OS: RedHat6
-    * Cores: 1 core
-
+    * Cores: 1 core  
+  
     You can use flags to modify $$\texttt{qsub}$$.
     ~~~ bash
     # The following runs for 12 hours, 34 min, 56 sec.
@@ -50,6 +51,8 @@ BASH
     # Determine the output of the job.
     qsub -o /path/to/output {/path/to/job_script}
     ~~~ 
+
+    Further documentation on Grid Engine found [here](UsersGuideGE.pdf).
 
 Applied Mathematics
 ===
@@ -151,16 +154,12 @@ plink
 	The result should resemble something like this:
 	![IBD](../images/IBD_plot.png)
 
-	We'll pick one sample from each closely-related pair to exclude, and record the related samples for later input into plink.
-	~~~ R
-	exclusions = ibd[ ibd$PI_HAT > 0.2, c('FID2','IID2')]
-	write.table( unique(exclusions), file="related_samples.txt", col.names = F, row.names = F, quote = F)
-	~~~
-
 	Now, we use plink to compute principal components.
 	~~~ bash
-	plink --vcf sampleVCF.vcf.gz --extract sampleVCF_clean.prune.in --remove related_samples.txt --pca var-wts -out sampleVCF_clean
+	plink --vcf {sampleVCF.vcf.gz} --extract {sampleVCF_clean.prune.in} --pca var-wts -out sampleVCF_clean
 	~~~
+
+
 
 R
 ===
@@ -174,4 +173,10 @@ R
 
 	~~~ R
 	write.table(sample_matrix, file="sample_file.txt", row.names=FALSE, col.names=FALSE)
+	~~~
+
+3. **Reading RDS files**
+
+	~~~ R
+	readRDS("Path/to/RDS.rds")
 	~~~
