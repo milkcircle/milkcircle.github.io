@@ -227,6 +227,12 @@ BCFtools
 	bcftools isec -p dir -n=2 -w1 a.vcf.gz b.vcf.gz
 	~~~
 
+2. **Subsetting by chromosome**
+
+	~~~ bash
+	bcftools view -r 1 -O z -o chr1.vcf.gz
+	~~~
+
 R
 ===
 1. **Subsetting columns from matrices by value**
