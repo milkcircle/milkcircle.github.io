@@ -9,7 +9,7 @@ BASH
 ===
 1. **Running a job on UGER**
 
-    {% highlight bash %}
+    {% highlight shell %}
     ssh login
     use UGER
     ish
@@ -18,7 +18,7 @@ BASH
 
     Now we are in the interactive shell.
 
-    {% highlight bash %}
+    {% highlight shell %}
     use UGER
     qsub {/path/to/job_script}
     {% endhighlight %}
