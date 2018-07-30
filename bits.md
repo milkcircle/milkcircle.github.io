@@ -9,19 +9,19 @@ BASH
 ===
 1. **Running a job on UGER**
 
-    ~~~ bash
+    {% highlight bash %}
     ssh login
     use UGER
     ish
     cd $LOCATION
-    ~~~
+    {% endhighlight %}
 
     Now we are in the interactive shell.
 
-    ~~~ bash
+    {% highlight bash %}
     use UGER
     qsub {/path/to/job_script}
-    ~~~
+    {% endhighlight %}
 
     The default settings at the Broad are as follows:
 
@@ -31,7 +31,8 @@ BASH
     * Cores: 1 core  
   
     You can use flags to modify $$\texttt{qsub}$$.
-    ~~~ bash
+
+    {% highlight bash %}
     # The following runs for 12 hours, 34 min, 56 sec.
     qsub -l h_rt=12:34:56 {/path/to/job_script}
 
@@ -49,7 +50,7 @@ BASH
 
     # Determine the output of the job.
     qsub -o /path/to/output {/path/to/job_script}
-    ~~~ 
+    {% endhighlight %}
 
     Further documentation on Grid Engine found [here](UsersGuideGE.pdf).
 
@@ -71,7 +72,7 @@ Applied Mathematics
 
 	A quick implementation of a power spectrum in $$\texttt{R}$$. Briefly, this function takes as input a complex waveform, then outputs the amount of energy at each frequency, and plots the power vs. frequency.
 
-	~~~ R
+	{% highlight R %}
 	TimeInterval = 0.01
 	MAXF = 1/(2*TimeInterval)
 	NPTS = 10
@@ -100,16 +101,16 @@ Applied Mathematics
   	  }
   	  plot(power_vector)
 	}
-	~~~
+	{% endhighlight %}
 
 plink
 ===
 
 1. **vcf to plink format**
 
-	~~~ bash
+	{% highlight bash %}
 	plink --vcf sampleVCF.vcf --double-id --make-bed --out {output}
-	~~~
+	{% endhighlight %}
 
 	Note that the $$\texttt{--double-id}$$ flag is used so that both the family and within-family IDs are set to the sample ID. $$\texttt{--make-bed}$$ creates a new PLINK binary fileset, and $$\texttt{--out}$$ determines the name of the output file.
 
@@ -117,46 +118,46 @@ plink
 
 	Our goal here is to remove correlated pairs of SNPs so the remaining SNPs are roughly independent. To do this, run the following command:
 
-	~~~ bash
+	{% highlight bash %}
 	plink --vcf {sampleVCF.vcf.gz} --maf 0.01 --indep-pairwise 50 5 0.2 --out {sampleVCF_clean}
-	~~~
+	{% endhighlight %}
 
 	This leaves SNPs with minor allele frequency of at least 1%, with no pairs remaining with $$r^2 > 0.2$$. 
 
 3. **Using plink for principal component analysis (*in progress*)**
 
 	Prune the .vcf first.
-	~~~ bash
+	{% highlight bash %}
 	use PLINK2
 	plink --vcf sampleVCF.vcf.gz --maf 0.01 --indep-pairwise 50 5 0.2 --out sampleVCF_clean
-	~~~
+	{% endhighlight %}
 
 	Calculate identity by descent.
-	~~~ bash
+	{% highlight bash %}
 	plink --vcf sampleVCF.vcf.gz --genome gz --out sampleVCF_clean --extract sampleVCF_clean.prune.in
-	~~~
+	{% endhighlight %}
 
 	The output should contain sampleVCF-clean.genome.gz, which can be imported into R for visualization. 
 
 	In RStudio, we can plot the file to visualize relatedness by doing the following:
-	~~~ R
+	{% highlight R %}
 	ibd <- read.table("sampleVCF_clean.genome.gz", hea=T, as.is=T)
 	View(ibd)
 	hist (ibd$PI_HAT, breaks = 100)
-	~~~
+	{% endhighlight %}
 
 	To zoom in along the y-axis you can run the following line:
-	~~~ R
+	{% highlight R %}
 	hist ( ibd$PI_HAT, breaks = 100, ylim = c(0,1000))
-	~~~
+	{% endhighlight %}
 
 	The result should resemble something like this:
 	![IBD](../images/IBD_plot.png)
 
 	Now, we use plink to compute principal components.
-	~~~ bash
+	{% highlight bash %}
 	plink --vcf {sampleVCF.vcf.gz} --extract {sampleVCF_clean.prune.in} --pca var-wts -out sampleVCF_clean
-	~~~
+	{% endhighlight %}
 
 
 
@@ -164,18 +165,18 @@ R
 ===
 1. **Subsetting columns from matrices by value**
 	
-	~~~ R
+	{% highlight R %}
 	subset_matrix = subset(large_matrix, select=c("value1", "value2", ...))
-	~~~
+	{% endhighlight %}
 
 2. **Writing matrices to files**
 
-	~~~ R
+	{% highlight R %}
 	write.table(sample_matrix, file="sample_file.txt", row.names=FALSE, col.names=FALSE)
-	~~~
+	{% endhighlight %}
 
 3. **Reading RDS files**
 
-	~~~ R
+	{% highlight R %}
 	readRDS("Path/to/RDS.rds")
-	~~~
+	{% endhighlight %}
