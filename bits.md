@@ -198,6 +198,7 @@ Ancestry mapping
 	Now we're ready to compute our principal components.
 	~~~ bash
 	plink --vcf mergedsamples.vcf.gz --extract SAMPLE_clean.prune.in --pca var-wts --out mergedsamples
+	~~~
 
 	This creates $$\texttt{mergedsamples.eigenvec}$$ (along with several other files) which contains our principal components.
 
