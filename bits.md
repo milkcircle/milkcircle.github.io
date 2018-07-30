@@ -136,39 +136,49 @@ plink
 
 	This leaves SNPs with minor allele frequency of at least 1%, with no pairs remaining with $$r^2 > 0.2$$. 
 
-3. **Using plink for principal component analysis (*in progress*)**
+Ancestry mapping
+===
+1. **LD pruning**
 
-	Prune the .vcf first.
+	Begin with $$\texttt{SAMPLE.vcf.gz}$$ (our compressed variant call file) and $$\texttt{SAMPLE.vcf.gz.tbi}$$ (our index file for the variant call file). Using plink we will prune the $$\texttt{.vcf.gz}$$ by removing SNPs that are in linkage disequilibrium. *Note that in this example,* $$\texttt{SAMPLE.vcf.gz}$$ includes variants from a single East Asian country so is expected to be homogeneous; therefore, we can probably skip the removal of individuals who have inheritance by descent as we would normally do otherwise.
+
 	~~~ bash
 	use PLINK2
-	plink --vcf sampleVCF.vcf.gz --maf 0.01 --indep-pairwise 50 5 0.2 --out sampleVCF_clean
+	plink --vcf SAMPLE.vcf.gz --maf 0.01 --indep-pairwise 50 5 0.2 --out SAMPLE_clean
 	~~~
 
-	Calculate identity by descent.
+	The output should be a set of files with the prefix $$\texttt{SAMPLE_clean.\*}$$.
+
+2. **Downloading 1000genomes project**
+
+	We want to compare our sample against the 1000 genome project. To do this we will need the $$\texttt{.vcf.gz}$$ from the 1000 genome project (henceforth called 1000g). 
+
 	~~~ bash
-	plink --vcf sampleVCF.vcf.gz --genome gz --out sampleVCF_clean --extract sampleVCF_clean.prune.in
+	prefix="ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr" ;
+	suffix=".phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz" ;
+	for chr in {1..22} X; do
+    	wget $prefix$chr$suffix $prefix$chr$suffix.tbi ;
+	done
 	~~~
 
-	The output should contain sampleVCF-clean.genome.gz, which can be imported into R for visualization. 
+	This will take some time, but by the end of running this script we will end up with all chromosomes from the 1000g project (the $$\texttt{.vcf.gz}$$ and $$\texttt{vcf.gz.tbi}$$) files.
 
-	In RStudio, we can plot the file to visualize relatedness by doing the following:
+	Before we merge these all together, the following procedure will use a single chromosome to save on time. Once we can verify that these work, then we can go ahead with the whole genome which will be much more time-intensive.
+
+	
+
+
+
+
+
+BCFtools
+===
+1. **Intersection**
+
+	Given a.vcf.gz and b.vcf.gz, identify those variants that are shared by both and output those lines from a.vcf.gz.
+
 	~~~ R
-	ibd <- read.table("sampleVCF_clean.genome.gz", hea=T, as.is=T)
-	View(ibd)
-	hist (ibd$PI_HAT, breaks = 100)
-	~~~
-
-	To zoom in along the y-axis you can run the following line:
-	~~~ R
-	hist ( ibd$PI_HAT, breaks = 100, ylim = c(0,1000))
-	~~~
-
-	The result should resemble something like this:
-	![IBD](../images/IBD_plot.png)
-
-	Now, we use plink to compute principal components.
-	~~~ bash
-	plink --vcf {sampleVCF.vcf.gz} --extract {sampleVCF_clean.prune.in} --pca var-wts -out sampleVCF_clean
+	bcftools isec -p dir -n=2 -w1 a.vcf.gz b.vcf.gz
 	~~~
 
 R
