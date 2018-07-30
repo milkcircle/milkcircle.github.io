@@ -9,12 +9,14 @@ BASH
 ===
 1. **Running a job on UGER**
 
+    {% raw %}
     {% highlight shell %}
     ssh login
     use UGER
     ish
     cd $LOCATION
     {% endhighlight %}
+    {% raw %}
 
     Now we are in the interactive shell.
 
