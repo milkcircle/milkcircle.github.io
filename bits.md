@@ -50,7 +50,20 @@ BASH
 
     # Determine the output of the job.
     qsub -o /path/to/output {/path/to/job_script}
+
+    # Kill a job.
+    qdel {jobID}
     ~~~ 
+
+    For some reason, you can't $$\texttt{use}$$ packages easily on UGER. Therefore, you need to add the following lines to the beginning of the script for things to run smoothly without error:
+
+    ~~~ bash
+    #!/bin/bash -l
+
+    # The following example is if I want to use Bcftools.
+	source /broad/software/scripts/useuse;
+	reuse -q Bcftools;
+    ~~~
 
     Further documentation on Grid Engine found [here](UsersGuideGE.pdf).
 
