@@ -9,21 +9,19 @@ BASH
 ===
 1. **Running a job on UGER**
 
-    {% raw %}
-    {% highlight shell %}
+	~~~ bash
     ssh login
     use UGER
     ish
     cd $LOCATION
-    {% endhighlight %}
-    {% raw %}
+    ~~~
 
     Now we are in the interactive shell.
 
-    {% highlight shell %}
+    ~~~ bash
     use UGER
     qsub {/path/to/job_script}
-    {% endhighlight %}
+    ~~~
 
     The default settings at the Broad are as follows:
 
