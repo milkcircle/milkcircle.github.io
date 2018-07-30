@@ -165,11 +165,57 @@ Ancestry mapping
 
 	Before we merge these all together, the following procedure will use a single chromosome to save on time. Once we can verify that these work, then we can go ahead with the whole genome which will be much more time-intensive.
 
-	
+3. **Merge SAMPLE and 1000g**
 
+	We want to create a merged dataset. To do this we will need to use $$\texttt{Bcftools}$$.
 
+	First, we want two files. $$\texttt{SAMPLEsubset.vcf}$$ will be those records from $$\texttt{SAMPLE.vcf.gz}$$ which are also present in $$\texttt{1000g.vcf.gz}$$. We also want $$\texttt{1000subset.vcf.gz}$$ which will be those records from $$\texttt{1000g.vcf.gz}$$ that are present in $$\texttt{SAMPLEsubset.vcf.gz}$$.
 
+	~~~ bash
+	use Bcftools
 
+	# Creating SAMPLEsubset
+	bcftools isec -p dir -n=2 -w1 SAMPLE.vcf.gz 1000g.vcf.gz
+	mv dir/0000.vcf SAMPLEsubset.vcf
+	rm -r dir/
+	bgzip SAMPLEsubset.vcf
+	tabix SAMPLEsubset.vcf.gz
+
+	# Creating 1000subset
+	bcftools isec -p dir -n=2 -w1 1000g.vcf.gz SAMPLEsubset.vcf.gz
+	mv dir/0000.vcf 1000subset.vcf.gz
+	rm -r dir/
+	bgzip 1000subset.vcf
+	tabix 1000subset.vcf.gz
+	~~~
+
+	Next, we want to merge these together so that there are columns for all of the individuals within the 1000g and our sample as well. 
+
+	~~~ bash
+	bcftools merge -o mergedsamples.vcf.gz 1000subset.vcf.gz SAMPLEsubset.vcf.gz
+	~~~
+
+	Now we're ready to compute our principal components.
+	~~~ bash
+	plink --vcf mergedsamples.vcf.gz --extract SAMPLE_clean.prune.in --pca var-wts --out mergedsamples
+
+	This creates $$\texttt{mergedsamples.eigenvec}$$ (along with several other files) which contains our principal components.
+
+	To visualize these principal components, open $$\texttt{RStudio}$$ and perform the following commands.
+
+	~~~ R
+	pcs = read.table("mergedsamples.eigenvec")
+	~~~
+
+	Note that each row in $$\texttt{pcs}$$ is an individual. Identify the point up to which the individuals from the 1000g cohort ends and the sample cohort begins, and call this $$n$$. Let the number of rows in $$\texttt{pcs}$$ be $$m$$.
+
+	~~~ R
+	pcs1000g = pcs[1:n,]
+	plot(pcs1000g[,3], pcs1000g[,4], xlab = "PC1", ylab = "PC2")
+
+	# Overlay the sample individuals on this principal component graph, and make the individual points yellow.
+	points(pcs[n:m,3], pcs[n:m,4], col="yellow")
+	~~~
 
 BCFtools
 ===
