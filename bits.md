@@ -221,7 +221,7 @@ BCFtools
 ===
 1. **Intersection**
 
-	Given a.vcf.gz and b.vcf.gz, identify those variants that are shared by both and output those lines from a.vcf.gz.
+	Given $$\texttt{a.vcf.gz}$$ and $$\texttt{b.vcf.gz}$$, identify those variants that are shared by both and output those lines from $$\texttt{a.vcf.gz}$$.
 
 	~~~ R
 	bcftools isec -p dir -n=2 -w1 a.vcf.gz b.vcf.gz
