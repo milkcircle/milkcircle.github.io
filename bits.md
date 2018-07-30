@@ -105,7 +105,6 @@ Applied Mathematics
 
 plink
 ===
-
 1. **vcf to plink format**
 
 	{% highlight bash %}
@@ -158,8 +157,6 @@ plink
 	{% highlight bash %}
 	plink --vcf {sampleVCF.vcf.gz} --extract {sampleVCF_clean.prune.in} --pca var-wts -out sampleVCF_clean
 	{% endhighlight %}
-
-
 
 R
 ===
