@@ -192,7 +192,25 @@ Ancestry mapping (attempt 2)
 	A representative plot is shown below.
 	![]({{ site.url }}/images/step5_sexcheck.png)
 
-3. 
+3. Interpreting missingness
+	
+	~~~ R
+	# missingi will contain all individuals and their percent missingness.
+	# missingl will contain all variants and their percent missingness.
+	missingi <- read.table("missing.imiss", header = F, stringsAsFactors = F)
+	missingl <- read.table("missing.lmiss", header = F, stringsAsFactors = F)
+
+	# plot missingi
+	ggplot(missingi, aes(x = 1- F_MISS)) + geom_histogram(bins = 50) + xlim(.95, 1)
+	
+	# plot missingl
+	ggplot(missingl, aes(x = 1- F_MISS)) + geom_histogram(bins = 50) + xlim(.9, 1)
+	~~~
+
+	Above, we plot $$\texttt{1-F_MISS}$$ as a histogram with 50 bins and the axis ranging from 0.95 to 1 (or 0.9 to 1 in the case of $$\texttt{missingl}$$.)
+
+	These plots can give us an easier visual way of determining which thresholds to set, for our $$\texttt{geno}$$ and $$\texttt{mind}$$ options.
+
 
 Ancestry mapping (attempt 1)
 ===
