@@ -149,13 +149,17 @@ Ancestry mapping (attempt 2)
 	# Convert vcf to plink format.
 	plink --vcf SAMPLE.vcf --out step1
 
-	# Tell plink to keep only those samples which are genotyped properly, and output as a .bed file, which is faster to process with plink.
+	# Tell plink to keep only those samples which are genotyped properly, and 
+	# output as a .bed file, which is faster to process with plink.
 	plink --bfile step1 --keep SAMPLE.txt --make-bed --out step2_sub_samples
 	
-	# Determine the percentage of missing SNP data per sample. These are output in missing.imiss. There is also a file called missing.lmiss which is the percentage of each variant being called.
+	# Determine the percentage of missing SNP data per sample. These are output in 
+	# missing.imiss. There is also a file called missing.lmiss which is the 
+	# percentage of each variant being called.
 	plink --bfile step2_sub_samples --missing
 
-	# Screen out variants for which >0.05% of individuals were not called at that variant.
+	# Screen out variants for which >0.05% of individuals were not called at that 
+	# variant.
 	plink --bfile step2_sub_samples --geno 0.05 --make-bed --out step3_miss_snps
 
 	# Screen out samples for which >0.02% of the variants were not called.
