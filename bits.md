@@ -169,6 +169,27 @@ Ancestry mapping (attempt 2)
 	plink --bfile step4_miss_indiv --check-sex
 	~~~
 
+	Now we can generate some graphs with our data in R.
+
+2. Plotting sex checks
+
+	~~~ R
+	# Read in the plink .sexcheck file.
+	sexcheck <- read.table("plink.sexcheck", stringsAsFactors = F, header = T)
+	~~~
+
+	In the snippet above, $$\texttt{stringsAsFactors}$$ is a modifier that determines whether a string in a dataframe should be treated as a categorical variable or a true string of characters. This field defaults to $$\texttt{TRUE}$$ but in most cases should be set to $$\texttt{FALSE}$$. The $$\texttt{header}$$ field treats the first row as the column label.
+
+	To plot:
+	
+	~~~ R
+	require(ggplot2)
+	ggplot(sexcheck[sexcheck$F > 0,], aes(SNPSEX, F)) + geom_jitter(aes(color = as.factor(PEDSEX)))
+	~~~ 
+
+	The above line says to plot $$\texttt{sexcheck}$$ where the field $$\texttt{F}>0$$, with the x-axis as the $$\texttt{SNPSEX}$$ value and the y-axis as the $$\texttt{F}$$ value. We add in something called a jitter in order to spread the data out with a little bit of noise so that we can more easily visualize the spread of data points. We color each point depending on the value of $$\texttt{PEDSEX}$$, which we treat as a categorical variable here.
+
+	
 
 
 Ancestry mapping (attempt 1)
