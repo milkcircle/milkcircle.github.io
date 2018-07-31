@@ -1,0 +1,10 @@
+picture_path: food
+pictures:
+- filename: salmon_flatbread.jp
+  original: salmon_flatbread.jp-4032x2268.jpg
+  sizes: []
+  thumbnail: salmon_flatbread.jp-4032x2268.jpg
+- filename: nyc_ramen.jp
+  original: nyc_ramen.jp-4032x2268.jpg
+  sizes: []
+  thumbnail: nyc_ramen.jp-4032x2268.jpg
