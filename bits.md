@@ -189,8 +189,10 @@ Ancestry mapping (attempt 2)
 
 	The above line says to plot $$\texttt{sexcheck}$$ where the field $$\texttt{F}>0$$, with the x-axis as the $$\texttt{SNPSEX}$$ value and the y-axis as the $$\texttt{F}$$ value. We add in something called a jitter in order to spread the data out with a little bit of noise so that we can more easily visualize the spread of data points. We color each point depending on the value of $$\texttt{PEDSEX}$$, which we treat as a categorical variable here.
 
-	
+	A representative plot is shown below.
+	![]({{ site.url }}/images/step5_sexcheck.png)
 
+3. 
 
 Ancestry mapping (attempt 1)
 ===
