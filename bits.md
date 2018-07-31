@@ -136,7 +136,38 @@ plink
 
 	This leaves SNPs with minor allele frequency of at least 1%, with no pairs remaining with $$r^2 > 0.2$$. 
 
-Ancestry mapping
+Ancestry mapping (attempt 2)
+===
+1. Quality control of SAMPLE genotypes
+
+	Make a $$\texttt{.txt}$$ file which contains a list of useful samples (i.e. those which were properly genotyped). We will select from our $$\texttt{.vcf.gz}$$ those samples with the following code.
+
+	~~~ bash
+	# We will be using plink.
+	use PLINK2
+
+	# Convert vcf to plink format.
+	plink --vcf SAMPLE.vcf --out step1
+
+	# Tell plink to keep only those samples which are genotyped properly, and output as a .bed file, which is faster to process with plink.
+	plink --bfile step1 --keep SAMPLE.txt --make-bed --out step2_sub_samples
+	
+	# Determine the percentage of missing SNP data per sample. These are output in missing.imiss. There is also a file called missing.lmiss which is the percentage of each variant being called.
+	plink --bfile step2_sub_samples --missing
+
+	# Screen out variants for which >0.05% of individuals were not called at that variant.
+	plink --bfile step2_sub_samples --geno 0.05 --make-bed --out step3_miss_snps
+
+	# Screen out samples for which >0.02% of the variants were not called.
+	plink --bfile step3_miss_snps --mind 0.02 --make-bed --out step4_miss_indiv
+
+	# Compare the reported sex of the individual with the imputed sex
+	plink --bfile step4_miss_indiv --check-sex
+	~~~
+
+
+
+Ancestry mapping (attempt 1)
 ===
 1. **LD pruning**
 
