@@ -12,7 +12,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Six Honest Serving-Men
-email: Aaron_Cheng@hms.harvard.edu
+email: aaron_cheng {at} hms {dot} harvard {dot} edu
 author: Aaron Cheng
 description: Musings on math, medicine, music, and more. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
