@@ -19,5 +19,5 @@ Was naught but warped remnants of growth
 The wooden remains, once engulfed by fiery flames  
 Given way to ash, a static, withered trunk of lost life  
 And -- hopes dashed, chest burning with smoldering embers,  
-squinted eyes yearning for the flaxen frame my virgin mind envisioned --  
+squinted eyes yearning for the flaxen frame my virgin mind conceived --  
 I urged my steed, "Ride on."
