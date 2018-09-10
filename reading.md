@@ -17,6 +17,9 @@ Genetics
 3. 03/2017 -- Rare and common variants in LPL associated with coronary artery disease ([paper](../download/201703_rare_common_cvd.pdf)).
 	*Khera, et. al.* sequenced the protein-coding regions of lipoprotein lipase from several case-control cohorts to characterize rare damaging mutations within *LPL*. Interestingly, heterozygous LPL deficiency was correlated with early-onset CAD, possibly due to impaired lipolysis of triglyceride-rich lipoproteins that penetrate directly into the arterial wall. The authors also performed common variant analysis and characterized an odds ratio of 1.51 for CAD with common *LDL* locus variants. Importantly, this study has limitations characteristic of those involving variant annotations; specifically, the authors used prediction algorithms (LRT score, MutationTaster, PolyPhen-2 HumDiv, PolyPhen-2 HumVar, and SIFT), and did not functionally validate rare missense variants -- this allows for the possibility ofimpact severity misclassification.
 
+4. 07/2018 -- Type II diabetes genome-wide association study ([paper](../download/201807_gwas_t2d.pdf)).
+	*Xue, et. al.* 
+
 Hematology
 ===
 1. 07/2018 -- CRIPSR screen identifies HRI as fetal globin regulator ([paper](../download/201807_hri_crispr.pdf)). 
