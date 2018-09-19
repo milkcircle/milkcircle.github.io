@@ -21,6 +21,7 @@ Genetics
 	*Xue, et. al.* 
 
 5. 09/2018 -- Fine-mapping loci implicated in type 1 diabetes and rheumatoid arthritis ([paper](../download/201809_finemap_ra_t1d.pdf)). 
+	*Westra, et. al.* fine-mapped 76 loci associated with type 1 diabetes and rheumatoid arthritis, and identified potentially causal missense and noncoding variants. They followed up these findings with functional assays which identified three variants that demonstrated allele-specific protein binding and differential enhancer activity.
 
 Hematology
 ===
