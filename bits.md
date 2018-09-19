@@ -168,6 +168,12 @@ BCFtools
 	bcftools view -r 1 -O z -o chr1.vcf.gz
 	~~~
 
+3. **vcf to dosage file for BOLT-LMM**
+
+    ~~~ bash
+    bcftools query -f 'ID\t%CHROM\t%POS\t%REF\t%ALT[\t%DS]\n' imputation_files/chr${i}.filtered.vcf.gz > imputation_files/chr${i}.dosageFile
+    ~~~
+
 R
 ===
 1. **Subsetting columns from matrices by value**
