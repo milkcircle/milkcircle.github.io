@@ -193,3 +193,10 @@ R
 	~~~ R
 	readRDS("Path/to/RDS.rds")
 	~~~
+
+4. **Create a vector of iterated strings**
+
+    ~~~ R
+    # To replace default column names of a table with strings that loop through 1:20
+    colnames(sample_table) <- c("FID", "IID", sprintf("PrincipalComponent%s", 1:20))
+    ~~~
