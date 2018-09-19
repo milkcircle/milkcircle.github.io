@@ -67,6 +67,21 @@ BASH
 
     Further documentation on Grid Engine found [here](UsersGuideGE.pdf).
 
+    To submit multiple jobs by using a loop, the following boilerplate is helpful.
+    ~~~ bash
+    # Loop through all 22 chromosomes
+    for i in {1..22};
+	do
+		# Define command to run
+		cmd="use Tabix; tabix imputation_files/chr${i}.filtered.vcf.gz";
+		
+		# Submit each command. The -b flag is important here.
+		qsub -cwd -N chr${i}_filter -l h_vmem=12G -b y -o jobsoutput \
+	    -e jobserror $cmd;
+	
+	done
+    ~~~
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
