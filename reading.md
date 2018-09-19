@@ -20,6 +20,8 @@ Genetics
 4. 07/2018 -- Type II diabetes genome-wide association study ([paper](../download/201807_gwas_t2d.pdf)).
 	*Xue, et. al.* 
 
+5. 09/2018 -- Fine-mapping loci implicated in type 1 diabetes and rheumatoid arthritis ([paper](../download/201809_finemap_ra_t1d.pdf)). 
+
 Hematology
 ===
 1. 07/2018 -- CRIPSR screen identifies HRI as fetal globin regulator ([paper](../download/201807_hri_crispr.pdf)). 
@@ -30,3 +32,7 @@ Hematology
 Critical Care
 ===
 1. 06/2018 -- *(review)* Upper GI bleed prophylaxis in hospitalized patients ([paper](../download/201806_gi_ppx_review.pdf)).
+
+Theory of Computation
+===
+1. 02/2015 -- NP-complete problems and physical reality ([paper](../download/201502_NP_hard.pdf)).
