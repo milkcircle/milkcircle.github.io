@@ -34,6 +34,11 @@ Critical Care
 ===
 1. 06/2018 -- *(review)* Upper GI bleed prophylaxis in hospitalized patients ([paper](../download/201806_gi_ppx_review.pdf)).
 
+Preventive Medicine
+===
+1. 09/2018 -- Low-dose aspirin in the healthy elderly does not prolong disability-free survival ([paper](../download/201809_aspirin_elderly.pdf)).
+	*McNeil, et. al.* demonstrated over a 5-year span that low-dose aspirin therapy in healthy seniors did not prolong disability free survival, and led to a statistically significant increase in major hemorrhagic events. The cohort that was recruited included 19,114 persons, roughly half of which were randomized to receive 100 mg aspirin qday, and the other half of which received placebo. The trial was terminated at a median of 4.7 years of follow-up. There were 21.5 events per 1000 person-years in the aspirin group, compared to 21.2 events per 1000 person-years in the placebo group. Events were defined as death, dementia, or persistent physical disability. Limitations of this particular trial include a relatively short duration of intervention and a relatively old cohort of patients. Importantly, some participants had been regularly taking low-dose aspirin prior to the trial; the results of the paper did not stratify for these people, and it remains to be determined how the conclusion of this paper will contribute to the question of whether healthy elderly patients who had been using aspirin for primary prevention should continue or discontinue its use. Also notable was that the population in question was predominantly white.
+
 Theory of Computation
 ===
 1. 02/2015 -- NP-complete problems and physical reality ([paper](../download/201502_NP_hard.pdf)).
