@@ -9,7 +9,7 @@ author: Aaron
 ---
 *This is part of a series of notes I made on useful topics related to clinical medicine.*
 
-[Primary Hyperparathyroidism](../../downloads/201809_primary_hyperparathyroidism.pdf)
+[Primary Hyperparathyroidism -- NEJM](../../downloads/201809_primary_hyperparathyroidism.pdf)
 
 Epidemiology
 ===
@@ -36,8 +36,8 @@ Complications
 Diagnosis
 ===
 * Look for hypercalcemia with PTH levels that are inappropriately normal or high
-* Serum $$25-(OH)D$$ is usually normal or low-normal
-	- The reason for this is because PTH converts $$\textrm{25-(OH)D}$$ to $$\textrm{1,25-(OH)_2D}$$ 
+* Serum $$\textrm{25-(OH)D}$$ is usually normal or low-normal
+	- The reason for this is because PTH converts $$\textrm{25-(OH)D}$$ to $$\textrm{1,25-(OH)}_2\textrm{D}$$ 
 * Beware confusing PHP with secondary or tertiary hyperparathyroidism
 * Look for family history of related genetic diseases
 	- Familial hypocalciuric hypercalcemia type 1 have heterozygous LOF in CaSR; these patients are asymptomatic and do not require treatment
@@ -52,7 +52,7 @@ Diagnosis
 Management overview
 ===
 * Surgery is the first-line treatment
-	- Recommended for 1) patients with $$\textrm{Ca^{2+}}$$ more than 1.0 mg/dL above the upper limit of normal range, 2) patients < 50 years old, 3) men and peri/post-menopausal women over age 50 with T scores < -2.5 at a central bone densitometry site or distal third of the radius or who have recently had a fragility fracture
+	- Recommended for 1) patients with $$\textrm{Ca}^{2+}$$ more than 1.0 mg/dL above the upper limit of normal range, 2) patients < 50 years old, 3) men and peri/post-menopausal women over age 50 with T scores < -2.5 at a central bone densitometry site or distal third of the radius or who have recently had a fragility fracture
 * The following are individual indications for surgery:
 	- GFR < 60 mL/min
 	- Renal stones
@@ -79,7 +79,7 @@ Surgery
 
 Medical management
 ===
-* For those patients who cannot tolerate surgery, recommend annual serum $$\textrm{Ca^{2+}}$$ measurement and repeat measurements of bone density
+* For those patients who cannot tolerate surgery, recommend annual serum $$\textrm{Ca}^{2+}$$ measurement and repeat measurements of bone density
 * Patients with history of renal stones should have annual imaging of kidneys and a 24h urine biochemical profile
 * Recommend a calcium-sufficient diet, and use Vitamin D supplements as necessary to maintain serum $$\textrm{25-(OH)D}$$ between 20-30 ng/mL
 	- Dietary sources of calcium are always preferred
