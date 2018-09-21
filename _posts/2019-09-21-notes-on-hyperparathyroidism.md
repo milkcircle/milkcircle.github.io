@@ -9,7 +9,7 @@ author: Aaron
 ---
 *This is part of a series of notes I made on useful topics related to clinical medicine.*
 
-[Primary Hyperparathyroidism -- NEJM]({{ site.url }}/downloads/201809_primary_hyperparathyroidism.pdf)
+[Primary Hyperparathyroidism -- NEJM]({{ site.url }}/download/201809_primary_hyperparathyroidism.pdf)
 
 Epidemiology
 ===
