@@ -10,7 +10,7 @@ I studied Chemical and Physical Biology (with a minor in Mathematics) at Harvard
 
 This site
 ===
-The name of this site is drawn from Rudyard Kipling’s [poem](http://www.kiplingsociety.co.uk/poems_serving.htm) about curiosity and youth. This is where I deposit my thoughts and write about things that interest me.
+This is where I deposit my thoughts and write about things that interest me. Topics include math, statistics, computer science, medicine, poetry, and more.
 
 *Err  
 and err  
