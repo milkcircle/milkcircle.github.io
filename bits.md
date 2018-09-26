@@ -82,6 +82,13 @@ BASH
 	done
     ~~~
 
+2. **Variable assignments**
+
+    ~~~ bash
+    sum=$(( 1+1*2 ))
+    echo $sum
+    ~~~
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
