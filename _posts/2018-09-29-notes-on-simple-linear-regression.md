@@ -61,6 +61,9 @@ In a single population, the estimator $$s^2 = \frac{\sum\limits_{i=1}^n(Y_i-\hat
 
 In our regression model, the sum of squares $$SSE = \sum\limits_{i=1}^n(Y_i-\hat{Y}_i)^2 = \sum\limits_{i=1}^n e_i^2$$. 
 
-The appropriate estimator in this case becomes $$s^2 = \frac{\sum e_i^2}{n-2}$$, where the denominator comes from estimating both $$\beta_0$$ and $$\beta_1$$ to obtain the estimated means $$\hat{Y}_i$$.
+The appropriate estimator in this case becomes $$s^2 = \frac{\sum e_i^2}{n-2}$$, where the denominator comes from estimating both $$\beta_0$$ and $$\beta_1$$ to obtain the estimated means $$\hat{Y}_i$$. Importantly, $$E(s_\textrm{regression}^2) = \sigma^2$$.
 
-Importantly, $$E(s_\textrm{regression}^2) = \sigma^2$$.
+## Assumption of normality in error terms
+It is often reasonable to assume that $$\epsilon_i\sim N(0,\sigma^2)$$. This is justifiable in many situations, since error terms represent effects of unmeasured factors without reference to $$X$$. The composite effect usually tends to follow the central limit theorem and approach normality.
+
+# Maximum likelihood method
