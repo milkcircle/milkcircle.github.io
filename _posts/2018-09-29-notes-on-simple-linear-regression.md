@@ -55,3 +55,12 @@ We define $$e_i = Y_i - \hat{Y}$$, the distance of the observed $$Y_i$$ from the
 6. The regression line passes through $$(\overline{X},\overline{Y})$$.
 
 ## Estimating error term variance $$\sigma^2$$
+
+# Point estimator of $$\sigma^2$$
+In a single population, the estimator $$s^2 = \frac{\sum\limits_{i=1}^n(Y_i-\hat{Y})^2}{n-1}$$, where dividing by $$n-1$$ is necessary to adjust for the degrees of freedom. This value comes from the fact that we are using $$\hat{Y}$$ as an estimate of $$\mu$$, and once we know $$n-1$$ values we can find the last value given our knowledge of $$\hat{Y}$$.
+
+In our regression model, the sum of squares $$SSE = \sum\limits_{i=1}^n(Y_i-\hat{Y}_i)^2 = \sum\limits_{i=1}^n e_i^2$$. 
+
+The appropriate estimator in this case becomes $$s^2 = \frac{\sum e_i^2}{n-2}$$, where the denominator comes from estimating both $$\beta_0$$ and $$\beta_1$$ to obtain the estimated means $$\hat{Y}_i$$.
+
+Importantly, $$E(s_\textrm{regression}^2) = \sigma^2$$.
