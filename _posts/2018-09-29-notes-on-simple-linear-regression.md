@@ -26,8 +26,8 @@ In simple linear regression with a set of observations $$(X_i, Y_i)$$, the goal 
 These estimators can be found either numerically or analytically. The following is the analytical derivation of a closed-form solution for $$\beta_0$$ and $$\beta_1$$.
 
 # Minimize $$Q$$
-$$\frac{\partial Q}{\partial\beta_0}=-2\sum(Y_i-\beta_0-\beta_1X_i)=0$$  
-$$\frac{\partial Q}{\partial\beta_1}=-2\sum X_i(Y_i-\beta_0-\beta_1X_i)=0$$.
+$$\frac{\partial Q}{\partial\beta_0}=-2\sum(Y_i-\beta_0-\beta_1X_i):=0$$  
+$$\frac{\partial Q}{\partial\beta_1}=-2\sum X_i(Y_i-\beta_0-\beta_1X_i):=0$$.
 
 Expand the above to get our two normal equations. Note that we have replaced $$\beta$$ with $$b$$ to denote that $$b$$ is a particular value for $$\beta$$ that minimizes $$Q$$.  
 
