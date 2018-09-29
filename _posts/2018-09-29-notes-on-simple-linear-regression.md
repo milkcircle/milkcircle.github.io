@@ -35,4 +35,8 @@ $$\sum X_iY_i - b_0\sum(X_i) - b_1\sum(X_i^2) = 0$$
 We can solve the equations simultaneously to obtain closed-form solutions for estimators $$b_0$$ and $$b_1$$:  
 
 $$b_1 = \frac{\sum(X_i - \overline{X})(Y_i - \overline{Y})}{\sum(X_i-\overline{X})^2}$$  
-$$b_0 = \frac{1}{n}(\sum(Y_i)-b_1\sum{X_i}) = \overline{Y} - b_1\overline{X}$$
+$$b_0 = \frac{1}{n}(\sum Y_i-b_1\sum{X_i}) = \overline{Y} - b_1\overline{X}$$
+
+# Properties of least squares estimators
+1. $$b_0$$ and $$b_1$$ are unbiased. That is, $$E(b_0)=\beta_0$$ and $$E(b_1)=\beta_1$$.
+2. $$b_0$$ and $$b_1$$ have minimum variance among all unbiased linear estimators, where linear estimators are defined as those estimators which can be expressed as a linear combination of the $$Y_i$$.
