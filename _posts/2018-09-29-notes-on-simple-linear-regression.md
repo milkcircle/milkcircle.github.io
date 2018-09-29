@@ -42,3 +42,6 @@ $$b_0 = \frac{1}{n}(\sum Y_i-b_1\sum{X_i}) = \overline{Y} - b_1\overline{X}$$
 # Properties of least squares estimators
 1. $$b_0$$ and $$b_1$$ are unbiased. That is, $$E(b_0)=\beta_0$$ and $$E(b_1)=\beta_1$$.
 2. $$b_0$$ and $$b_1$$ have minimum variance among all unbiased linear estimators, where linear estimators are defined as those estimators which can be expressed as a linear combination of the $$Y_i$$.
+
+# Residuals
+We define $$e_i = Y_i - \hat{Y}$$, the distance of the observed $$Y_i$$ from the fitted regression line. Importantly, $$e_i$$ is different from $$\epsilon_i$$, which is defined $$\epsilon_i = Y_i - E(Y_i)$$ which involves the unknown true regression line.
