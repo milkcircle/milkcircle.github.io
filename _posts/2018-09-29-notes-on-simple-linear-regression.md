@@ -27,11 +27,10 @@ These estimators can be found either numerically or analytically. The following 
 $$\frac{\partial Q}{\partial\beta_0}=-2\sum(Y_i-\beta_0-\beta_1X_i)=0$$  
 $$\frac{\partial Q}{\partial\beta_1}=-2\sum X_i(Y_i-\beta_0-\beta_1X_i)=0$$.
 
-Expand the above to get our two normal equations.  
+Expand the above to get our two normal equations. Note that we have replaced $$\beta$$ with $$b$$ to denote that $$b$$ is a particular value for $$\beta$$ that minimizes $$Q$$.  
 $$\sum Y_i - nb_0 - b_1\sum(X_i) = 0$$  
 $$\sum X_iY_i - b_0\sum(X_i) - b_1\sum(X_i^2) = 0$$  
-Note that we have replaced $$\beta$$ with $$b$$ to denote that $$b$$ is a particular value for $$\beta$$ that minimizes $$Q$$.
 
-We can solve these normal equations simultaneously to obtain closed-form solutions for estimators $$b_0$$ and $$b_1$$:  
+We can solve the equations simultaneously to obtain closed-form solutions for estimators $$b_0$$ and $$b_1$$:  
 $$b_1 = \frac{\sum(X_i - \overline{X})(Y_i - \overline{Y})}{\sum(X_i-\overline{X})^2}$$  
 $$b_0 = \frac{1}{n}(\sum(Y_i)-b_1\sum{X_i}) = \overline{Y} - b_1\overline{X}$$
