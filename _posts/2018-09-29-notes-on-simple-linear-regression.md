@@ -45,3 +45,13 @@ $$b_0 = \frac{1}{n}(\sum Y_i-b_1\sum{X_i}) = \overline{Y} - b_1\overline{X}$$
 
 # Residuals
 We define $$e_i = Y_i - \hat{Y}$$, the distance of the observed $$Y_i$$ from the fitted regression line. Importantly, $$e_i$$ is different from $$\epsilon_i$$, which is defined $$\epsilon_i = Y_i - E(Y_i)$$ which involves the unknown true regression line.
+
+# Properties of fitted regression lines
+1. The sum of the residuals $$\sum\limits_{i=1}^n e_i = 0$$.
+2. The sum of the squared residuals $$\sum e_i^2$$ is minimized.
+3. The sum of the observed values $$\sum Y_i$$ is the sum of the fitted values $$\sum\hat{Y}_i$$.
+4. The sum of the weighted residuals $$\sum X_ie_i$$ is zero.
+5. $$\sum\hat{Y}_ie_i = 0$$.
+6. The regression line passes through $$(\overline{X},\overline{Y})$$.
+
+## Estimating error term variance $$\sigma^2$$
