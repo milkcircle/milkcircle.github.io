@@ -74,3 +74,9 @@ The product of densities viewed as a function of the unknown parameters is calle
 This concept can be carried over to our normal error regression model. Recall that in this model, each $$Y_i\sim N(\beta_0+\beta_1X_i, \sigma^2)$$. We can fit our observations $$Y_i$$ into our likelihood function $$L(\beta_0,\beta_1,\sigma)$$ to identify the $$(b_0, b_1,s)$$ that best maximizes $$L$$.
 
 $$L(\beta_0,\beta_1,\sigma)=\prod\limits_{i=1}^n f_i$$ where $$f_i = \frac{1}{\sigma\sqrt{2\pi}}\exp\left[-\frac{1}{2}\left(\frac{Y_i-(\beta_0+\beta_1X_i)}{\sigma}\right)^2\right]$$
+
+Analytically, the MLE solutions are:
+
+$$\hat{\beta}_0 = b_0$$
+$$\hat{\beta}_1 = b_1$$
+$$\hat{\sigma}^2 = \frac{\sum{(Y_i-\hat{Y_i})^2}}{n}$$
