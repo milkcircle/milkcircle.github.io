@@ -67,3 +67,10 @@ The appropriate estimator in this case becomes $$s^2 = \frac{\sum e_i^2}{n-2}$$,
 It is often reasonable to assume that $$\epsilon_i\sim N(0,\sigma^2)$$. This is justifiable in many situations, since error terms represent effects of unmeasured factors without reference to $$X$$. The composite effect usually tends to follow the central limit theorem and approach normality.
 
 # Maximum likelihood method
+Assume we have the following problem. We have a single population with standard deviation $$\sigma$$, but we do not know the true population mean $$\mu$$ and therefore wish to estimate $$\mu$$. We have some number of samples $$Y_1\ldots Y_n$$. The maximum likelihood estimator takes the product of the probability density function at each $$Y_i$$ assuming various $$\mu$$'s to determine the $$\mu$$ with the greatest likelihood. 
+
+The product of densities viewed as a function of the unknown parameters is called the *likelihood function*, and is referred to as $$L(\mu)$$. It can be shown that for a normal population, the maximum likelihood estimator of $$\mu$$ is $$\overline{Y}$$, the sample mean.
+
+This concept can be carried over to our normal error regression model. Recall that in this model, each $$Y_i\sim N(\beta_0+\beta_1X_i, \sigma^2)$$. We can fit our observations $$Y_i$$ into our likelihood function $$L(\beta_0,\beta_1,\sigma)$$ to identify the $$(b_0, b_1,s)$$ that best maximizes $$L$$.
+
+$$L(\beta_0,\beta_1,\sigma)=\prod\limits_{i=1}^n f_i$$ where $$f_i = \frac{1}{\sigma\sqrt{2\pi}}\exp\left[-\frac{1}{2}\left(\frac{Y_i-(\beta_0+\beta_1X_i)}{\sigma}\right)^2\right]
