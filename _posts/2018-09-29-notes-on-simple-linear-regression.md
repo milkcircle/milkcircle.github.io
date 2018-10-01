@@ -7,8 +7,6 @@ math: true
 comments: true
 author: Aaron
 ---
-*This post is a work in progress, and thus will not be listed in the Archive until complete.*
-
 ## Introduction
 A simple linear regression model can be represented by $$Y_i = \beta_0 + \beta_1X_i + \epsilon_i$$. In such a model, several important properties hold:
 
