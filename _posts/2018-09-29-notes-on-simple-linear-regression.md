@@ -77,6 +77,9 @@ $$L(\beta_0,\beta_1,\sigma)=\prod\limits_{i=1}^n f_i$$ where $$f_i = \frac{1}{\s
 
 Analytically, the MLE solutions are:
 
-$$\hat{\beta}_0 = b_0$$
-$$\hat{\beta}_1 = b_1$$
+$$\hat{\beta}_0 = b_0$$  
+$$\hat{\beta}_1 = b_1$$  
 $$\hat{\sigma}^2 = \frac{\sum{(Y_i-\hat{Y_i})^2}}{n}$$
+
+Note that since log is a monotonically increasing function, solving the MLE solutions is much easier when you maximize the log-likelihood function $$l = \ln(L)$$.
+
