@@ -28,3 +28,19 @@ $$k_i$$ has several important properties which I will not derive but are importa
 (2) $$\sum k_iX_i = 1$$  
 (3) $$\sum k_i^2 = \frac{1}{\sum(X_i-\overline{X})^2}$$  
 
+The mean of $$b_1$$ can be calculated in the following way:  
+$$E(b_1) = E(\sum k_iY_i)$$  
+$$=\sum k_iE(Y_i)$$  
+$$=\sum k_i(\beta_0+\beta_1X_i)$$  
+$$=\beta_0\sum k_i+\beta_1\sum k_iX_i$$  
+$$=\beta_1$$  
+
+The variance of $$b_1$$ is derived in the following way:  
+$$\sigma^2(b_1) = \sigma^2(\sum k_iY_i)$$  
+$$=\sum k_i^2\sigma^2(Y_i)$$  
+$$=\sum k_i^2\sigma^2$$  
+$$=\sigma^2\sum k_i^2$$  
+$$=\frac{\sigma^2}{\sum(X_i-\overline{X})^2}$$  
+
+The sampling variance is simply $$\frac{\textrm{MSE}^2}{\sum(X_i-\overline{X})^2}$$  
+
