@@ -26,5 +26,5 @@ Since $$b_1$$ is a linear combination of $$Y_i$$, and $$Y_i \sim N(\mu,\sigma^2)
 $$k_i$$ has several important properties which I will not derive but are important to know about:  
 (1) $$\sum k_i = 0$$  
 (2) $$\sum k_iX_i = 1$$  
-(3) $$\sum k_i^2 = \frac{1}{\sum(X_i-\overline{X})^2}  
+(3) $$\sum k_i^2 = \frac{1}{\sum(X_i-\overline{X})^2}$$  
 
