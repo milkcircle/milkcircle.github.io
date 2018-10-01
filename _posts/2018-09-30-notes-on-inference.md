@@ -16,7 +16,7 @@ The following derivations assume a normal error regression model $$Y_i=\beta_0+\
 # Sampling distribution of $$\beta_1$$
 Here, we show that $$\beta_1$$ is expressible as a linear combination of observations $$Y_i$$.  
 
-(1) Analytically, $$b_1 = \frac{\sum(X_i-\overline{X})(Y_i-\overline{Y}){\sum(X_i-\overline{X})^2}$$.  
+(1) Analytically, $$b_1=\frac{\sum(X_i-\overline{X})(Y_i-\overline{Y})}{\sum(X_i-\overline{X})^2}$$  
 (2) We know $$\sum(X_i-\overline{X})=0$$. Therefore, $$\sum(X_i-\overline{X})\overline{Y}=\overline{Y}\sum(X_i-\overline{X})=0$$.  
 (3) From (1) and (2), we can simplify $$b_1=\frac{\sum(X_i-\overline{X})Y_i}{\sum(X_i-\overline{X})^2}$$.  
 (4) For simplicity, fixed variables can be wrapped into a constant $$k$$, such taht $$b_1=\sum k_iY_i$$.
