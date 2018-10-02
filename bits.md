@@ -82,6 +82,23 @@ BASH
 	done
     ~~~
 
+    A better way of submitting multiple jobs is by using a job array, which can be written using the following template.
+    ~~~ bash
+    #!/bin/bash -l
+    # Define qsub settings here
+    #$ -cwd -N {job-name} -l h_vmem=15g,h_rt=10:00:00
+    # Define variable for job, to be stored in ${SGE_TASK_ID}
+    #$ -t 1-22
+
+    # The below example creates dosage files for use in BOLT-LMM from EAGLE2 output.
+    bcftools query -f '%ID\t%CHROM\t%POS\t%REF\t%ALT[\t%DS]\n' vcf/chr${SGE_TASK_ID}.filtered0.3.vcf.gz > vcf/chr${SGE_TASK_ID}.dosageFile
+    ~~~
+
+    To run the job array, run the following:
+    ~~~ bash
+    qsub ./job_array.sh
+    ~~~
+
 2. **Variable assignments**
 
     ~~~ bash
