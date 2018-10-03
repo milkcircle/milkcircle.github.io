@@ -106,6 +106,21 @@ BASH
     echo $sum
     ~~~
 
+3. **Data wrangling**
+    In a file with many columns where you want to select all but a subset of columns, you can use the $$\texttt{--complement}$$ feature of $$cut$$.
+
+    ~~~ bash
+    # Retrieves all but the 13th and 14th space-separated column from input.txt
+    cut --complement -f13,14 -d' ' input.txt > output.txt
+    ~~~
+
+    To insert a header into a headerless file, consider using $$\testtt{sed}$$:
+
+    ~~~ bash
+    # -i to insert text into the file, 1 to select the first line, i to insert text and newline
+    sed -i '1i FID IID Age Age2' covariates.txt
+    ~~~
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
