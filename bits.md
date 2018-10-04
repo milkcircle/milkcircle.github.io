@@ -106,7 +106,8 @@ BASH
     echo $sum
     ~~~
 
-3. **Data wrangling**
+3. **Data wrangling**  
+
     In a file with many columns where you want to select all but a subset of columns, you can use the $$\texttt{--complement}$$ feature of $$cut$$.
 
     ~~~ bash
