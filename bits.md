@@ -115,11 +115,19 @@ BASH
     cut --complement -f13,14 -d' ' input.txt > output.txt
     ~~~
 
-    To insert a header into a headerless file, consider using $$\testtt{sed}$$:
+    To insert a header into a headerless file, consider using $$\texttt{sed}$$:
 
     ~~~ bash
     # -i to insert text into the file, 1 to select the first line, i to insert text and newline
     sed -i '1i FID IID Age Age2' covariates.txt
+    ~~~
+
+4. **Touch**
+
+    Recursively touch all files.
+
+    ~~~ bash
+    find . -exec touch {} \;
     ~~~
 
 Applied Mathematics
