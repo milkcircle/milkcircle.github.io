@@ -108,7 +108,7 @@ BASH
 
 3. **Data wrangling**  
 
-    In a file with many columns where you want to select all but a subset of columns, you can use the $$\texttt{--complement}$$ feature of $$cut$$.
+    In a file with many columns where you want to select all but a subset of columns, you can use the $$\texttt{--complement}$$ feature of $$\texttt{cut}$$.
 
     ~~~ bash
     # Retrieves all but the 13th and 14th space-separated column from input.txt
