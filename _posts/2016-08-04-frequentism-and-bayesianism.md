@@ -30,4 +30,4 @@ For more information about the differences between these two philosophies, pleas
 1. Casella's *Bayesians and Frequentists* [presentation](http://www.stat.ufl.edu/archived/casella/Talks/BayesRefresher.pdf)
 2. [XKCD](https://xkcd.com/1132/)
 3. Does the debate [even matter](http://simplystatistics.org/2014/10/13/as-an-applied-statistician-i-find-the-frequentists-versus-bayesians-debate-completely-inconsequential/)?
-4. Bayes Theorem in the [21st century](../../download/201306_bayes.pdf)
+4. Bayes Theorem in the [21st century]({{ site.url }}/download/201306_bayes.pdf)
