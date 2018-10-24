@@ -251,8 +251,9 @@ R
 
 Oncology
 ===
-1. [Blastic plasmacytoid dendritic cell neoplasm](../download/BPDCN.pdf) is a rare and aggressive hematologic malignancy that usually presents with skin lesions accompanied by bone marrow involvement or hematologic dissemination. Pathogenesis is unclear given the rarity of this disease. Skin lesions are typically 1) brown/purple nodules, 2) bruise-like patches, or 3) disseminated/mixed lesions. Differential diagnosis usually includes other malignancies with cutaneous manifestations, like 1) CD56+ acute myeloid leukemias, 2) nasal-type extranodal NK/T cell lymphoma, 3) subcutaneous panniculitis-like T cell lymphoma, or 4) cutaneous T cell lymphoma. 
+1. **[Blastic plasmacytoid dendritic cell neoplasm](../download/BPDCN.pdf)**
+    BPDCN is a rare and aggressive hematologic malignancy that usually presents with skin lesions accompanied by bone marrow involvement or hematologic dissemination. Pathogenesis is unclear given the rarity of this disease. Skin lesions are typically 1) brown/purple nodules, 2) bruise-like patches, or 3) disseminated/mixed lesions. Differential diagnosis usually includes other malignancies with cutaneous manifestations, like 1) CD56+ acute myeloid leukemias, 2) nasal-type extranodal NK/T cell lymphoma, 3) subcutaneous panniculitis-like T cell lymphoma, or 4) cutaneous T cell lymphoma. 
 
-Evaluation of a patient with BPDCN should include a bone marrow aspiration; a CT scan of the chest, abdomen, and pelvis; and a cardiac echo if anthracyclines are considered. If flow cytometry demonstrates overexpression of BCL-2 in the tumor sample, treatment with **venetoclax** should be considered. Otherwise, combination therapy of **bortozemib** and **simvastatin** can also be considered -- in *in vitro* studies these two agents have been shown to be synergistic.
+    Evaluation of a patient with BPDCN should include a bone marrow aspiration; a CT scan of the chest, abdomen, and pelvis; and a cardiac echo if anthracyclines are considered. If flow cytometry demonstrates overexpression of BCL-2 in the tumor sample, treatment with **venetoclax** should be considered. Otherwise, combination therapy of **bortozemib** and **simvastatin** can also be considered -- in *in vitro* studies these two agents have been shown to be synergistic.
 
-A case study of a patient with BPDCN responsive to venetoclax is included [here](../download/201810_BPDCN.pdf).
+    A case study of a patient with BPDCN responsive to venetoclax is included [here](../download/201810_BPDCN.pdf).
