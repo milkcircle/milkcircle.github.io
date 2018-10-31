@@ -65,7 +65,7 @@ BASH
 	reuse -q Bcftools;
     ~~~
 
-    Further documentation on Grid Engine found [here](UsersGuideGE.pdf).
+    Further documentation on Grid Engine found [here]({{ site.url }}/download/UsersGuideGE.pdf).
 
     To submit multiple jobs by using a loop, the following boilerplate is helpful.
     ~~~ bash
@@ -258,3 +258,15 @@ Oncology
     Evaluation of a patient with BPDCN should include a bone marrow aspiration; a CT scan of the chest, abdomen, and pelvis; and a cardiac echo if anthracyclines are considered. If flow cytometry demonstrates overexpression of BCL-2 in the tumor sample, treatment with **venetoclax** should be considered. Otherwise, combination therapy of **bortozemib** and **simvastatin** can also be considered -- in *in vitro* studies these two agents have been shown to be synergistic.
 
     A case study of a patient with BPDCN responsive to venetoclax is included [here](../download/201810_BPDCN.pdf).
+
+Infectious Disease
+===
+1. **Spinal brucellosis**
+
+    Brucellosis is a zoonotic infection usually transmitted to humans through contact with infected fluids from sheep, cattle, goats, or pigs. Unpasteurized milk or cheese can also transmit brucellosis. Notably, brucellosis can cause complications in pregnancy such as spontaneous abortion; however, brucellosis is not known to be an opportunistic disease in patients with HIV. 
+
+    Diagnosis should include culture, serology, or PCR. Imaging can provide evidence for focal disease. 
+
+    Treat with **doxycycline** as first-line therapy, plus either streptomycin or rifampin. 
+
+    A case study is included [here](../download/2018_spinal-brucellosis.pdf). This case describes a 62-year old man presenting with progressive back pain along with constitutional symptoms of fevers, chills, night sweats, and weight loss. He traveled to Mexico regularly and was exposed to unpasteurized dairy products. Laboratory results were notable for a mildly elevated white blood cell count and an elevated ESR. MRI spinal imaging revealed numerous contrast-enhancing areas of spondylitis along the spine, along with a psoas abscess. Culture grew *Brucella melitensis*. This patient was treated with **doxycycline** and **rifampin** for a five-month course, and had a drain placed in the psoas abscess. Symptoms resolved with follow-up, and laboratory tests normalized.
