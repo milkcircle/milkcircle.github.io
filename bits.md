@@ -130,6 +130,24 @@ BASH
     find . -exec touch {} \;
     ~~~
 
+5. **Screen**
+
+    Attach to screen
+
+    ~~~ bash
+    # See list of active screens
+    screen -ls 
+
+    # Attach to screen
+    screen -rd [screen ID]
+    ~~~
+
+    Quit detached screen (useful if the screen is unresponsive)
+
+    ~~~ bash
+    screen -X -S [screen ID] quit
+    ~~~
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
