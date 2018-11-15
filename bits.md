@@ -99,6 +99,11 @@ BASH
     qsub ./job_array.sh
     ~~~
 
+    To delete a range of jobs, run:
+    ~~~ bash
+    qdel {6709910..6709931}
+    ~~~
+
 2. **Variable assignments**
 
     ~~~ bash
@@ -146,6 +151,14 @@ BASH
 
     ~~~ bash
     screen -X -S [screen ID] quit
+    ~~~
+
+6. **awk**
+
+    To pass a variable into $$\texttt{awk}$$:
+
+    ~~~ bash
+    awk -v var="$variable" '{ print var }'
     ~~~
 
 Applied Mathematics

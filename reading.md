@@ -30,6 +30,9 @@ Hematology
 3. 07/2018 -- L-Glutamine reduces pain crises in sickle cell disease ([paper](../download/201807_glutamine_scd.pdf)).
 	*Niihara, et. al.* demonstrate through a randomized clinical trial--involving 152 patients that received L-glutamine for 48 weeks and 78 patients that received placebo--that pharmaceutical-grade L-glutamine reduces the number of pain crises, time to pain crisis, number of hospitalizations, and incidence of acute chest syndrome in patients with sickle cell disease and sickle-$$\beta_0$$ thalassemia. However, the L-glutamine group did endorse more non-cardiac pain, low-grade nausea, and musculoskeletal pain. Two deaths occurred in the L-glutamine group of cardiac causes, though both these patients had been very sick upon enrollment, and there is no known evidence that L-glutamine contributes to cardiac events. This clinical trial included a diverse group of patients, with multiple genotypes, a large age spread, among other variables, and more detailed subgroup analysis will be helpful to identify those individuals that may benefit most from L-glutamine supplementation. Notably, a large number of patients were treated concomitantly with hydroxyurea, and the paper does not stratify based on hydroxyurea use.
 
+4. 11/2018 -- *BGLT3* is a positive regulator of fetal hemoglobin ([paper](../download/201811_bglt3_hbf.pdf)).
+	*Ivaldi, et. al.* demonstrate that *BGLT3* is a positive regulator of both HbG loci. A [commentary](http://www.bloodjournal.org/content/132/18/1865) is available and helpful in deconstructing parts of this paper. 
+
 Oncology
 ===
 1. 09/2018 -- Ara-C induces leukemia-regenerating cells that have a distinct gene expression signature is potentially vulnerable to therapy ([paper](../download/201809_recurrence_AML_vulnerability.pdf)).
