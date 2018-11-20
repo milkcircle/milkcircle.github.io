@@ -230,6 +230,14 @@ plink
 
 	This leaves SNPs with minor allele frequency of at least 1%, with no pairs remaining with $$r^2 > 0.2$$. 
 
+3. **Merging plink binary files**
+
+    ~~~ bash
+    cat plink.chr1.fam > plink.fam
+    for chr in {1..22} X Y; do cat plink.chr$chr.bim; done > plink.bim
+    (echo -en "\x6C\x1B\x01"; for chr in {1..22} X Y; do tail -c +4 plink.chr$chr.bed; done) > plink.bed
+    ~~~
+
 
 BCFtools
 ===
