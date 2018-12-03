@@ -127,6 +127,15 @@ BASH
     sed -i '1i FID IID Age Age2' covariates.txt
     ~~~
 
+    To append a column from one file to another file:
+
+    ~~~ bash
+    pr -mts' ' file1 file2
+
+    # An example involving cut
+    pr -mts' ' tmpDosage/chr$i.dosage5 <(cut -f7 -d' ' postQC/chr$i.info | awk 'NR>1') > tmpDosage/chr$i.info.dosage6;
+    ~~~ 
+
 4. **Touch**
 
     Recursively touch all files.
@@ -159,6 +168,15 @@ BASH
 
     ~~~ bash
     awk -v var="$variable" '{ print var }'
+    ~~~
+
+7. **ls**
+
+    I unfortunately often keep pretty messy directories. To only list directories within the current directory, the following commands work:
+
+    ~~~ bash
+    ls -d */
+    echo */
     ~~~
 
 Applied Mathematics
