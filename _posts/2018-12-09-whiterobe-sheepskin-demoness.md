@@ -9,7 +9,7 @@ author: Aaron
 ---
 
 whiterobe sheepskin demoness  
-bent before the masses  
+knelt before the masses  
 horns beneath the propped-up halo  
 full lips masking venom
 
@@ -20,8 +20,8 @@ feasts upon the flush
 
 village torn to ruins and rubble  
 nary a finger lifted  
-bloodshed pure, within the tribals  
-battle 'midst the pastures  
+bloodshed pure, within the tribal  
+battles 'midst the pastures  
 
 O Siddhartha counterfeit  
 thy mesmerizing lies  
