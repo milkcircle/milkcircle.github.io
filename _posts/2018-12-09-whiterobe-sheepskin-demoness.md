@@ -16,7 +16,7 @@ full lips masking venom
 worshipped by the innocent  
 praying doth the prey  
 fed and fattened by the poor  
-feasts upon the flush
+feasting on the flush
 
 village torn to ruins and rubble  
 nary a finger lifted  
