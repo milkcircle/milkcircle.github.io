@@ -58,4 +58,4 @@ to prepare your next murder
 
 i realized  
 demons infest this world  
-and you were one of them.
+and you're one of them.
