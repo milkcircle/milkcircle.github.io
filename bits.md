@@ -306,6 +306,12 @@ R
     colnames(sample_table) <- c("FID", "IID", sprintf("PrincipalComponent%s", 1:20))
     ~~~
 
+Molecular biology
+===
+1. **Riboseq**
+
+    Uses nucleases to degrade RNA that is unbound to ribosomes; these segments can then be sequenced and mapped to known mRNA regions to determine areas of active translation. This procedure differs from polysomal profiling (which is also used to generate a translatome), and data generated demonstrate different levels of specificity. 
+
 Oncology
 ===
 1. **[Blastic plasmacytoid dendritic cell neoplasm](../download/BPDCN.pdf)**
