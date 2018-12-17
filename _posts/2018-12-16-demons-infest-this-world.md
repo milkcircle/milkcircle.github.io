@@ -56,6 +56,6 @@ struggling to breathe
 watching your silhouette slither to the house next door  
 to prepare your next murder  
 
-i realized  
+i came to realize  
 demons infest this world  
 and you're one of them.
