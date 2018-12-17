@@ -51,7 +51,7 @@ and saw your grin glinting in the light
 and watched as you removed your mask  
 to reveal the repulsive, grotesque, vile form beneath  
 
-and i lay upon that hard, wet floor  
+as i lay upon that hard, wet floor  
 struggling to breathe  
 watching your silhouette slither to the house next door  
 to prepare your next murder  
