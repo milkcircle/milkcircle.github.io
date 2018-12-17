@@ -46,7 +46,7 @@ and my rib crunched from the impulse
 and my blood spilled onto the linoleum  
 
 as i fell backward  
-and glimpsed at your remorseless face  
+and caught a glimpse of your remorseless face  
 and saw your grin glinting in the light  
 and watched as you removed your mask  
 to reveal the repulsive, grotesque, vile form beneath  
