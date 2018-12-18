@@ -39,6 +39,6 @@ and you didn't love me back
 
 and when you left  
 that little home you made inside my brain  
-i could no longer feel anything  
 
-i went numb.
+you left me  
+numb.
