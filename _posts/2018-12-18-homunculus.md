@@ -39,6 +39,7 @@ and you didn't love me back
 
 and when you left  
 that little home you made inside my brain  
+to be someone else's homunculus  
 
 you left me  
 numb.
