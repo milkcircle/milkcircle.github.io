@@ -306,6 +306,12 @@ R
     colnames(sample_table) <- c("FID", "IID", sprintf("PrincipalComponent%s", 1:20))
     ~~~
 
+5. **Select a column from a matrix and keep it as a column matrix rather than a vector**
+
+    ~~~ R
+    X[,1,drop=FALSE]
+    ~~~
+
 Molecular biology
 ===
 1. **Riboseq**
