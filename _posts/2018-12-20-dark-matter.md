@@ -8,7 +8,7 @@ comments: true
 author: Aaron
 ---
 
-can love be measured in kilograms?  
+can love be weighed?  
 because if it could  
 my heart would be the world's heaviest object,  
 a sole immutable rock even God Himself could not lift.  
@@ -16,7 +16,7 @@ a sole immutable rock even God Himself could not lift.
 does love have a volume?  
 because if it did  
 mine would be so expansive  
-even the world's oceans couldn't wash away my misery.  
+even the world's oceans couldn't wash away my sorrow.  
 
 what temperature is love?  
 because its embers  
