@@ -15,7 +15,7 @@ a sole immutable rock even God Himself could not lift.
 
 does love have a volume?  
 because if it did  
-mine would be so expansive
+mine would be so expansive  
 even the world's oceans couldn't wash away my misery.  
 
 what temperature is love?  
