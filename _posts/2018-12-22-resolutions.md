@@ -10,6 +10,6 @@ author: Aaron
 
 The winter solstice moon  
 Aims its light upon the mourning wolves  
-Whose howls are carried by the nocturnal winds:  
+Whose howls travel with the nocturnal winds:  
 *You will never change.*  
 *You will never change.*
