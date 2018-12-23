@@ -1,7 +1,7 @@
 ---
 layout: post
 title: resolutions
-date: 2018-12-22 12:00:00 -0700
+date: 2018-12-22 13:00:00 -0700
 categories: poetry 
 math: true
 comments: true
