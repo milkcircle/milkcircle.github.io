@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a star aflame
+title: setting sun
 date: 2018-12-24 12:00:00 -0700
 categories: poetry 
 math: true
