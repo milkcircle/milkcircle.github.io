@@ -16,7 +16,7 @@ leaving my face tingling raw
 and my cheeks flushed whiskey-pink.  
 
 your smooth hands are  
-a cool healing lotion  
+a cool soothing lotion  
 to my sun-kissed skin  
 
 and your gentle touch  
