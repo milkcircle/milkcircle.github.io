@@ -15,9 +15,9 @@ with red-orange curtains,
 leaving my face tingling raw  
 and my cheeks flushed whiskey-pink.  
 
-your smooth hands massage  
+your smooth hands are  
 a cool healing lotion  
-into my sun-kissed skin  
+to my sun-kissed skin  
 
 and your gentle touch  
 awakens the same shiver  
