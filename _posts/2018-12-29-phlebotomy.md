@@ -22,8 +22,8 @@ and she finds her way back to the ichorous stream
 sliding her hand yet again along that path toward the cradle  
 
 i can feel my maximal impulse pounding anticipation into the rivers  
-as though to show her the way toward the basin that she seeks  
-my mind eddying like the torrents that my heart produces, until  
+as though to show her the way toward the basin she seeks  
+my mind eddying like the torrents my heart produces, until  
 
 suddenly  
 
