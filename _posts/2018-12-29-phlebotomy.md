@@ -16,7 +16,7 @@ in search of the origin waterfall
 until at the forearm she loses the way.  
 
 she returns with a tourniquet  
-and with that gentle squeeze i feel the pounding of my heart  
+and with that gentle squeeze i feel the pulsing of my heart  
 echoing beneath her electric touch  
 and she finds her way back to the ichorous stream  
 sliding her hand yet again along that path toward the cradle  
