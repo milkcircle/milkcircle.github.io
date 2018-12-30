@@ -36,4 +36,4 @@ and i watch as the riverbeds dry and the riverplants die
 and i wonder whether  
 this pain will ever subside  
 whether the freshets will ever fill  
-whether i will ever trust another person to lay their hand atop mine again
+whether i will ever trust another person to lay their hand on mine again
