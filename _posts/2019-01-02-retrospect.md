@@ -18,8 +18,7 @@ and i wondered why i even opened my eyes.
 last month  
 the hot oven door kissed the back of my hand  
 leaving a tiny red scorch mark  
-a microcosm of the heat i felt in my heart  
-and my face  
+a microcosm of the heat i felt in my heart and my face  
 as i carried the steaming food to you  
 a smile so bright  
 it seared itself into my eyes  
