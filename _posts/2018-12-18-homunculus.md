@@ -8,8 +8,7 @@ comments: true
 author: Aaron
 ---
 
-you were my homunculus  
-that little hominid living in my cranium  
+you were a little hominid living in my cranium  
 
 and you were always in my mind  
 no matter where i went  
