@@ -21,6 +21,7 @@ until they, dense with the dead, send acid rain down upon the survivors
 
 planes promising packages of sweet relief  
 shot down upon the beach sands wet with regret  
+
 O' God! i beg you please!  
 deliver me the blissful quiet!
 
