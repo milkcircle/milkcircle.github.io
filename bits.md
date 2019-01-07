@@ -312,6 +312,12 @@ R
     X[,1,drop=FALSE]
     ~~~
 
+6. **Find values in x but not in y**
+
+    ~~~ R
+    setdiff(x,y)
+    ~~~
+
 Molecular biology
 ===
 1. **Riboseq**
