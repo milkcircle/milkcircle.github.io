@@ -1,7 +1,7 @@
 ---
 layout: post
 title: if the mind is a battlefield
-date: 2019-01-06 13:00:00 -0700
+date: 2019-01-07 13:00:00 -0700
 categories: poetry 
 math: true
 comments: true
