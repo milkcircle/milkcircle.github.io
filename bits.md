@@ -179,6 +179,19 @@ BASH
     echo */
     ~~~
 
+8. **set difference in bash**
+
+    ~~~ bash
+    # First column: only those lines unique to FILE1
+    # Second column: only those lines unique to FILE2
+    # Third column: lines common to both files
+
+    comm -2 -3 <(sort FILE1) <(sort FILE2) > output.txt
+
+    # Use -1 to suppress column 1, -2 to suppress column 2, -3 to suppress column 3.
+    # Remember that files must be presorted prior to using comm.
+    ~~~
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
