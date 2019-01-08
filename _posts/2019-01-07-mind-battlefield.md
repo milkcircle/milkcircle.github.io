@@ -25,4 +25,4 @@ shot down upon the beach sands wet with regret
 O' God! i beg you please!  
 deliver me the blissful quiet!
 
-will you end it, or will I?
+will you end it, or shall I?
