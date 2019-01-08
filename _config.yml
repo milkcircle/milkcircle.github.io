@@ -19,7 +19,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: milkcircle 
 github_username: milkcircle 
-paginate: 9
 
 # Build settings
 markdown: redcarpet 
