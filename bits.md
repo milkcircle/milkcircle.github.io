@@ -181,6 +181,8 @@ BASH
 
 8. **set difference in bash**
 
+    Note that you should use dictionary sort rather than numeric sort when sorting the files used with $$\textrm{comm}$$.
+    
     ~~~ bash
     # First column: only those lines unique to FILE1
     # Second column: only those lines unique to FILE2
