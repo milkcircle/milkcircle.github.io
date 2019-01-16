@@ -27,6 +27,6 @@ advertising the afterlife...
 
 and the beaten man replies,  
 "if home is where the heart is,  
-I've nowhere to go."  
+I've nowhere to go...  
 
-"I think I'll take it."
+I think I'll take it."
