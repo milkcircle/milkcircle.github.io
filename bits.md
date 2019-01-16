@@ -194,6 +194,15 @@ BASH
     # Remember that files must be presorted prior to using comm.
     ~~~
 
+9. **faster grep**
+
+    Consider the case where you need to search a fixed string in a very large file. You can of course simply $$\textrm{grep}$$ this file. However, recently I came across a case where I had to loop through a file of search terms and search through a large file for each of these terms. I kept running out of time on the cluster and needed to find a faster way to search through a large number of terms. The following bit of code can help speed things up significantly by about an order of magnitude. 
+
+    ~~~ bash
+    # the -m flag allows you to exit after matching some number of times in the file.
+    LC_ALL=C fgrep -m 1 "search_string" search_file.txt
+    ~~~
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
