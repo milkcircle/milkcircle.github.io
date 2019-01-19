@@ -203,6 +203,16 @@ BASH
     LC_ALL=C fgrep -m 1 "search_string" search_file.txt
     ~~~
 
+10. **grepping a list of search terms in a larger file**
+
+    ~~~ bash
+    grep -wFf nsort.common.txt chr1.impute.all_chunks > subsetted.chr1.imputed
+
+    # -w matches for only whole words
+    # -F indicates a fixed string 
+    # -f 
+    ~~~
+
 Applied Mathematics
 ===
 1. **Principal component analysis**
