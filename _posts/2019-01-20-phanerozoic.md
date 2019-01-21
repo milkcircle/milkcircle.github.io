@@ -22,6 +22,6 @@ torn cleanly from my heart and mind
 and though the ordovician burns like hell on earth  
 fires sweeping through forests of ferns now caught in the net of demise  
 neither of us can deny that  
-your devonian devilry didn't birth the adaptive radiation  
+your devonian devilry birthed the adaptive radiation  
 
 that brought her to me now
