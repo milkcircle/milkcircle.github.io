@@ -25,7 +25,7 @@ this neo-piagetian philosophy?
 perhaps they fall prey to akratic hells  
 the habits of hyperbolic discounting  
 
-are these people truly demons of their own choice?  
+are these people truly demons of their own doing?  
 or are they victims  
 fallen to the hands of time  
 moving forth in a frenzy of short-term passions  
