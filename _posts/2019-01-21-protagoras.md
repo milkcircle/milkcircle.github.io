@@ -10,7 +10,7 @@ author: Aaron
 
 
 an infant is, as they say,  
-born silopsistic.  
+born solipsistic.  
 
 and only with additional evidence to the contrary  
 do they adopt an appropriate theory of mind,  
