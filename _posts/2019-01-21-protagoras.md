@@ -16,7 +16,7 @@ and only with additional evidence to the contrary
 do they adopt an appropriate theory of mind,  
 the saving grace from schizoid tendencies,  
 sociopathy, addiction,  
-and sets them on the righteous path of empathy.  
+that sets them on the righteous path of empathy.  
 
 but what then, of the sliver of humans  
 who for some reason are never emancipated by  
