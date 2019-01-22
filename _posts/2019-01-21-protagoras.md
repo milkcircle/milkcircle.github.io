@@ -9,8 +9,7 @@ author: Aaron
 ---
 
 
-an infant is, as they say,  
-born solipsistic.  
+they say infants are born solipsistic. 
 
 and only with additional evidence to the contrary  
 do they adopt an appropriate theory of mind,  
@@ -19,7 +18,7 @@ sociopathy, addiction,
 that sets them on the righteous path of empathy.  
 
 but what then, of the sliver of humans  
-who for some reason are never emancipated by  
+who are never emancipated by  
 this neo-piagetian philosophy?  
 
 perhaps they fall prey to akratic hells  
