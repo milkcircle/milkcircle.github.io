@@ -104,6 +104,11 @@ BASH
     qdel {6709910..6709931}
     ~~~
 
+    To get some insight as to why a job might be stuck in the queue:
+    ~~~ bash
+    qalter -w p [job-id]
+    ~~~
+
 2. **Variable assignments**
 
     ~~~ bash
