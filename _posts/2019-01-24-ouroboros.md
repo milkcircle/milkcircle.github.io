@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ouroboros
-date: 2019-01-24 13:00:00 -0700
+date: 2019-01-24 13:01:00 -0700
 categories: poetry
 math: true
 comments: true
