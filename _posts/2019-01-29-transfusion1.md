@@ -19,9 +19,6 @@ Though this image only shows data in 2018, the script may be used for as much da
 Next steps include 1) correlating days between transfusions and change in Hgb, 2) incorporating transfused blood volume into the model, and 3) generating a predictive model for guessing the next measured Hgb based on information from prior transfusions.  
 
 ~~~ R
-#!/usr/bin/env Rscript
-args = commandArgs(trailingOnly=TRUE)
-
 # A script to visualize ferritin and pre-transfusion Hgb
 library(ggplot2)
 library(dplyr)
