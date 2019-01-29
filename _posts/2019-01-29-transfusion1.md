@@ -8,7 +8,7 @@ comments: true
 author: Aaron
 ---
 
-There is no easy way for patients who are chronically transfused to visualize important blood parameters. For patients with aplastic anemia, MDS, thalassemia, etc. who are transfused on a regular basis (typically about once a month), parameters of interest include ferritin (a proxy for total body iron levels) and hemoglobin. Beloow I share a script to generate a visual plot of both parameters, which may be useful for patients who are able to access their numbers from their hospital system.  
+There is no easy way for patients who are chronically transfused to visualize important blood parameters and the relationship between them. For patients with aplastic anemia, MDS, thalassemia, etc. who are transfused on a regular basis (typically about once a month), parameters of interest include ferritin (a proxy for total body iron levels) and hemoglobin. Beloow I share a script to generate a visual plot of both parameters, which may be useful for patients who are able to access their numbers from their hospital system.  
 
 The generated plot looks like this, and allows for easy comparison of ferritin and pre-transfusion hemoglobin trends:  
 
@@ -16,7 +16,7 @@ The generated plot looks like this, and allows for easy comparison of ferritin a
 
 Though this image only shows data in 2018, the script may be used for as much data as a patient readily has on hand. As I had to manually input these values, I decided to use one year as a starting point. Even from this limited plot, one might notice at least a small inverse correlation between ferritin and pre-transfused hemoglobin (PTH); a rise in ferritin may be correlated with a low PTH. One potential reason may be that a low PTH triggers a greater transfusional blood volume, which will in turn increase ferritin. If this were the case, the rise in ferritin should be offset by one measurement when compared to the PTH.  
 
-Next steps include 1) correlating days between transfusions and change in Hgb, 2) incorporating transfused blood volume into the model, and 3) generating a predictive model for guessing the next measured Hgb based on information from prior transfusions. Eventually this may be adapted into a suite of tools with an improved user interface for patients and families to track their transfusions and spark more data-driven discussions with their physicians about transfusion frequency/volume and chelator dosing.
+Next steps include 1) correlating days between transfusions and change in Hgb, 2) incorporating transfused blood volume into the model, and 3) generating a predictive model for guessing the next measured Hgb based on information from prior transfusions. The relationship between exercise capacity and number of days after prior transfusion can also be explored in a similar manner. Eventually this may be adapted into a suite of tools with an improved user interface for patients and families to track their transfusions and spark more data-driven discussions with their physicians about transfusion frequency/volume and chelator dosing. 
 
 ~~~ R
 # A script to visualize ferritin and pre-transfusion Hgb
