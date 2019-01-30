@@ -1,7 +1,7 @@
 ---
 layout: post
 title: would that the chirping darkling sky
-date: 2019-01-29 13:02:00 -0700
+date: 2019-01-30 13:02:00 -0700
 categories: poetry
 math: true
 comments: true
