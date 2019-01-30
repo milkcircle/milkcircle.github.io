@@ -18,5 +18,5 @@ afford my heartache's wine
 would that your quiet swaddling soul  
 protect my virtuous dying foal  
 
-would that she for whom i grieve
+would that she for whom i grieve  
 deliver me reprieve?
