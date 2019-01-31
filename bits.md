@@ -357,6 +357,26 @@ R
     setdiff(x,y)
     ~~~
 
+7. **Working with VCF files in R**
+
+    ~~~ R
+    # Import tidyR
+    library(tidyR)
+
+    # Before importing a VCF file, use Bcftools to subset the part of the genome of interest, 
+    # as loading the whole file in R is unlikely to work.
+
+    # Read a .vcf
+    vcf <- read.vcfR('test.vcf.gz')
+
+    # Convert into a tibble
+    tidyvcf <- vcfR2tidy(vcf)
+
+    # Extract gt element from vcf in original layout (the input should be a vcfR object!)
+    vcf.gt <- extract.gt(vcf)
+
+    tidyvcf$fix # fix element of .VCF
+    ~~~
 Molecular biology
 ===
 1. **Riboseq**
