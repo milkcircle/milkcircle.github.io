@@ -28,7 +28,7 @@ and end our scenes to the waves' thunderous applause
 i went to our waterfall alone today  
 and saw that our theatre has eroded away  
 
-our quiet, entranced audience  
+our quiet, enchanted audience  
 replaced by the faint ripples of water  
 lapping against the runnel rocks  
 
