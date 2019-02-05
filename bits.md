@@ -376,6 +376,8 @@ R
     vcf.gt <- extract.gt(vcf)
 
     tidyvcf$fix # fix element of .VCF
+
+    # vcf.gt and tidyvcf$fix can be saved as RDS using saveRDS()
     ~~~
 
 Molecular biology
