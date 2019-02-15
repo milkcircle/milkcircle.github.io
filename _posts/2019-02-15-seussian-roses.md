@@ -55,7 +55,7 @@ and knit you a crown
 out of dandelions and twine  
 
 and we'll witness these colors  
-form our story's rainbow  
+forming our story's rainbow  
 and sit back and watch  
 our rosegarden grow  
 
