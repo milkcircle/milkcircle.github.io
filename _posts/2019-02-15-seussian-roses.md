@@ -54,9 +54,9 @@ i'll pour you some wine
 and knit you a crown  
 out of dandelions and twine  
 
-and we'll witness these colors  
-forming our story's rainbow  
-and sit back and watch  
+and we'll watch these colors  
+form our story's rainbow  
+and sit back to see  
 our rosegarden grow  
 
 for roses are red  
