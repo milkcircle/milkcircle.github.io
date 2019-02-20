@@ -23,7 +23,7 @@ A natural question arises from this discovery: are there infinities with even hi
 
 In 1891, Cantor proved this to be true; that is, there are even higher cardinalities than $$\mathbb{R}$$. Consider for any set $$A$$ its power set $$P(A)$$. There does not exist a function $$f: A\rightarrow P(A)$$ that is onto. For if $$f$$ were to exist, then we can find some $$B\subseteq A$$ where $$B\neq f(a)$$ for any $$a\in A$$.  
 
-For every element $$a\in A$$, $$f(a)\subseteq A$$. $$f(a)$$ may or may not contain $$a$$. If $$a\nsubseteq f(a)$$, include it in the set $$B$$. Formally, $$B=\left{ a\in A : a\nsubseteq f(a) \right}$$. As we have assumed our function $$f$$ to be onto, it must be the case that $$B=f(a_0)$$ for some $$a_0\in A$$. Does $$B$$ contain $$a_0$$?  
+For every element $$a\in A$$, $$f(a)\subseteq A$$. $$f(a)$$ may or may not contain $$a$$. If $$a\nsubseteq f(a)$$, include it in the set $$B$$. Formally, $$B=\left\{ a\in A : a\nsubseteq f(a) \right\}$$. As we have assumed our function $$f$$ to be onto, it must be the case that $$B=f(a_0)$$ for some $$a_0\in A$$. Does $$B$$ contain $$a_0$$?  
 
 If $$a_0\in B$$, then this means that $$a_0\in f(a_0)$$, as $$B=f(a_0)$$. However, $$a_0\in B$$ necessarily must mean that $$a_0\notin f(a_0)$$ by construction! As either an element cannot both exist and not exist in a given set, we have arrived at a contradiction that proves there exists no $$a_0\in A$$ for which $$B=f(a_0)$$. Therefore, $$B$$ is an element of the power set of $$A$$ that cannot be mapped onto $$A$$ by a function $$f$$.  
 
