@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cantor's First Uncountability Argument 
-date: 2019-02-19 11:13:25 -0700
+title: Uncountability and Cardinality 
+date: 2019-02-20 11:13:25 -0700
 categories: explanatory 
 math: true
 comments: true
