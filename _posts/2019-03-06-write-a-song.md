@@ -38,7 +38,7 @@ to squeeze in her vicious fists
 and crush the hopes and dreams inside  
 
 have her take your visions of the future  
-and, one by one  
+and, one by one,  
 shoot them down with poisoned arrows  
 
 and, your mind now naked to the world  
