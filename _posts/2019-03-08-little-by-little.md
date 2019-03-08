@@ -9,7 +9,6 @@ author: Aaron
 ---
 
 
-~~~
 little by little, big by big  
     from your heart's flask i take a swig  
 one by one and three by three  
@@ -29,4 +28,3 @@ east by south and north by west
     i'll follow you a doting guest  
 now and then and here and there  
     a never-ending handheld pair  
-~~~
