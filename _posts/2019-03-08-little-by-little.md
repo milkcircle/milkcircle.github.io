@@ -21,8 +21,8 @@ here and there and through and through
 
 yin and yang and you and i  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hold each other eye to eye  
-sweet your words and sweet your heart  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your beauty is a work of art  
+sweet my words and sweet your heart  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;our beauty is a work of art  
 
 east by south and north by west  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i'll follow you a doting guest  
