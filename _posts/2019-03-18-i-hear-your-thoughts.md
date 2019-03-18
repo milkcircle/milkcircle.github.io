@@ -30,7 +30,7 @@ coalesced over the course of
 Forever  
 
 to form nothing more than  
-You, which holds my soul together  
+You,which holds my soul together  
 with nothing less than  
 your thoughts(i hear them soft  
 i whisper them to my inner ears)
