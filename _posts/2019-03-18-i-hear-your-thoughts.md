@@ -11,9 +11,9 @@ author: Aaron
 
 
 i hear your thoughts(i hear them soft  
-i whisper them to my inner ears) i know  
+i whisper them to my inner ears)i know  
 your wants(whatever you want i want  
-to give,my dear) i hear your fears(whatever  
+to give,my dear)i hear your fears(whatever  
 you fear i want to quell,my sweet)  
 i learn your whimsies(whatever you do  
 i want to welcome,my heart)  
