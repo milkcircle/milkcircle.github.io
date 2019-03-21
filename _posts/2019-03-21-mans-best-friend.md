@@ -11,7 +11,7 @@ author: Aaron
 
 i held your head in my hand  
 and though your cataracts dimmed your glow  
-you still warmed me.  
+your life still shone through.  
 
 i hugged you, and patted your head.  
 you were too tired to stand up.
