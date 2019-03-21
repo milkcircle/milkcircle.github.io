@@ -9,7 +9,7 @@ author: Aaron
 ---
 
 
-i held your head in my hand  
+i held your head in my hands  
 and though your cataracts dimmed your glow  
 your love still shone through.  
 
