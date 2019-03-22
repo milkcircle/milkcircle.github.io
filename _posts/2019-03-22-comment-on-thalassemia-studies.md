@@ -38,6 +38,6 @@ Studies that report improvements in transfusion burden for the thalassemia patie
 3. On average (that is, *not just pre-transfusion*), what is the range of Hb that a patient has? *On average*, how anemic is the patient before and after receiving the study drug?  
 4. What is the reduction in transfusion burden after all these factors are controlled for?  
 
-My guess is that transfusion burden will not be reduced by nearly as much as these studies report.  
+My suspicion is that transfusion burden will not be reduced by nearly as much as these studies report.  
 
 Indeed, the luspatercept study, along with many other gene-therapy trials for thalassemia, demonstrate the need for patients and providers to *very carefully* think about whether the measured parameters truly align with patient quality of life and goals of therapy.
