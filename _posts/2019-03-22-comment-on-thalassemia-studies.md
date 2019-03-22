@@ -40,4 +40,4 @@ Studies that report improvements in transfusion burden for the thalassemia patie
 
 My suspicion is that transfusion burden will not be reduced by nearly as much as these studies report.  
 
-Indeed, the luspatercept study, along with many other gene-therapy trials for thalassemia, demonstrate the need for patients and providers to *very carefully* think about whether the measured parameters truly align with patient quality of life and goals of therapy.
+Indeed, the luspatercept study, along with many other gene-therapy trials for thalassemia, demonstrates the need for patients and providers to *very carefully* think about whether the measured parameters truly align with patient quality of life and goals of therapy.
