@@ -11,13 +11,11 @@ author: Aaron
 
 My class came up with some excellent questions today.  
 
-1. Why can't you chelate iron from blood products before transfusing it?  
+1. Why can't you chelate iron from blood products before transfusing it?
+   What a fun question. Iron in blood products is not in the free form; it is bound up inside hemoglobin, which is essential for the blood to carry oxygen. Iron is released after the blood cell dies, and it's at this point that it can assume the free ionic form if not bound to transferrin.  
 
-What a fun question. Iron in blood products is not in the free form; it is bound up inside hemoglobin, which is essential for the blood to carry oxygen. Iron is released after the blood cell dies, and it's at this point that it can assume the free ionic form if not bound to transferrin.  
-
-2. What happens to the iron after you chelate it?  
-
-It is excreted either through the urine or stool!  
+2. What happens to the iron after you chelate it?
+   It is excreted either through the urine or stool!  
 
 3. What complications have you experienced from thalassemia?  
 
