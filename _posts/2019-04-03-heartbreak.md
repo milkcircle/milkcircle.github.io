@@ -29,7 +29,7 @@ i climb over the fence to the empty street
 so i can feel the familiar crisp breezes one more time  
 
 there's a dying finch on the sidewalk,  
-its vibrant colors matted with its own lifeblood  
+his vibrant colors matted with his own lifeblood  
 and i ask him,  
 what is life without death?  
 
