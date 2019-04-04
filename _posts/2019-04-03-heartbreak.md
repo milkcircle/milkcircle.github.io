@@ -26,7 +26,7 @@ or forever hold your peace.
 
 the road we walked last summer is closed today, but no matter.  
 i climb over the fence to the empty street  
-so i can feel the familiar crisp breezes one more time  
+so i can feel the familiar crisp breeze one more time  
 
 there's a dying finch on the sidewalk,  
 his vibrant colors matted with his own lifeblood  
