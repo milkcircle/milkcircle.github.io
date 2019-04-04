@@ -38,7 +38,7 @@ without the loss of life
 and what is bliss  
 without its extinction?  
 
-and the fledgling  
+the fledgling  
 in his final chirps  
 answers:  
 
