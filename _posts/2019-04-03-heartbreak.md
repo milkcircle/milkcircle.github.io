@@ -54,6 +54,6 @@ will send his soul to the stars,
 and i promise to bury his broken body.  
 
 i grieve for the human mind  
-and its inability to grasp my passerine friend's wisdom.  
+and its inability to grasp this passerine's wisdom.  
 
 the flowerpetal in my hand crumbles to ashen dust.
