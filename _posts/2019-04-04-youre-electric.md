@@ -31,10 +31,10 @@ your jolt shot me across the room
 and slammed me so hard  
 that when i looked at you i saw stars.  
 
-and when i finally came to  
+i finally came to  
 from that haze of confusion  
 
-i only felt the strange desire  
+only to sense a strange desire  
 to feel that shock once more...  
 
 you're electric.
