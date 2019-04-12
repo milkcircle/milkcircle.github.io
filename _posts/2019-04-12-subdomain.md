@@ -19,7 +19,7 @@ For future reference and for others aiming to achieve the same task, these are t
 
 2. Create a CNAME record, where the Name field is the subdomain (for instance, my Name field would be "photos"); this record should point to "ghs.googlehosted.com", and the TTL should be 1 hour.  
 
-![]({{ site.url }}/images/subdomain.png)  
+	![]({{ site.url }}/images/subdomain.png)  
 
 3. Register the subdomain with Google sites.  
 
