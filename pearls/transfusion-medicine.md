@@ -9,7 +9,8 @@ permalink: /pearls/transfusion-medicine/
 * Transfusion-associated circulatory overload
 * Transfusion-related acute lung injury
 
-___
+___  
+
 
 # Chronic transfusions #
 It is a strange quirk of nomenclature that the two most severe acute adverse events caused by blood transfusions sound completely benign. TACO and TRALI aren't exactly the most dramatic or inspired acronyms for deadly events. Nevertheless, we work with what we have.  
