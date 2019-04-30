@@ -21,12 +21,12 @@ twitter_username: milkcircle
 github_username: milkcircle 
 
 # Build settings
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+markdown: redcarpet
 theme: minima
 plugins:
   - jekyll-feed
+redcarpet:
+  extensions: [footnotes]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
