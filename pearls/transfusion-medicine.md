@@ -47,7 +47,11 @@ People might convince you that one way to tell between TACO and TRALI is by body
 
 #### Possible pathophysiology ####
 
-Scientists really like the phrase "two-hit hypothesis". They've used it for cancer, schizophrenia, and now they're adapting it for the highly specific case of TACO and TRALI[^5]. The proposed mechanism is simple: 1) the patient has some underlying non-resilience -- for instance, an intolerance of large volume shifts, and 2) something in the blood product tips the patient over the edge. This is supported by evidence that patients with underlying heart or kidney disease are at an increased risk of TACO when they receive blood products[^6]. In TRALI, risk factors are more related to immune physiology and include things like smoking, shock, alcohol abuse, low IL-10 levels, and signs of systemic inflammation[^7].
+Scientists really like the phrase "two-hit hypothesis". They've used it for cancer, schizophrenia, and now they're adapting it for the highly specific case of TACO and TRALI[^5]. The proposed mechanism is simple: 1) the patient has some underlying non-resilience -- for instance, an intolerance of large volume shifts, and 2) something in the blood product tips the patient over the edge.  
+
+This is supported by evidence that patients with underlying heart or kidney disease are at an increased risk of TACO when they receive blood products[^6]. The second hit may be factors like inappropriate fluid management and rapid infusion rates[^8].  
+
+In TRALI, risk factors are more related to immune physiology and include things like smoking, shock, alcohol abuse, low IL-10 levels, and signs of systemic inflammation[^7].
 
 ### Footnotes ###
 [^1]: An excellent discussion about clinical and scientific characterization of TACO and TRALI (PMID 30808638)  
@@ -57,3 +61,4 @@ Scientists really like the phrase "two-hit hypothesis". They've used it for canc
 [^5]: PMID 16617256; DOI 10.1111/voxs.12445
 [^6]: PMID 29300236
 [^7]: Literature on risk factors of TRALI: PMID 29238981; PMID 24075097; PMID 22117051. Literature on IL-10 and correlation with TRALI risk: PMID 25702590; PMID 28861436; PMID 28202460
+[^8]: PMID 24075097; PMID 25611653
