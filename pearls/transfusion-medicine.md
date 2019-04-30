@@ -8,7 +8,7 @@ math: true
 ## Contents
 ### Adverse events
 * TACO and TRALI
-
+* Alloimmunization
 ___  
 &nbsp;  
 
@@ -66,6 +66,20 @@ In TRALI, risk factors are more related to immune physiology and include things 
 * Defer donors whose blood has previously triggered TACO/TRALI
 * Prefer male over female blood (males, for some reason, develop fewer anti-WBC antibodies)[^10]
 
+
+
+### Alloimmunization ###
+
+Few things are more terrifying than a patient who chronically needs blood who can no longer receive blood products. I have seen a patient with thalassemia who was so allosensitized that it became very difficult to find compatible blood, and as a result he required a splenectomy and hydroxyurea maintenance (both of which are not first-line therapies for thalassemia) as a last ditch effort to improve hemoglobin levels in the absence of regular blood transfusions.  
+
+There are many things we can discuss about alloimmunization that will ultimately get us into the weeds of immunology, which likely won't benefit us too much. Here I give a broad overview of alloimmunity, and in particular focus on risk factors for allosensitization.  
+
+#### What is alloimmunization? ####
+
+Red blood cells have a ton of antigens. We can only screen for a subset of antigens using serologic tests in the laboratory, but there are way more antigens than can be tested with modern methods. When a patient gets blood from someone else, they are exposed to a bunch of RBC antigens that could theoretically trigger the development of antibodies against these antigens. If antibodies develop and patients are exposed again to these antigens, an immune response might be triggered, causing massive hemolysis. Some antigens are more immunogenic than other antigens, and a variety of factors such as antigen density and class influence whether antibodies are likely to be formed against them[^11].  
+
+
+
 ### Footnotes ###
 [^1]: An excellent discussion about clinical and scientific characterization of TACO and TRALI (PMID 30808638)  
 [^2]: PMID 20035217
@@ -77,3 +91,4 @@ In TRALI, risk factors are more related to immune physiology and include things 
 [^8]: PMID 24075097; PMID 25611653
 [^9]: PMID 25921271; PMID 25277811
 [^10]: PMID 19453983; PMID 23113676
+[^11]: PMID 28250159; 
