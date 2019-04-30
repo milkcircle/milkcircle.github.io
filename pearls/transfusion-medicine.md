@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transfusion Medicine
-permalink: /transfusion-medicine/
+permalink: /pearls/transfusion-medicine/
 ---
 
 test hidden book page
