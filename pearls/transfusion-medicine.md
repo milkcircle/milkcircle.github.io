@@ -79,7 +79,16 @@ There are many things we can discuss about alloimmunization that will ultimately
 
 Red blood cells have a ton of antigens. We can only screen for a subset of antigens using serologic tests in the laboratory, but there are way more antigens than can be tested with modern methods. When a patient gets blood from someone else, they are exposed to a bunch of RBC antigens that could theoretically trigger the development of antibodies against these antigens. If antibodies develop and patients are exposed again to these antigens, an immune response might be triggered, causing massive hemolysis. Some antigens are more immunogenic than other antigens, and a variety of factors such as antigen density and class influence whether antibodies are likely to be formed against them[^11].  
 
+#### Who gets allosensitization? ####
 
+It turns out there's a good way to think about the populations who are at elevated risks of developing antibodies against RBCs. People who are regularly transfused are clearly at the highest risk. However, perhaps somewhat unexpectedly, those who are regularly transfused and who began transfusions at a very early age are less likely to develop alloimmunization compared to those who are only intermittently transfused[^12]. Furthermore, allosensitization is far more likely to occur when patients are transfused in an inflammatory state (for instance, during acute chest syndrome or during a viral illness)[^13]. Considering the fact that patients with sickle cell disease are basically only transfused when they're in an inflammatory crisis, this makes patients with SCD at particularly high risk of alloimmunization. In fact, prevalence of RBC alloantibodies is highest in patients with SCD (**Figure 2**)[^14]. This observation also holds up in patients with inflammatory bowel disease (who have higher rates of alloimmunization) and patients on steroid or other immunosuppressive therapy (who have lower rates of alloimmunization).
+
+<center>
+<figure>
+  <img src="{{site.url}}/images/allo_scd.jpg"/>
+  <figcaption>Figure 2: Alloantibody prevalence by disease status</figcaption>
+</figure>
+</center>
 
 ### Footnotes ###
 [^1]: An excellent discussion about clinical and scientific characterization of TACO and TRALI (PMID 30808638)  
@@ -92,4 +101,7 @@ Red blood cells have a ton of antigens. We can only screen for a subset of antig
 [^8]: PMID 24075097; PMID 25611653
 [^9]: PMID 25921271; PMID 25277811
 [^10]: PMID 19453983; PMID 23113676
-[^11]: PMID 28250159; 
+[^11]: PMID 28250159
+[^12]: PMID 21854216; PMID 2316211
+[^13]: PMID 28337751; PMID 26456151
+[^14]: PMID 30808636
