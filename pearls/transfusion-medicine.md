@@ -51,7 +51,20 @@ Scientists really like the phrase "two-hit hypothesis". They've used it for canc
 
 This is supported by evidence that patients with underlying heart or kidney disease are at an increased risk of TACO when they receive blood products[^6]. The second hit may be factors like inappropriate fluid management and rapid infusion rates[^8].  
 
-In TRALI, risk factors are more related to immune physiology and include things like smoking, shock, alcohol abuse, low IL-10 levels, and signs of systemic inflammation[^7].
+In TRALI, risk factors are more related to immune physiology and include things like smoking, shock, alcohol abuse, low IL-10 levels, and signs of systemic inflammation[^7]. The second hit in TRALI seems to be, in most cases, anti-HLA or anti-HNA antibodies; in other cases, blood product factors like lipids, extracellular vesicles, and simply old age of the blood are speculated to lead to TRALI[^9]. It should be noted that neutrophils, monocytes, and (weaker evidence of) platelets seem to be pathogenic in TRALI, whereas Tregs and dendritic cells appear to be protective[^1].  
+
+#### So what do I do when my patient has TACO or TRALI? ####
+
+**TACO**
+* Trial diuresis, and provide supplementary oxygen. If hypoxemia persists or gets worse, consider intubation.
+
+**TRALI**
+* Oxygen and possible intubation.
+* Play around with pressors and fluids to make sure the patient is hemodynamically stable.
+
+**Preventive measures**
+* Defer donors whose blood has previously triggered TACO/TRALI
+* Prefer male over female blood (males, for some reason, develop fewer anti-WBC antibodies)[^10]
 
 ### Footnotes ###
 [^1]: An excellent discussion about clinical and scientific characterization of TACO and TRALI (PMID 30808638)  
@@ -62,3 +75,5 @@ In TRALI, risk factors are more related to immune physiology and include things 
 [^6]: PMID 29300236
 [^7]: Literature on risk factors of TRALI: PMID 29238981; PMID 24075097; PMID 22117051. Literature on IL-10 and correlation with TRALI risk: PMID 25702590; PMID 28861436; PMID 28202460
 [^8]: PMID 24075097; PMID 25611653
+[^9]: PMID 25921271; PMID 25277811
+[^10]: PMID 19453983; PMID 23113676
