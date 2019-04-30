@@ -85,7 +85,7 @@ It turns out there's a good way to think about the populations who are at elevat
 
 <center>
 <figure>
-  <img src="{{site.url}}/images/allo_scd.jpg" style="max-width: 200px; height: auto"/>
+  <img src="{{site.url}}/images/allo_scd.jpg" style="max-width: 500px; height: auto"/>
   <figcaption>Figure 2: Alloantibody prevalence by disease status</figcaption>
 </figure>
 </center>
