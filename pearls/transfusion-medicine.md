@@ -29,8 +29,8 @@ Clinically, both of these syndromes manifest as acute respiratory distress and h
 
 <center>
 <figure>
-  <img src="{{site.url}}/images/trali_lung.jpeg"/>
-  <figcaption>Pulmonary edema in a person with TRALI[^3]</figcaption>
+  <img src="{{site.url}}/images/trali_lung.png"/>
+  <figcaption>Pulmonary edema in a person with TRALI</figcaption>
 </figure>
 </center>
 
@@ -41,10 +41,9 @@ TRALI is a diagnosis of exclusion; a syndrome should only be called TRALI once o
 * Proteinacious edema fluid is exudative and suggestive of TRALI
 * TACO may respond to diuretics
 * Possibly elevated systolic blood pressure in TACO
-* NT-proBNP may be elevated in TACO (but is also probably already elevated in critically ill people anyway)[^4]
+* NT-proBNP may be elevated in TACO (but is also probably already elevated in critically ill people anyway)[^3]
 
 ### Footnotes ###
 [^1]: an excellent discussion about clinical and scientific characterization of TACO and TRALI (PMID: 30808638)  
 [^2]: PMID: 20035217
-[^3]: courtesy of [this website](https://groupbpart5meltech.wordpress.com/case-study-transfusion-relate-acute-lung-injury/)
-[^4]: PMID: 18954397
+[^3]: PMID: 18954397
