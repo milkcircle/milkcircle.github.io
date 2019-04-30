@@ -21,7 +21,7 @@ twitter_username: milkcircle
 github_username: milkcircle 
 
 # Build settings
-markdown: redcarpet 
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
