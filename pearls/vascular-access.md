@@ -26,16 +26,35 @@ It's not possible to textually teach someone how to establish central venous acc
 Fortunately for us, even in patients with bleeding/coagulation disorders, central access is not contraindicated[^1]. We just need to be a little more careful.  
 
 ### Internal jugular vein
+
+<center>
+<figure>
+  <img src="{{site.url}}/images/ijv_access.jpeg"/>
+  <figcaption>Figure 1: Where to poke for the IJV</figcaption>
+</figure>
+</center>
+
 * So you've just punctured your patient's carotid artery while trying for jugular venous access. What do you do? 
-  Answer: just remove the small-bore probe and compress the neck for 5 minutes. Compress for longer if your patient has risk factors like coagulopathies.
+  Answer: just remove the small-bore probe and compress the neck for 5 minutes. Compress for longer if your patient has risk factors like a coagulopathy.
 * So you've cannulated the carotid. This is different and requires vascular surgery to come. The patient could stroke[^2].
 
 ### Subclavian vein
 
+<center>
+<figure>
+  <img src="{{site.url}}/images/subclavian_access.jpeg"/>
+  <figcaption>Figure 2: Where to poke for the subclavian</figcaption>
+</figure>
+</center>
 
+* If you're going for the subclavian, might I suggest using an ultrasound[^3]? Complications of subclavian access include pneumothorax and nerve injury, both of which occur less frequently with the use of an ultrasound machine as a guide.
+* If your patient will need a hemodialysis site, try to stay away from the subclavian vein on the ipsilateral site of the arteriovenous fistula, since subclavian stenoses commonly occur[^4].
+* Subclavian vein access is generally more comfortable for patients compared to other sites.
 ___  
 &nbsp;  
 
 ## Footnotes ##
 [^1]: PMID 8681626; PMID 10401942
 [^2]: PMID 15194076; PMID 11886371
+[^3]: PMID 11889329; PMID 21494105
+[^4]: PMID 9697674
