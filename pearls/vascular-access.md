@@ -50,6 +50,9 @@ Fortunately for us, even in patients with bleeding/coagulation disorders, centra
 * If you're going for the subclavian, might I suggest using an ultrasound[^3]? Complications of subclavian access include pneumothorax and nerve injury, both of which occur less frequently with the use of an ultrasound machine as a guide.
 * If your patient will need a hemodialysis site, try to stay away from the subclavian vein on the ipsilateral site of the arteriovenous fistula, since subclavian stenoses commonly occur[^4].
 * Subclavian vein access is generally more comfortable for patients compared to other sites.
+
+### Femoral vein
+
 ___  
 &nbsp;  
 
