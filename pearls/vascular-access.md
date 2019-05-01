@@ -29,7 +29,7 @@ Fortunately for us, even in patients with bleeding/coagulation disorders, centra
 
 <center>
 <figure>
-  <img src="{{site.url}}/images/ijv_access.jpeg"/>
+  <img src="{{site.url}}/images/ijv_access.jpeg" style="max-width: 500px; height: auto"/>
   <figcaption>Figure 1: Where to poke for the IJV</figcaption>
 </figure>
 </center>
@@ -42,7 +42,7 @@ Fortunately for us, even in patients with bleeding/coagulation disorders, centra
 
 <center>
 <figure>
-  <img src="{{site.url}}/images/subclavian_access.jpeg"/>
+  <img src="{{site.url}}/images/subclavian_access.jpeg" style="max-width: 500px; height: auto"/>
   <figcaption>Figure 2: Where to poke for the subclavian</figcaption>
 </figure>
 </center>
