@@ -90,7 +90,10 @@ It turns out there's a good way to think about the populations who are at elevat
 </figure>
 </center>
 
-### Footnotes ###
+___  
+&nbsp;  
+
+## Footnotes ##
 [^1]: An excellent discussion about clinical and scientific characterization of TACO and TRALI (PMID 30808638)  
 [^2]: PMID 20035217
 [^3]: PMID 18954397
