@@ -32,6 +32,6 @@ Fortunately for us, even in patients with bleeding/coagulation disorders, centra
 
 ### Subclavian vein
 
-### Footnotes ###
+## Footnotes ##
 [^1]: PMID 8681626; PMID 10401942
 [^2]: PMID 15194076; PMID 11886371
