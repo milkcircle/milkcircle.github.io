@@ -5,7 +5,6 @@ permalink: /pearls/transfusion-medicine/
 math: true
 ---
 
-## Contents
 ### Adverse events
 * TACO and TRALI
 * Alloimmunization

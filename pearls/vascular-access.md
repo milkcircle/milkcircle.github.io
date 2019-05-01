@@ -5,8 +5,6 @@ permalink: /pearls/vascular-access
 math: true
 ---
 
-
-## Contents
 ### Central venous access
 ### Indwelling vascular catheter
 
