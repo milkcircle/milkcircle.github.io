@@ -51,6 +51,38 @@ Fortunately for us, even in patients with bleeding/coagulation disorders, centra
 
 ### Femoral vein
 
+<center>
+<figure>
+  <img src="{{site.url}}/images/femoral_access.jpeg" style="max-width: 500px; height: auto"/>
+  <figcaption>Figure 3: Where to poke for the femoral</figcaption>
+</figure>
+</center>
+
+* Femoral vein thrombosis is a common complication, but this is often clinically silent[^5].
+* Avoid using the femoral vein during cardiac arrests, since drug delivery can be delayed!
+* Do not get femoral access in patients with DVTs[^6].
+* Femoral vein access is contraindicated in patients with abdominal trauma, since the IVC could be disrupted[^6]!
+
+### Peripherally inserted central catheters
+
+<center>
+<figure>
+  <img src="{{site.url}}/images/picc.jpg" style="max-width: 500px; height: auto"/>
+  <figcaption>Figure 4: In theory what a PICC looks like</figcaption>
+</figure>
+</center>
+
+* Honestly these are probably the way to go if you have the option. Easy to do (especially with ultrasound) with minimal risks.
+* The most common complication is PICC-associated thrombosis, particularly in cancer patients[^7].
+
+### Complications
+
+#### Air embolus
+* In spontaneous respiration, breathing creates a negative pressure gradient that, combined with a point of air entry above the right atrium, creates the risk of introducing air into the vasculature and causing a fatal embolus.
+* A large enough air embolus can cause heart failure, leaky capillary pulmonary edema, and if there's a patent foramen ovale, an acute stroke[^8].
+* Your patient may not show any symptoms, or may start having difficulty breathing with a cough. 
+* Physical exam may reveal a murmur 
+
 ___  
 &nbsp;  
 
@@ -59,3 +91,7 @@ ___
 [^2]: PMID 15194076; PMID 11886371
 [^3]: PMID 11889329; PMID 21494105
 [^4]: PMID 9697674
+[^5]: PMID 18505951
+[^6]: PMID 17414086
+[^7]: PMID 20923799
+[^8]: PMID 17197859
