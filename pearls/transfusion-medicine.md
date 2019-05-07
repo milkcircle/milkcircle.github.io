@@ -93,28 +93,17 @@ ___
 &nbsp;  
 
 ## Footnotes ##
-[^1]: Semple JW, Rebetz J, Kapur R. Transfusion-associated circulatory overload and transfusion-related acute lung injury. Blood. 2019;133(17):1840-1853. [An excellent discussion about clinical and scientific characterization of TACO and TRALI]
-[^2]: Vlaar AP, Binnekade JM, Prins D, et al. Risk factors and outcome of transfusion-related acute lung injury in the critically ill: a nested case-control study. Crit Care Med. 2010;38(3):771-8.
-[^3]: Li G, Daniels CE, Kojicic M, et al. The accuracy of natriuretic peptides (brain natriuretic peptide and N-terminal pro-brain natriuretic) in the differentiation between transfusion-related acute lung injury and transfusion-related circulatory overload in the critically ill. Transfusion. 2009;49(1):13-20.
-[^4]: Parmar N, Pendergrast J, Lieberman L, Lin Y, Callum J, Cserti-gazdewich C. The association of fever with transfusion-associated circulatory overload. Vox Sang. 2017;112(1):70-78.
-[^5]: Silliman CC. The two-event model of transfusion-related acute lung injury. Crit Care Med. 2006;34(5 Suppl):S124-31.  
-    Semple, J. W., Rebetz, J. and Kapur, R. (2019), Transfusion‐associated circulatory overload (TACO): Time to shed light on the pathophysiology. VOXS, 14: 136-139. doi:10.1111/voxs.12445  
-[^6]: Roubinian NH, Hendrickson JE, Triulzi DJ, et al. Contemporary Risk Factors and Outcomes of Transfusion-Associated Circulatory Overload. Crit Care Med. 2018;46(4):577-585.
-[^7]: Bosboom JJ, Klanderman RB, Zijp M, et al. Incidence, risk factors, and outcome of transfusion-associated circulatory overload in a mixed intensive care unit population: a nested case-control study. Transfusion. 2018;58(2):498-506.  
-    Lieberman L, Maskens C, Cserti-gazdewich C, et al. A retrospective review of patient factors, transfusion practices, and outcomes in patients with transfusion-associated circulatory overload. Transfus Med Rev. 2013;27(4):206-12.  
-    Toy P, Gajic O, Bacchetti P, et al. Transfusion-related acute lung injury: incidence and risk factors. Blood. 2012;119(7):1757-67. [Literature on risk factors of TRALI]  
-    Roubinian NH, Looney MR, Kor DJ, et al. Cytokines and clinical predictors in distinguishing pulmonary transfusion reactions. Transfusion. 2015;55(8):1838-46.  
-    Kapur R, Kim M, Rebetz J, Rondina MT, Porcelijn L, Semple JW. Low levels of interleukin-10 in patients with transfusion-related acute lung injury. Ann Transl Med. 2017;5(16):339.  
-    Kapur R, Kim M, Aslam R, et al. T regulatory cells and dendritic cells protect against transfusion-related acute lung injury via IL-10. Blood. 2017;129(18):2557-2569.
-[^8]: Lieberman L, Maskens C, Cserti-gazdewich C, et al. A retrospective review of patient factors, transfusion practices, and outcomes in patients with transfusion-associated circulatory overload. Transfus Med Rev. 2013;27(4):206-12.  
-    Clifford L, Jia Q, Yadav H, et al. Characterizing the epidemiology of perioperative transfusion-associated circulatory overload. Anesthesiology. 2015;122(1):21-8.
-[^9]: Peters AL, Van stein D, Vlaar AP. Antibody-mediated transfusion-related acute lung injury; from discovery to prevention. Br J Haematol. 2015;170(5):597-614.  
-    Peters AL, Van hezel ME, Juffermans NP, Vlaar AP. Pathogenesis of non-antibody mediated transfusion-related acute lung injury from bench to bedside. Blood Rev. 2015;29(1):51-61.
-[^10]: Triulzi DJ, Kleinman S, Kakaiya RM, et al. The effect of previous pregnancy and transfusion on HLA alloimmunization in blood donors: implications for a transfusion-related acute lung injury risk reduction strategy. Transfusion. 2009;49(9):1825-35.  
-    Eder AF, Dy BA, Perez JM, Rambaud M, Benjamin RJ. The residual risk of transfusion-related acute lung injury at the American Red Cross (2008-2011): limitations of a predominantly male-donor plasma mitigation strategy. Transfusion. 2013;53(7):1442-9.
-[^11]: Arthur CM, Patel SR, Smith NH, et al. Antigen Density Dictates Immune Responsiveness following Red Blood Cell Transfusion. J Immunol. 2017;198(7):2671-2680.  
-[^12]: Azarkeivan A, Ansari S, Ahmadi MH, et al. Blood transfusion and alloimmunization in patients with thalassemia: multicenter study. Pediatr Hematol Oncol. 2011;28(6):479-85.  
-    Spanos T, Karageorga M, Ladis V, Peristeri J, Hatziliami A, Kattamis C. Red cell alloantibodies in patients with thalassemia. Vox Sang. 1990;58(1):50-5.
-[^13]: Celli R, Schulz W, Hendrickson JE, Tormey CA. A novel network analysis tool to identify relationships between disease states and risks for red blood cell alloimmunization. Vox Sang. 2017;112(5):469-472.  
-    Ryder AB, Hendrickson JE, Tormey CA. Chronic inflammatory autoimmune disorders are a risk factor for red blood cell alloimmunization. Br J Haematol. 2016;174(3):483-5.
-[^14]: Tormey CA, Hendrickson JE. Transfusion-related red blood cell alloantibodies: induction and consequences. Blood. 2019;133(17):1821-1830.
+[^1]: An excellent discussion about clinical and scientific characterization of TACO and TRALI (PMID 30808638)  
+[^2]: PMID 20035217
+[^3]: PMID 18954397
+[^4]: PMID 28001310
+[^5]: PMID 16617256; DOI 10.1111/voxs.12445
+[^6]: PMID 29300236
+[^7]: Literature on risk factors of TRALI: PMID 29238981; PMID 24075097; PMID 22117051. Literature on IL-10 and correlation with TRALI risk: PMID 25702590; PMID 28861436; PMID 28202460
+[^8]: PMID 24075097; PMID 25611653
+[^9]: PMID 25921271; PMID 25277811
+[^10]: PMID 19453983; PMID 23113676
+[^11]: PMID 28250159
+[^12]: PMID 21854216; PMID 2316211
+[^13]: PMID 28337751; PMID 26456151
+[^14]: PMID 30808636
