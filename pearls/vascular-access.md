@@ -81,7 +81,13 @@ Fortunately for us, even in patients with bleeding/coagulation disorders, centra
 * In spontaneous respiration, breathing creates a negative pressure gradient that, combined with a point of air entry above the right atrium, creates the risk of introducing air into the vasculature and causing a fatal embolus.
 * A large enough air embolus can cause heart failure, leaky capillary pulmonary edema, and if there's a patent foramen ovale, an acute stroke[^8].
 * Your patient may not show any symptoms, or may start having difficulty breathing with a cough. 
-* Physical exam may reveal a murmur 
+* Physical exam may reveal a murmur before cardiovascular collapse[^8].
+* Diagnosis is clinical, but if a TEE is available, you can use it with Doppler to try to see air bubbles in the heart.
+* There's no specific treatment other than stopping the track of air in the catheter. Provide cardiorespiratory support!
+
+#### Pneumothorax
+* Generally speaking, get a chest x-ray during forced expiration while the patient is sitting up (though with sick patients this can be hard to do). 
+* If it's not possible to sit patients up, you can do a B-mode ultrasound
 
 ___  
 &nbsp;  
