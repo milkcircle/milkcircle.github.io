@@ -1,8 +1,7 @@
 ---
 layout: post
 title: and there amidst the greatest uncertainty of all
-date: 2019-05-09
- 12:01:00 -0700
+date: 2019-05-09 12:01:00 -0700
 categories: poetry
 math: true
 comments: true
