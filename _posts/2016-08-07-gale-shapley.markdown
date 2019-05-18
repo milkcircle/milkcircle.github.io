@@ -10,6 +10,7 @@ excerpt: "A detailed look into the Gale-Shapley Algorithm"
 include: true
 ---
 
+
 The process for entering medical residency is unlike any other application process in the journey to become a physician. Unlike college and medical school applications, residency applications culminate in Match Day, where newly-minted M.D.s receive their fate in an envelope that names the hospital they have been assigned to for the next phase of their training. This matching process is often likened to a marriage, which is fitting because the algorithm used to conduct the match is a solution to a widely-known problem called the Stable Marriage Problem.
 
 ### The Problem

@@ -5,9 +5,8 @@ permalink: /pearls/transfusion-medicine/
 math: true
 ---
 
-### Adverse events
-* TACO and TRALI
-* Alloimmunization
+1. TOC
+{:toc}
 
 ___  
 &nbsp;  
@@ -29,7 +28,7 @@ Clinically, both of these syndromes manifest as acute respiratory distress and h
 
 <center>
 <figure>
-  <img src="{{site.url}}/images/trali_lung.png"/>
+  <img src="{{site.url}}/images/trali_lung.png" style="max-width: 500px; height: auto"/>
   <figcaption>Figure 1: pulmonary edema in a person with TRALI</figcaption>
 </figure>
 </center>

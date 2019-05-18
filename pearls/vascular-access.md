@@ -5,8 +5,8 @@ permalink: /pearls/vascular-access
 math: true
 ---
 
-### Central venous access
-### Indwelling vascular catheter
+1. TOC
+{:toc}
 
 ___  
 &nbsp;  
@@ -87,7 +87,50 @@ Fortunately for us, even in patients with bleeding/coagulation disorders, centra
 
 #### Pneumothorax
 * Generally speaking, get a chest x-ray during forced expiration while the patient is sitting up (though with sick patients this can be hard to do). 
-* If it's not possible to sit patients up, you can do a B-mode ultrasound
+* If it's not possible to sit patients up, you can perform an ultrasound instead[^9]. 
+* Pneumothoraces may not be immediate! Keep suspecting them if a patient develops symptoms later on.
+
+## Indwelling catheters
+
+### Replacements
+Peripheral catheters might cause **phlebitis**. You don't have to change peripheral catheters unless there are clinical signs of phlebitis though. Some guidelines suggest changing peripheral lines every few days, but I imagine this is institution-dependent.  
+
+Try not to change central catheters too frequently, as doing so can actually cause more complications than it prevents[^10]. Erythema around the site by itself isn't even an indication to change the catheter (but suspicion of infection can be!).
+
+### Noninfectious complications
+One of the most common complications is **catheter occlusion**, which can result from thrombotic occlusion or non-thrombotic occlusion. Of these two, thrombosis is more likely. You should try to make the catheter patent again with alteplase, which has a high success rate without increasing bleeding risk[^11]. Non-thrombotic occlusion could result from infusate drug precipitates, and you can usually flush these clean.  
+
+Another important complication to beware is the **venous thrombosis**, which is usually clinically silent. Unsurprisingly, these occur at far higher rates among cancer patients, who are already hypercoagulable at baseline and may require central lines for a long period of time.  
+
+Diagnose with **compression ultrasound**. You might get a D-dimer, but this information will be unlikely to help, since sick patients often have elevated D-dimers anyway. Might as well skip that test.  
+
+Unless anticoagulation therapy is contraindicated and symptoms aren't terrible, you can consider leaving the catheter in!
+
+#### Ah crap I poked a hole in my patient
+
+<center>
+<figure>
+  <img src="{{site.url}}/assets/vascular_access/svc_puncture.png" style="max-width: 500px; height: auto"/>
+  <figcaption>Figure 5: A pleural effusion caused by SVC puncture</figcaption>
+</figure>
+</center>
+
+Yikes[^12]. This happens more often with left-sided central venous access, and leads to nonspecific symptoms like cough and chest pain. Chest x-ray demonstrates widening of the mediastinum, along with pleural effusions. If you really want to, you can tap the pleural effusate and see what the fluid is made of...in theory it will be similar to whatever you intended on infusing into the patient. You could also infuse some dye and see if it makes it into the pleural effusion. But the best thing to do now is to remove the catheter, and -- if you suspect infection -- antibiotics.  
+
+#### Cardiac tamponade
+This is severe, and can lead to abrupt decompensation. Diagnose quickly with an ultrasound that shows pericardial effusion, and perform a pericardiocentesis.
+
+### Infections
+Probably the most common way catheter-related infections take hold is via skin flora introduced into the subcutaneous track created by the catheter. We worry about microbes forming **biofilms** on catheters because it takes a huge dose of antibiotics to get rid of them compared to free-living bacteria[^13].
+
+#### Diagnosis 
+There are 3 culture methods and criteria for diagnosis of culture-related bloodstream infection (which is to be distinguished from culture-*associated* bloodstream infection!)[^14].
+
+| Culture method | Diagnostic criteria |
+|:-:|:-:|
+| Culture of tip | Same organism on tip and in peripheral blood |
+| Quantitative blood cultures | Same organism in peripheral and catheter blood, and >3x in catheter blood |
+| Time to positive culture | Same organism in peripheral and catheter blood, and 2h less time to positive culture in catheter blood|
 
 ___  
 &nbsp;  
@@ -101,3 +144,9 @@ ___
 [^6]: PMID 17414086
 [^7]: PMID 20923799
 [^8]: PMID 17197859
+[^9]: PMID 15862493; PMID 19829102
+[^10]: PMID 1522842
+[^11]: PMID 1773185 
+[^12]: PMID 12628882
+[^13]: PMID 12073654
+[^14]: PMID 19489710
