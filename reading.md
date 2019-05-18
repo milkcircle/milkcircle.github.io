@@ -2,56 +2,301 @@
 layout: page
 title: Reading
 permalink: /reading/
-order: 3
 ---
-Below is a growing collection of medical literature I have read along with some summary thoughts.
 
-Genetics
-===
-1. 07/2018 -- PrimateAI ([paper](../download/201807_primateai.pdf)). 
-	*Sundaram, et. al.* published a deep neural network trained on a set of hundreds of thousands of common variants using a small population of 6 non-human primate species, and demonstrated that their new tool is powerful at classifying benign and pathogenic variants in humans. Notably, PrimateAI is unbiased compared to prior pathogenicity classifiers as it does not take human-classified ClinVar variants as input. PrimateAI also incorporates a secondary structure prediction model and solvent accessibility prediction model which takes as input a variant and its surrounding 102 amino acid sequence.
+<!-- Include JQUERY stuff (I don't really get all this) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+<script type="text/javascript" src="/static/js/layout.js"></script>
+<script type="text/javascript" src="/static/js/common.js"></script>
+<script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
-2. 02/2017 -- Cardiovascular polygenic risk score ([paper](../download/201702_prs_cardiovascular.pdf)).
-	*Natarajan, et. al.* describe developing a polygenic risk score from 57 SNPs which predicted additional benefit from statin therapy. This study demonstrated several important points. 1) Statins confer a greater risk reduction in those patients at high genetic risk, determined by the polygenic risk score. Interestingly this group does not on average have higher LDL levels compared to lower genetic risk subgroups. 2) Asymptomatic individuals with no history of coronary heart disease have higher burden of subclinical atherosclerosis with higher PRS. The PRS only incorporates common genetic variation but is not validated in patients with familial hypercholesterolemia.
+<body onload="start()">
+<p>Below is a growing collection of literature (scientific and otherwise) I've read along with some summary thoughts.</p>
 
-3. 03/2017 -- Rare and common variants in LPL associated with coronary artery disease ([paper](../download/201703_rare_common_cvd.pdf)).
-	*Khera, et. al.* sequenced the protein-coding regions of lipoprotein lipase from several case-control cohorts to characterize rare damaging mutations within *LPL*. Interestingly, heterozygous LPL deficiency was correlated with early-onset CAD, possibly due to impaired lipolysis of triglyceride-rich lipoproteins that penetrate directly into the arterial wall. The authors also performed common variant analysis and characterized an odds ratio of 1.51 for CAD with common *LDL* locus variants. Importantly, this study has limitations characteristic of those involving variant annotations; specifically, the authors used prediction algorithms (LRT score, MutationTaster, PolyPhen-2 HumDiv, PolyPhen-2 HumVar, and SIFT), and did not functionally validate rare missense variants -- this allows for the possibility ofimpact severity misclassification.
+<center>
+	<div class="showmore" id="showgeneticspapers" style="display:inline-block;">Genetics</div> 
+  <div class="showmore" id="showhematologypapers" style="display:inline-block;">Hematology</div>
+  <div class="showmore" id="showoncologypapers" style="display:inline-block;">Oncology</div>
+  <div class="showmore" id="showpreventivepapers" style="display:inline-block;">Preventive</div>
+  <div class="showmore" id="showbookpapers" style="display:inline-block;">Books</div>
+</center>
+<!-- <div id="sparse-ntm" style="display:none;"> -->
 
-4. 09/2018 -- Fine-mapping loci implicated in type 1 diabetes and rheumatoid arthritis ([paper](../download/201809_finemap_ra_t1d.pdf)). 
-	*Westra, et. al.* fine-mapped 76 loci associated with type 1 diabetes and rheumatoid arthritis, and identified potentially causal missense and noncoding variants. They followed up these findings with functional assays which identified three variants that demonstrated allele-specific protein binding and differential enhancer activity.
+<div class="container">
+  <div id="timeline">
+    
+  <div class="tyear">2019</div>
 
-Hematology
-===
-1. 07/2018 -- CRIPSR screen identifies HRI as fetal globin regulator ([paper](../download/201807_hri_crispr.pdf)). 
-	*Grevet, et. al.* developed a CRISPR-Cas9 screen to target protein kinases, which theoretically are easier to target by small molecules. They identified the heme-regulated inhibitor HRI (a.k.a. EIF2AK1) as an inducer of HbF, and found that although HRI has been shown previously to play a role in global translation, the elevation of HbF was remarkably specific. In follow-up experiments, they used short-hairpin RNA to knock down HRI and demonstrated 1) reproducible HbF elevations, 2) diminished sickling of CD34$$^+$$ HbSS cells, 3) decreased BCL11A protein expression with HRI knockdown, and 4) unimpaired erythrocyte maturation with HRI knockdown. This evidence points toward HRI as a potential target for HbF induction and characterizes HRI as a potential upstream player of the BCL11A pathway. However, importantly HRI has a role in global protein translation, which may make clinical translation difficult. Furthermore, HRI$$^{-/-}$$ mice have been previously shown to display impaired adaptation to iron deficiency, and had phenotypes of thalassemia.
+  <div id="bookpapers" class="timelineitem">
+      <div class="tdate">May</div>
+      <div class="ttitle" onClick="showDetails('exhalation')">
+        Exhalation
+        <a href="https://amzn.to/2VsW37H">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="exhalation" style="display:none;">
+        <div class="tauthor">Ted Chiang</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/exhalation.jpg"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+              Ted Chiang is a remarkable author who has lately earned wide recognition for his small collection of science fiction stories. His prior work, <a href="https://amzn.to/2HppjZ8">Stories of Your Life and Others</a>, led to the production of <i>Arrival</i>. This book contains 9 short stories varying from 3 pages in length to over 100, telling the tales of old and new societies grappling with harsh realities of humanity, technology, and free will. Stories such as "The Merchant and the Alchemist's Gate" and "The Lifecycle of Software Objects" already have the potential to be adapted into film.
+            </p>
+            <p>
+              Perhaps the most interesting aspect of Chiang's writing is that it so often bucks the trend of science fiction writing. While he explores the themes of artificial intelligence and time travel, his stories are often set in ancient societies, giving his tales a flavor of fables; it is through this technique that he is able to dive more deeply into the humanity of his stories without getting distracted from the shiny settings of the future that so many other scifi writers indulge in. Though some of his stories are Black Mirror dark, others are less so and perhaps a little more optimistic. This new book comes with tremendously high recommendations. 9.5/10 from me.
+            </p>
+          </div>
+        </div>
+      </div>
 
-2. 04/2018 -- NETs promote thrombosis in MPNs ([paper](../download/201804_nets_mpn_thrombosis.pdf)). I made a presentation for my pediatric hematology rotation describing this paper in detail. The presentation can be found [here](../download/201804_netosis_presentation.pdf). Please note that there are several slides from the beginning of this slide deck that have been redacted for patient confidentiality.
+  <div class="tyear">2018</div>
+  
+  <div id="preventivepapers" class="timelineitem">
+      <div class="tdate">September</div>
+      <div class="ttitle" onClick="showDetails('aspirin')">
+        Effect of aspirin on disability-free survival in the healthy elderly
+        <a href="/download/201809_aspirin_elderly.pdf">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="aspirin" style="display:none;">
+        <div class="tauthor">J.J. McNeil, R.L. Woods, M.R. Nelson, C.M. Reid, B. Kirpach, R. Wolfe, E. Storey, R.C. Shah, J.E. Lockery, A.M. Tonkin, A.B. Newman, J.D. Williamson, K.L. Margolis, M.E. Ernst, W.P. Abhayaratna, N. Stocks, S.M. Fitzgerald, S.G. Orchard, R.E. Trevaks, L.J. Beilin, G.A. Donnan, P. Gibbs, C.I. Johnston, J. Ryan, B. Radziszewska, R. Grimm, and A.M. Murray, for the ASPREE Investigator Group</div>
+        <div class="taffiliation">New England journal of medicine</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/aspirin_panel.png"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+              <i>McNeil, et. al.</i> demonstrated over a 5-year span that low-dose aspirin therapy in healthy seniors did not prolong disability free survival, and led to a statistically significant increase in major hemorrhagic events. The cohort that was recruited included 19,114 persons, roughly half of which were randomized to receive 100 mg aspirin qday, and the other half of which received placebo. The trial was terminated at a median of 4.7 years of follow-up. There were 21.5 events per 1000 person-years in the aspirin group, compared to 21.2 events per 1000 person-years in the placebo group. Events were defined as death, dementia, or persistent physical disability. Limitations of this particular trial include a relatively short duration of intervention and a relatively old cohort of patients. Importantly, some participants had been regularly taking low-dose aspirin prior to the trial; the results of the paper did not stratify for these people, and it remains to be determined how the conclusion of this paper will contribute to the question of whether healthy elderly patients who had been using aspirin for primary prevention should continue or discontinue its use. Also notable was that the population in question was predominantly white.
+            </p>
+            <p>
+              The authors of this study also released an accompanying study (<a href="/download/201809_aspirin_cancer.pdf">paper</a>) which showed, surprisingly, that the group of patients treated with aspirin had a statisically significant increase in the likelihood of cancer-related deaths, but not of deaths secondary to major hemorrhage. However, the aspirin group did experience a significantly higher rate of major hemorrhage events; these two points indicate that the hemorrhages did not overall contribute to an increase in the number of deaths.
+            </p>
+          </div>
+        </div>
+      </div>
 
-3. 07/2018 -- L-Glutamine reduces pain crises in sickle cell disease ([paper](../download/201807_glutamine_scd.pdf)).
-	*Niihara, et. al.* demonstrate through a randomized clinical trial--involving 152 patients that received L-glutamine for 48 weeks and 78 patients that received placebo--that pharmaceutical-grade L-glutamine reduces the number of pain crises, time to pain crisis, number of hospitalizations, and incidence of acute chest syndrome in patients with sickle cell disease and sickle-$$\beta_0$$ thalassemia. However, the L-glutamine group did endorse more non-cardiac pain, low-grade nausea, and musculoskeletal pain. Two deaths occurred in the L-glutamine group of cardiac causes, though both these patients had been very sick upon enrollment, and there is no known evidence that L-glutamine contributes to cardiac events. This clinical trial included a diverse group of patients, with multiple genotypes, a large age spread, among other variables, and more detailed subgroup analysis will be helpful to identify those individuals that may benefit most from L-glutamine supplementation. Notably, a large number of patients were treated concomitantly with hydroxyurea, and the paper does not stratify based on hydroxyurea use.
+  <div id="oncologypapers" class="timelineitem">
+      <div class="tdate">September</div>
+      <div class="ttitle" onClick="showDetails('aml_recurrence')">
+        Identification of chemotherapy-induced leukemic-regenerating cells reveals a transient vulnerability of human AML recurrence
+        <a href="/download/201809_recurrence_AML_vulnerability.pdf">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="aml_recurrence" style="display:none;">
+        <div class="tauthor">Allison L. Boyd, Lili Aslostovar, Jennifer Reid, Wendy Ye, Borko Tanasijevic, Deanna P. Porras, Zoya Shapovalova, Mohammed Almakadi, Ronan Foley, Brian Leber, Anargyros Xenocostas, Mickie Bhatia</div>
+        <div class="taffiliation">Cancer cell</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/aml_recurrence_panel.png"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+              <i>Boyd, et. al.</i> demonstrate that, contrary to pre-existing theories, there does not exist a pool of leukemic stem cells (LSCs) that is resistant to chemotherapy, and that LSCs are equally susceptible to Ara-C as more downstream leukemic cells. Furthermore, they show that cytoreductive chemotherapy fuels accelerated leukemic regeneration to rates that exceed leukemic generation pre-chemotherapy. By the time the cancer has relapsed, leukemia-initiating cells and progenitor pools have already recovered. The authors took leukemia-regenerating cells (LRCs) post-chemotherapy and compared their gene expression signatures to that of untreated leukemic stem cells, and identified a set of uniquely upregulated genes that could be targeted with currently existing drugs. Treatment of the leukemia in xenografts with Ara-C alongside one of these drugs either completely wiped out the leukemia or delayed relapse significantly. Notably, the authors also found through their experimentation that leukemic regeneration cannot be modeled *in vitro*, suggesting an important role for the bone marrow microenvironment in leukemic regeneration. Finally, the authors describe a gene, SLC2A2, which acts as a reliable way to stratify patients based on disease remission vs. persistance/relapse.
+            </p>
+          </div>
+        </div>
+      </div>
 
-4. 11/2018 -- *BGLT3* is a positive regulator of fetal hemoglobin ([paper](../download/201811_bglt3_hbf.pdf)).
-	*Ivaldi, et. al.* demonstrate that *BGLT3* is a positive regulator of both HbG loci. A [commentary](http://www.bloodjournal.org/content/132/18/1865) is available and helpful in deconstructing parts of this paper. 
+  <div id="geneticspapers" class="timelineitem">
+      <div class="tdate">July</div>
+      <div class="ttitle" onClick="showDetails('primateai')">
+        Predicting the clinical impact of human mutation with deep neural networks
+        <a href="/download/201807_primateai.pdf">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="primateai" style="display:none;">
+        <div class="tauthor">Laksshman Sundaram, Hong Gao, Samskruthi Reddy Padigepati, Jeremy F. McRae, Yanjun Li, Jack A. Kosmicki, Nondas Fritzilas, Jörg Hakenberg, Anindita Dutta, John Shon, Jinbo Xu, Serafim Batzloglou, Xiaolin Li, Kyle Kai-How Farh</div>
+        <div class="taffiliation">Nature genetics</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/primateai_panel.png"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+              <i>Sundaram, et. al.</i> published a deep neural network trained on a set of hundreds of thousands of common variants using a small population of 6 non-human primate species, and demonstrated that their new tool is powerful at classifying benign and pathogenic variants in humans. Notably, PrimateAI is unbiased compared to prior pathogenicity classifiers as it does not take human-classified ClinVar variants as input. PrimateAI also incorporates a secondary structure prediction model and solvent accessibility prediction model which takes as input a variant and its surrounding 102 amino acid sequence.
+            </p>
+          </div>
+        </div>
+      </div>
 
-Oncology
-===
-1. 09/2018 -- Ara-C induces leukemia-regenerating cells that have a distinct gene expression signature is potentially vulnerable to therapy ([paper](../download/201809_recurrence_AML_vulnerability.pdf)).
-	*Boyd, et. al.* demonstrate that, contrary to pre-existing theories, there does not exist a pool of leukemic stem cells (LSCs) that is resistant to chemotherapy, and that LSCs are equally susceptible to Ara-C as more downstream leukemic cells. Furthermore, they show that cytoreductive chemotherapy fuels accelerated leukemic regeneration to rates that exceed leukemic generation pre-chemotherapy. By the time the cancer has relapsed, leukemia-initiating cells and progenitor pools have already recovered. The authors took leukemia-regenerating cells (LRCs) post-chemotherapy and compared their gene expression signatures to that of untreated leukemic stem cells, and identified a set of uniquely upregulated genes that could be targeted with currently existing drugs. Treatment of the leukemia in xenografts with Ara-C alongside one of these drugs either completely wiped out the leukemia or delayed relapse significantly. Notably, the authors also found through their experimentation that leukemic regeneration cannot be modeled *in vitro*, suggesting an important role for the bone marrow microenvironment in leukemic regeneration. Finally, the authors describe a gene, SLC2A2, which acts as a reliable way to stratify patients based on disease remission vs. persistance/relapse.
+  <div id="hematologypapers" class="timelineitem">
+      <div class="tdate">April</div>
+      <div class="ttitle" onClick="showDetails('nets')">
+        Increased neutrophil extracellular trap formation promotes thrombosis in myeloproliferative neoplasms
+        <a href="/download/201804_nets_mpn_thrombosis.pdf">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="nets" style="display:none;">
+        <div class="tauthor">Ofir Wolach, Rob S. Sellar, Kimberly Martinod, Deya Cherpokova, Marie McConkey, Ryan J. Chappell, Alexander J. Silver, Dylan Adams, Cecilia A. Castellano, Rebekka K. Schneider, Robert F. Padera, Daniel J. DeAngelo, Martha Wadleigh, David P. Steensma, Ilene Galinsky, Richard M. Stone, Giulio Genovese, Steven A. McCarroll, Bozenna Iliadou1, Christina Hultman1, Donna Neuberg, Ann Mullally, Denisa D. Wagner, Benjamin L. Ebert</div>
+        <div class="taffiliation">Science translational medicine</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/net_panel.png"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+              I made a presentation for my pediatric hematology rotation describing this paper in detail. The presentation can be found <a href="/download/201804_netosis_presentation.pdf">here</a>. Please note that there are several slides from the beginning of this slide deck that have been redacted for patient confidentiality.
+            </p>
+          </div>
+        </div>
+      </div>
 
-2. 10/2018 -- Atezolizumab and Nab-Paclitaxel combination therapy in advanced triple-negative breast cancer ([paper](../download/201810_triple_neg_brca_trial.pdf)).
-	*Schmid, et. al.* demonstrate in a randomized controlled trial in over 900 patients that atezolizumab (a PD-L1 inhibitor) in combination with nanoparticle albumin-bound paclitaxel improves outcomes in patients with advanced triple-negative breast cancer, when compared to the standard of care (nab-paclitaxel alone). The main result demonstrates that there is a significant increase in progression-free survival among patients when treated with atezolizumab in addition to standard-of-care therapy. However, subgroup analysis demonstrates that there is a greater effect size in the PD-L1 positive subgroup. The median increase in progression-free survival is 2.5 months. Interestingly, the case group had a notable increase in incidence of grade 3-4 peripheral neuropathy compared to the control group. There was also a greater incidence of hypothyroidism in those treated with atezolizumab. However, all other measured adverse events did not show a significance difference between the two groups.
+  <div class="tyear">2017</div>
 
-Cardiology
-===
-1. 07/2018 -- Infusion of an HDL mimetic does not cause plaque regression in patients diagnosed with acute coronary syndrome ([paper](../download/jamacardiology_Nicholls_2018_oi_180033.pdf)).
-	*Nicholls, et. al.* show in a small multicenter double-blind RCT that infusion of MDCO-216 (an HDL-mimetic) did not cause plaque regression in patients with ACS, as determined by plaque ultrasonography. This provides some level of evidence that HDL by itself does not functionally modulate cardiovascular outcomes and may instead be a marker in another important pathway. Importantly, the patients enrolled in this study were previously diagnosed with acute coronary syndrome and many were on intensive medical regimens in addition to the HDL mimetic; this study does not answer the question of whether HDL mimetics may be helpful in patients who have not yet been diagnosed with ACS. 
+  <div id="geneticspapers" class="timelineitem">
+      <div class="tdate">February</div>
+      <div class="ttitle" onClick="showDetails('prs_cards')">
+        Polygenic risk score identifies subgroup with higher burden of atherosclerosis and greater relative benefit from statin therapy in the primary prevention setting
+        <a href="/download/201702_prs_cardiovascular.pdf">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="prs_cards" style="display:none;">
+        <div class="tauthor">Pradeep Natarajan, Robin Young, Nathan O. Stitziel, Sandosh Padmanabhan, Usman Baber, Roxana Mehran, Samantha Sartori, Valentin Fuster, Dermot F. Reilly, Adam Butterworth, Daniel J. Rader, Ian Ford, Naveed Sattar, Sekar Kathiresan</div>
+        <div class="taffiliation">Circulation</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/prs_cards_panel.png"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+              <i>Natarajan, et. al.</i> describe developing a polygenic risk score from 57 SNPs which predicted additional benefit from statin therapy. This study demonstrated several important points. 1) Statins confer a greater risk reduction in those patients at high genetic risk, determined by the polygenic risk score. Interestingly this group does not on average have higher LDL levels compared to lower genetic risk subgroups. 2) Asymptomatic individuals with no history of coronary heart disease have higher burden of subclinical atherosclerosis with higher PRS. The PRS only incorporates common genetic variation but is not validated in patients with familial hypercholesterolemia.
+            </p>
+          </div>
+        </div>
+      </div>
 
-Preventive Medicine
-===
-1. 09/2018 -- Low-dose aspirin in the healthy elderly does not prolong disability-free survival ([paper](../download/201809_aspirin_elderly.pdf)).
-	*McNeil, et. al.* demonstrated over a 5-year span that low-dose aspirin therapy in healthy seniors did not prolong disability free survival, and led to a statistically significant increase in major hemorrhagic events. The cohort that was recruited included 19,114 persons, roughly half of which were randomized to receive 100 mg aspirin qday, and the other half of which received placebo. The trial was terminated at a median of 4.7 years of follow-up. There were 21.5 events per 1000 person-years in the aspirin group, compared to 21.2 events per 1000 person-years in the placebo group. Events were defined as death, dementia, or persistent physical disability. Limitations of this particular trial include a relatively short duration of intervention and a relatively old cohort of patients. Importantly, some participants had been regularly taking low-dose aspirin prior to the trial; the results of the paper did not stratify for these people, and it remains to be determined how the conclusion of this paper will contribute to the question of whether healthy elderly patients who had been using aspirin for primary prevention should continue or discontinue its use. Also notable was that the population in question was predominantly white.
 
-	The authors of this study also released an accompanying study ([paper](..download/201809_aspirin_cancer.pdf)) which showed, surprisingly, that the group of patients treated with aspirin had a statisically significant increase in the likelihood of cancer-related deaths, but not of deaths secondary to major hemorrhage. However, the aspirin group did experience a significantly higher rate of major hemorrhage events; these two points indicate that the hemorrhages did not overall contribute to an increase in the number of deaths.
+  </div>
 
-2. 10/2018 -- Effects of Aspirin for Primary Prevention in Persons with Diabetes Mellitus ([paper](../download/201810_aspirin_diabetes.pdf)).
-	*The ASCEND Study Collaborative Group* demonstrated over a mean follow-up of 7.4 years that, in patients with diabetes but without evidence of vascular disease, treatment of aspirin at a dose of 100 mg led to a statistically significant decrease in serious vascular events, though the effect size was small (8.5% in the cases vs. 9.6% in placebo controls). The benefits in this group was counterbalanced by a statistically significant increase in serious bleeding events (4.1% in cases, vs. 3.2% in placebo controls). The study group is planning long-term follow-up to monitor for onset of gastrointestinal cancer; so far, there is no evidence of differences in incidence of cancer between cases and controls.
+
+<script>
+function start() {
+	var show_genetics_papers = true;
+  $("#showgeneticspapers").click(function() {
+    if(!show_genetics_papers) {
+      $('[id=geneticspapers]').each(function() {
+      	$('[id=geneticspapers]').slideDown('fast', function() {
+      		$("#showgeneticspapers").css('border', '2px solid #777');
+          $("#showgeneticspapers").css('color', '#777');
+      	})
+      });
+      show_genetics_papers = true;
+    } else {
+      $('[id=geneticspapers]').each(function() {
+      	$('[id=geneticspapers]').slideUp('fast', function() {
+      		$("#showgeneticspapers").css('border', '2px solid #CCC');
+          $("#showgeneticspapers").css('color', '#CCC');
+      	})
+      });
+      show_genetics_papers = false;
+    }
+  });
+
+    var show_hematology_papers = true;
+  $("#showhematologypapers").click(function() {
+    if(!show_hematology_papers) {
+      $('[id=hematologypapers]').each(function() {
+        $('[id=hematologypapers]').slideDown('fast', function() {
+          $("#showhematologypapers").css('border', '2px solid #777');
+          $("#showhematologypapers").css('color', '#777');
+        })
+      });
+      show_hematology_papers = true;
+    } else {
+      $('[id=hematologypapers]').each(function() {
+        $('[id=hematologypapers]').slideUp('fast', function() {
+          $("#showhematologypapers").css('border', '2px solid #CCC');
+          $("#showhematologypapers").css('color', '#CCC');
+        })
+      });
+      show_hematology_papers = false;
+    }
+  });
+
+    var show_oncology_papers = true;
+  $("#showoncologypapers").click(function() {
+    if(!show_oncology_papers) {
+      $('[id=oncologypapers]').each(function() {
+        $('[id=oncologypapers]').slideDown('fast', function() {
+          $("#showoncologypapers").css('border', '2px solid #777');
+          $("#showoncologypapers").css('color', '#777');
+        })
+      });
+      show_oncology_papers = true;
+    } else {
+      $('[id=oncologypapers]').each(function() {
+        $('[id=oncologypapers]').slideUp('fast', function() {
+          $("#showoncologypapers").css('border', '2px solid #CCC');
+          $("#showoncologypapers").css('color', '#CCC');
+        })
+      });
+      show_oncology_papers = false;
+    }
+  });
+
+  	var show_preventive_papers = true;
+  $("#showpreventivepapers").click(function() {
+    if(!show_preventive_papers) {
+      $('[id=preventivepapers]').each(function() {
+      	$('[id=preventivepapers]').slideDown('fast', function() {
+      		$("#showpreventivepapers").css('border', '2px solid #777');
+          $("#showpreventivepapers").css('color', '#777');
+      	})
+      });
+      show_preventive_papers = true;
+    } else {
+      $('[id=preventivepapers]').each(function() {
+      	$('[id=preventivepapers]').slideUp('fast', function() {
+      		$("#showpreventivepapers").css('border', '2px solid #CCC');
+          $("#showpreventivepapers").css('color', '#CCC');
+      	})
+      });
+      show_preventive_papers = false;
+    }
+  });
+
+    var show_book_papers = true;
+  $("#showbookpapers").click(function() {
+    if(!show_book_papers) {
+      $('[id=bookpapers]').each(function() {
+        $('[id=bookpapers]').slideDown('fast', function() {
+          $("#showbookpapers").css('border', '2px solid #777');
+          $("#showbookpapers").css('color', '#777');
+        })
+      });
+      show_book_papers = true;
+    } else {
+      $('[id=bookpapers]').each(function() {
+        $('[id=bookpapers]').slideUp('fast', function() {
+          $("#showbookpapers").css('border', '2px solid #CCC');
+          $("#showbookpapers").css('color', '#CCC');
+        })
+      });
+      show_book_papers = false;
+    }
+  });
+
+
+}
+
+</script>
+
+<script type="text/javascript">
+
+function showDetails(name) {
+    $('#' + name).toggle(); 
+}
+
+// $(function(){
+//   $('#ttitle').click(function(){
+//      $('#xor_details').toggle(); 
+//   });
+// });
+</script>
