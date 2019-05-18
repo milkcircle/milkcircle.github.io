@@ -5,10 +5,9 @@ permalink: /reading/
 ---
 
 <!-- Include JQUERY stuff (I don't really get all this) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-<script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
-<script type="text/javascript" src="/static/jquery-1.11.1.min.js"></script>
+<script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>-->
 <script type="text/javascript" src="/static/js/layout.js"></script>
 <script type="text/javascript" src="/static/js/common.js"></script>
 <script type="text/javascript"
