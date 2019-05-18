@@ -6,11 +6,6 @@
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} posts" />
-    
-    <!--Trying tooltipster-->
-    <link rel="stylesheet" type="text/css" href="/tooltipster/dist/css/tooltipster.bundle.min.css" />
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
-    <script type="text/javascript" src="/tooltipster/dist/js/tooltipster.bundle.min.js"></script>
 
 
     <!--Link to Font Awesome-->
@@ -22,6 +17,11 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+
+    <!--Trying tooltipster-->
+    <link rel="stylesheet" type="text/css" href="/tooltipster/dist/css/tooltipster.bundle.min.css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+    <script type="text/javascript" src="/tooltipster/dist/js/tooltipster.bundle.min.js"></script>
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -44,7 +44,7 @@
     <script>
         $(document).ready(function() {
             $('.tooltip').tooltipster({
-                delay: 100
+                delay: 100,
             });
         });
     </script>
