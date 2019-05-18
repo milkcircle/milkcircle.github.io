@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: the sea is not full
 date: 2019-01-23 13:00:01 -0700

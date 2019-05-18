@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: retrospect
 date: 2019-01-02 13:00:00 -0700

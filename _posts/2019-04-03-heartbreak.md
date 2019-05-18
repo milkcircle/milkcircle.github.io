@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: what is love without heartbreak?
 date: 2019-04-03 12:01:00 -0700

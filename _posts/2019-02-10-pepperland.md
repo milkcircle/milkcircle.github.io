@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "A remarkable tribute to the Beatles"
 layout: post
 title: Pepperland is to The Beatles what Primus is to the Chocolate Factory
 date: 2019-02-10 12:00:00 -0700

@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: if the mind is a battlefield
 date: 2019-01-07 13:00:00 -0700

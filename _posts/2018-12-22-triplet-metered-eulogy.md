@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: triplet-metered eulogy
 date: 2018-12-22 12:00:00 -0700

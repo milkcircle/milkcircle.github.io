@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: you're electric.
 date: 2019-04-04 12:01:00 -0700

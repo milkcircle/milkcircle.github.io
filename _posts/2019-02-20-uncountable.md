@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "Cantor's first proof of the uncountability of reals"
 layout: post
 title: Uncountability and Cardinality 
 date: 2019-02-20 11:13:25 -0700

@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: Under the Rainbow 
 date: 2016-08-03 12:00:00 -0700
@@ -15,6 +17,6 @@ Solution: Use indicator variables, where $$I_i$$ represents the success of drawi
 
 The following code in R immediately retrieves the answer.
 
-{% highlight R %}
+~~~ R
 7*(1-phyper(0,10,60,20))
-{% endhighlight %}
+~~~

@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: homunculus
 date: 2018-12-18 12:00:00 -0700

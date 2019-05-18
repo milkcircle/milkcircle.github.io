@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: phanerozoic
 date: 2019-01-20 13:00:00 -0700

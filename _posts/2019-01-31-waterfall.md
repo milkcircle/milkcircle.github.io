@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: waterfall
 date: 2019-01-31 12:00:00 -0700

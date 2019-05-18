@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: afterlife
 date: 2019-01-16 13:01:00 -0700

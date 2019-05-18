@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "Foraying into knot theory"
 layout: post
 title: Not all knots are projections of the unknot
 date: 2019-02-08 12:00:00 -0700

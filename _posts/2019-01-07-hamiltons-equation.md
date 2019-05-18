@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "Notes taken from my reading"
 layout: post
 title: Hamilton's kin-selection equation
 date: 2019-01-07 13:01:00 -0700

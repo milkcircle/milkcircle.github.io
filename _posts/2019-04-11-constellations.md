@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: constellations
 date: 2019-04-11 12:01:00 -0700

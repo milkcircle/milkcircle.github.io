@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: i long for you more than missingly
 date: 2019-03-14 12:01:00 -0700

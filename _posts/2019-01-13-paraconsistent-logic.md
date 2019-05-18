@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "Revisiting metamathematics"
 layout: post
 title: Overview of Paraconsistent Logic
 date: 2019-01-13 13:01:00 -0700

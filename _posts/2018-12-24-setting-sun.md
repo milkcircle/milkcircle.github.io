@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: setting sun
 date: 2018-12-24 12:00:00 -0700

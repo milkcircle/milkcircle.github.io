@@ -6,6 +6,8 @@ categories: explanatory
 math: true
 comments: true
 author: Aaron
+excerpt: "A 538 puzzle and several solutions"
+include: true
 ---
 Here I share the solution to a puzzle I came across on [538](https://fivethirtyeight.com/features/whats-the-best-way-to-drop-a-smartphone/). The puzzle is stated below:
 

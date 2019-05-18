@@ -6,6 +6,8 @@ categories: poetry
 math: true
 comments: true
 author: Aaron
+excerpt: ""
+include: true
 ---
 when we're in the dark  
 you are my map  

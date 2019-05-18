@@ -6,6 +6,8 @@ categories: explanatory
 math: true
 comments: true
 author: Aaron
+excerpt: "A foray into neuropsychiatric diagnosis"
+include: true
 ---
 While on the neurology floor at the Massachusetts General Hospital, I met several patients who were diagnosed with pseudoseizures, a condition that mimics seizures but is not accompanied by the typical epileptiform EEG findings. This condition is considered today to be psychogenic in etiology. A question came up on rounds one day when a young catatonic patient was admitted to the floor: could there be such a thing as pseudo-catatonia, which might be analogous to pseudoseizures?
 

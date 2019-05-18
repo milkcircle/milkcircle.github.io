@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: list of life's pleasures
 date: 2019-04-08 12:01:00 -0700

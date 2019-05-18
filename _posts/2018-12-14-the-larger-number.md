@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "An unexpected result of a simple problem"
 layout: post
 title: The Larger Number
 date: 2018-12-14 12:00:00 -0700

@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: yours is the sky
 date: 2019-04-30 12:01:00 -0700

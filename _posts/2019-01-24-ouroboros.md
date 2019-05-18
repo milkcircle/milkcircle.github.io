@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: ouroboros
 date: 2019-01-24 13:01:00 -0700

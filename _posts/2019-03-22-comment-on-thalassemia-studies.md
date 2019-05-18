@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: A flaw in thalassemia clinical studies
 date: 2019-03-22 12:01:00 -0700

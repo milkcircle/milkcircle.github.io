@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: why'd you go? why'd you go...
 date: 2019-04-07 12:01:00 -0700

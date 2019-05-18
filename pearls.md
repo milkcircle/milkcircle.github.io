@@ -6,7 +6,7 @@ permalink: /pearls/
 
 
 ### Critical Care
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Vascular Access](https://aaroncheng.me/pearls/vascular-access)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[Vascular Access]({{ site.baseurl }}/pearls/vascular-access)
 
 ### Hematology
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Transfusion medicine](https://aaroncheng.me/pearls/transfusion-medicine)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[Transfusion medicine]({{ site.baseurl }}/pearls/transfusion-medicine)

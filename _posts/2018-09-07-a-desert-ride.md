@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: A desert ride
 date: 2018-09-07 12:00:00 -0700

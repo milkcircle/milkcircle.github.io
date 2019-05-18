@@ -6,6 +6,8 @@ categories: poetry
 math: true
 comments: true
 author: Aaron
+excerpt: ""
+include: true
 ---
 Four years ago, the ground rumbled and shook  
 and I watched the sidewalk blister and crack  

@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: to catch a poem
 date: 2019-02-04 12:00:00 -0700

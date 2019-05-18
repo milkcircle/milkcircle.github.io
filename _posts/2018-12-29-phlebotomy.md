@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: phlebotomy
 date: 2018-12-29 13:00:00 -0700

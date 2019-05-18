@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "A short guide for those who want to unify multiple pages under one master domain"
 layout: post
 title: How to create and link a subdomain
 date: 2019-04-12 12:01:00 -0700

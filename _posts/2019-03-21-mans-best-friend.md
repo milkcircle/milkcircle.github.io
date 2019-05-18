@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: man's best friend
 date: 2019-03-21 12:01:00 -0700

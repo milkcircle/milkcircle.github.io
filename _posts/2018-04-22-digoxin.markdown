@@ -6,11 +6,13 @@ categories: explanatory
 math: true
 comments: true
 author: Aaron
+excerpt: "Brief notes written while on the cardiology floor"
+include: true
 ---
 Inotropes are medications that help the heart to operate at higher capacity by increasing the force of ventricular contraction. This causes the Frank-Starling curve to shift upward toward normal, so that at any left ventricular end-diastolic pressure, the cardiac output is greater. Here I describe the actions of **digoxin**, a previously popular inotrope that has fallen out of favor to other inotropic drugs.
 
-Mechanism
-===
+### Mechanism
+
 ![Mechanism -- from *Pathophysiology of Heart Disease, 5th edition. Lilly et. al.*]({{ site.url }}/images/digoxin_mechanism.png)
 
 The **mechanical effect** of digoxin is described below.
@@ -33,8 +35,8 @@ Digoxin can, however, have **toxic effects** that lead to arrhythmias. It does t
 
 Indirect vagal effects can also cause high degrees of AV block.
 
-Uses
-===
+### Uses
+
 When do we use digoxin today?
 
 1. CHF complicated by atrial fibrillation (since it also slows the ventricular rate)
@@ -42,14 +44,14 @@ When do we use digoxin today?
 
 Importantly, *digoxin does not prolong life expectancy of patients with chronic heart failure*.
 
-Pharmacokinetics and toxicity
-===
+### Pharmacokinetics and toxicity
+
 Digoxin is excreted by the kidneys, and requires loading doses (an initially higher dose of a drug) to achieve therapeutic concentrations. Digoxin may act on the area postrema of the brain to induce nausea. Digoxin can also cause arrhythmias, heart blocks, and tachycardias.
 
 In patients with hypokalemia, hypomagnesemia, and hypercalcemia, digitalis toxicity should be monitored. Administering with amniodarone can also raise serum digoxin concentration through changes in digoxin clearance.
 
 Treatment of digoxin toxicity includes potassium repletion and IV lidocaine for digoxin-triggered arrhythmias. High-grade AV block could be an indication for pacemaker therapy. For severe intoxication, anti-digoxin antibodies may be useful.
 
-Summary
-===
+### Summary
+
 ![Summary]({{ site.url }}/images/digoxin_summary.png)

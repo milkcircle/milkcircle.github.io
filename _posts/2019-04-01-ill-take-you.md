@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: i'll take you
 date: 2019-04-01 12:01:00 -0700

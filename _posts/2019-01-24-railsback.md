@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "An explanation of an interesting musical phenomenon"
 layout: post
 title: Why are notes at the extremes of a digital keyboard slightly off-tune?
 date: 2019-01-24 13:00:00 -0700

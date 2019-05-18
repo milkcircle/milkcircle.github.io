@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: how to write a song
 date: 2019-03-06 12:00:00 -0700

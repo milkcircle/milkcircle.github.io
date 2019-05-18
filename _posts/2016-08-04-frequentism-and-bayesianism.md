@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: Frequentism vs. Bayesianism 
 date: 2016-08-04 12:00:00 -0700

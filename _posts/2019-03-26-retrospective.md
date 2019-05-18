@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "In which I prepare for my upcoming lecture by remembering the progress in medicine I've witnessed firsthand"
 layout: post
 title: A Disease Retrospective
 date: 2019-03-26 12:01:00 -0700

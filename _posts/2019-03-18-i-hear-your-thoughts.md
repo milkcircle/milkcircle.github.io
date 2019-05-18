@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: ""
 layout: post
 title: i hear your thoughts(i hear them soft
 date: 2019-03-18 12:01:00 -0700

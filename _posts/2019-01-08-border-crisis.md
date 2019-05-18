@@ -1,4 +1,6 @@
 ---
+include: true
+excerpt: "A reaction to Trump's drastic statements"
 layout: post
 title: The Border Crisis
 date: 2019-01-08 13:00:00 -0700
