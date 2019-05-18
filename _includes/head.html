@@ -7,6 +7,12 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} posts" />
     
+    <!--Trying tooltipster-->
+    <link rel="stylesheet" type="text/css" href="/tooltipster/dist/css/tooltipster.bundle.min.css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+    <script type="text/javascript" src="/tooltipster/dist/js/tooltipster.bundle.min.js"></script>
+
+
     <!--Link to Font Awesome-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
@@ -33,6 +39,14 @@
       gtag('js', new Date());
 
       gtag('config', 'UA-122807725-1');
+    </script>
+
+    <script>
+        $(document).ready(function() {
+            $('.tooltip').tooltipster({
+                delay: 150
+            });
+        });
     </script>
 
 </head>

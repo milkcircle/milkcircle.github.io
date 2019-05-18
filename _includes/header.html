@@ -28,11 +28,11 @@
         <!--{% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}-->
-        <a class="page-link" href="{{ site.baseurl }}/archives/"><i class="far fa-calendar-alt fa-lg"></i></a>
-        <a class="page-link" href="{{ site.baseurl }}/reading/"><i class="fas fa-book-reader fa-lg"></i></a>
-        <a class="page-link" href="{{ site.baseurl }}/pearls/"><i class="fas fa-notes-medical fa-lg"></i></a>
-        <a class="page-link" href="https://photos.aaroncheng.me"><i class="fas fa-camera-retro fa-lg"></i></a>
-        <a class="page-link" href="{{ site.baseurl }}/"><i class="fas fa-info-circle fa-lg"></i></a>
+        <a class="page-link" href="{{ site.baseurl }}/archives/"><span class="tooltip" title="Archives"><i class="far fa-calendar-alt fa-lg"></i></span></a>
+        <a class="page-link" href="{{ site.baseurl }}/reading/"><span class="tooltip" title="Reading"><i class="fas fa-book-reader fa-lg"></i></span></a>
+        <a class="page-link" href="{{ site.baseurl }}/pearls/"><span class="tooltip" title="Clinical pearls"><i class="fas fa-notes-medical fa-lg"></i></span></a>
+        <a class="page-link" href="https://photos.aaroncheng.me"><span class="tooltip" title="Photos"><i class="fas fa-camera-retro fa-lg"></i></span></a>
+        <a class="page-link" href="{{ site.baseurl }}/"><span class="tooltip" title="About"><i class="fas fa-info-circle fa-lg"></i></span></a>
       </div>
     </nav>
   </div>

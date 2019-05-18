@@ -10,6 +10,12 @@
     <link rel="canonical" href="http://localhost:4000/404.html">
     <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Aaron Cheng posts" />
     
+    <!--Trying tooltipster-->
+    <link rel="stylesheet" type="text/css" href="/tooltipster/dist/css/tooltipster.bundle.min.css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+    <script type="text/javascript" src="/tooltipster/dist/js/tooltipster.bundle.min.js"></script>
+
+
     <!--Link to Font Awesome-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
@@ -36,6 +42,14 @@
       gtag('js', new Date());
 
       gtag('config', 'UA-122807725-1');
+    </script>
+
+    <script>
+        $(document).ready(function() {
+            $('.tooltip').tooltipster({
+                delay: 150
+            });
+        });
     </script>
 
 </head>
@@ -104,6 +118,8 @@
         
           
         
+          <a class="page-link" href="/tooltipster/">Tooltipster</a>
+        
           <a class="page-link" href="/posts/2/">Posts</a>
         
           <a class="page-link" href="/posts/3/">Posts</a>
@@ -124,11 +140,11 @@
         
           <a class="page-link" href="/posts/11/">Posts</a>
         -->
-        <a class="page-link" href="/archives/"><i class="far fa-calendar-alt fa-lg"></i></a>
-        <a class="page-link" href="/reading/"><i class="fas fa-book-reader fa-lg"></i></a>
-        <a class="page-link" href="/pearls/"><i class="fas fa-notes-medical fa-lg"></i></a>
-        <a class="page-link" href="https://photos.aaroncheng.me"><i class="fas fa-camera-retro fa-lg"></i></a>
-        <a class="page-link" href="/"><i class="fas fa-info-circle fa-lg"></i></a>
+        <a class="page-link" href="/archives/"><span class="tooltip" title="Archives"><i class="far fa-calendar-alt fa-lg"></i></span></a>
+        <a class="page-link" href="/reading/"><span class="tooltip" title="Reading"><i class="fas fa-book-reader fa-lg"></i></span></a>
+        <a class="page-link" href="/pearls/"><span class="tooltip" title="Clinical pearls"><i class="fas fa-notes-medical fa-lg"></i></span></a>
+        <a class="page-link" href="https://photos.aaroncheng.me"><span class="tooltip" title="Photos"><i class="fas fa-camera-retro fa-lg"></i></span></a>
+        <a class="page-link" href="/"><span class="tooltip" title="About"><i class="fas fa-info-circle fa-lg"></i></span></a>
       </div>
     </nav>
   </div>
