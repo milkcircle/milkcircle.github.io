@@ -55,6 +55,28 @@ permalink: /reading/
         </div>
       </div>
 
+  <div id="geneticspapers" class="timelineitem">
+      <div class="tdate">April</div>
+      <div class="ttitle" onClick="showDetails('genetic_asthma')">
+        Genetic architectures of childhood- and adult-onset asthma are partly distinct
+        <a href="/download/201904_genetic_asthma.pdf">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="genetic_asthma" style="display:none;">
+        <div class="tauthor">Manuel A.R. Ferreira, Riddhima Mathur, Judith M. Vonk, Agnieszka Szwajda, Ben Brumpton, Raquel Granell, Bronwyn K. Brew, Vilhelmina Ullemar, Yi Lu, Yunxuan Jiang, 23andMe Research Team, eQTLGen Consortium, BIOS Consortium, Patrik K.E. Magnusson, Robert Karlsson, David A. Hinds, Lavinia Paternoster, Gerard H. Koppelman, Catarina Almqvist</div>
+        <div class="taffiliation">American journal of human genetics</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/genetic_asthma_panel.png"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+              *to be written*
+            </p>
+          </div>
+        </div>
+      </div>
+
   <div class="tyear">2018</div>
   
   <div id="preventivepapers" class="timelineitem">
