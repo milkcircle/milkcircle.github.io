@@ -4,7 +4,7 @@ include: true
 
 layout: post
 title: myoclonic grief
-date: 2019-05-20 12:01:00 -0700
+date: 2019-05-22 12:01:00 -0700
 categories: poetry
 math: true
 comments: true
