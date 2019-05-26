@@ -71,7 +71,7 @@ permalink: /reading/
         </div>
           <div class="tdesc">
             <p>
-              *to be written*
+              <i>Ferreira, et. al</i> conducted a large genetic study using genetic data from the UK Biobank to determine the genetic architectures of childhood and adult-onset asthma, and found that genetic architectures were partly similar and partly distinct. They used BOLT-REML as their primary tool for conducting heritability and genetic correlation analyses, and furthermore conducted two genome-wide association studies, finding some overlap in significant hits between COA and AOA and identifying a set of new variants that had not been characterized before for asthma.
             </p>
           </div>
         </div>
