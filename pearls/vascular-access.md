@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vascular Access
+title: Vascular access
 permalink: /pearls/vascular-access
 math: true
 ---
@@ -131,6 +131,18 @@ There are 3 culture methods and criteria for diagnosis of culture-related bloods
 | Culture of tip | Same organism on tip and in peripheral blood |
 | Quantitative blood cultures | Same organism in peripheral and catheter blood, and >3x in catheter blood |
 | Time to positive culture | Same organism in peripheral and catheter blood, and 2h less time to positive culture in catheter blood|
+
+#### Treatment
+
+In general, treat gram-positive organisms with vancomycin (and convert to daptomycin if there's a concern of VREs). For concern of gram-negative organisms, treat with carbapenems or piperacillin-tazobactam. Treat candidemia with fluconazole.
+
+#### Persistent infections
+
+Consider the possibility of 1) **suppurative thrombophlebitis** or 2) **endocarditis**.  
+
+In suppurative thrombophlebitis, the most common offending organism is *Staph aureus*, and the patient may present with signs such as purulent drainage, limb swelling, cavitary lesions in the lungs, and embolic lesions in the hand. Remove the offending catheter and treat with long-term antibiotics. Persistent and refractory septicemia may require surgical removal of thrombi.  
+
+In endocarditis, evaluate for a new heart murmur, and diagnose with *transesophageal* ultrasound.
 
 ___  
 &nbsp;  
