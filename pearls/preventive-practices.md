@@ -53,8 +53,46 @@ Almost every patient in the ICU probably has an oozing gastric ulcer[^3]. Althou
 * Can impede **clopidogrel** antiplatelet activity[^4]!
 
 #### Sucralfate
+Sucralfate doesn't have an effect on gastric acid secretion. It does, however, bind to the denuded surface of an ulcer and protect it from further damage.  
 
+Sucralfate interacts with ciprofloxacin and norfloxacin, so should be spaced if the patient is taking either of these medications. Patients with hypophosphatemia probably should not be on sucralfate.
 
+#### Enteral feeding
+Patients who receive tube feeds probably do not require further prophylactic measures for stress ulcer bleeding. However the data is still sparse on this topic, so maintain a low threshold to start medical stress ulcer prophylaxis.
+
+## Venous thromboembolism
+We'll go through some of the risk factors one by one in this section and talk about some salient learning points.
+
+### Risk factors
+
+#### Major surgery
+Risk of VTE is highest after orthopedic surgery, particularly involving the knee or hip[^5]. Risk is also high in patients who undergo cancer-related surgery[^5].
+
+#### Trauma
+Highest risk is in brain and spinal cord injuries, spinal fractures, and fractures of the hip and knees (think prolonged immobility).
+
+#### Acute medical illness
+Risk factors include cancer, mechanical ventilation, sepsis, prolonged immobility.
+
+### Prophylaxis
+Let's go over some possible options for thrombophylaxis.
+
+#### Unfractionated heparin
+As the name suggests, this is a heterogeneous mixture of heparin in many molecular weights. Only a third of the mixture has anticoagulant activity! UFH works mainly through inhibition of thrombin (factor IIa) and factor Xa (anti-IIa >> anti-Xa activity)[^6].  
+
+Beware: heparin can bind to platelets and trigger an IgG-mediated response in a condition known as *heparin-induced thrombocytopenia*. In obese patients, heparin needs to be re-dosed, since there is an increased V<sub>D</sub> of the drug.
+
+#### Low-molecular-weight heparin
+In contrast to UFH, LMWH acts on Xa more than IIa. Compared to UFH, LMWH tends to have a more predictable dose-response curve and is more potent, and can be dosed less frequently. Furthermore, there is a lower risk of HIT (heparin-induced thrombocytopenia) compared to UFH. However, it is cleared by the kidneys and therefore **needs to be renally dosed**.  
+
+##### Enoxaparin vs. dalteparin
+These are the two types of LMWH that are most widely used. Enoxaparin has seen the most ubiquitous use and therefore most people are more comfortable with it compared to dalteparin. There are several advantages to dalteparin: 1) it can be dosed daily, and 2) you may not have to renally dose (though studies on this are limited)[^7].
+
+#### Mechanical stuff
+Maintain a low threshold to give compression stockings or pneumoboots. There is some risk of skin breakdown, but they are effective.
+
+### Diagnosis
+There are no clinical signs that are sensitive and specific for PE. Keep your senses about you when evaluating worrisome patients. D-dimers are probably useless, especially in the ICU setting where every sick patient has an elevated D-dimer. Best to go ahead with lower extremity ultrasounds. The following is a good flowchart for working up a possible pulmonary embolus:
 ___  
 &nbsp;  
 
@@ -63,3 +101,6 @@ ___
 [^2]: PMID 3546004
 [^3]: PMID 12072660
 [^4]: PMID 24550106
+[^5]: PMID 25594495
+[^6]: PMID 22315259
+[^7]: PMID 18779469
