@@ -93,6 +93,16 @@ Maintain a low threshold to give compression stockings or pneumoboots. There is 
 
 ### Diagnosis
 There are no clinical signs that are sensitive and specific for PE. Keep your senses about you when evaluating worrisome patients. D-dimers are probably useless, especially in the ICU setting where every sick patient has an elevated D-dimer. Best to go ahead with lower extremity ultrasounds. The following is a good flowchart for working up a possible pulmonary embolus:
+
+<center>
+<figure>
+  <img src="{{site.url}}/assets/preventive_practices/pe_flowchart.png" style="max-width: 500px; height: auto"/>
+  <figcaption>Figure 2: Working up a PE</figcaption>
+</figure>
+</center>
+
+
+
 ___  
 &nbsp;  
 
