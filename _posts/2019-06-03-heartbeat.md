@@ -26,7 +26,7 @@ of course it's you
 it's as obvious as the stars at night  
 as consistent as the light of day  
 as omnipresent as the twilight moon  
-as joyous as children as play  
+as joyous as children's play  
 
 and for as long as my heart continues to beat  
 these two words you'll continue to hear  
