@@ -28,8 +28,8 @@ as consistent as the light of day
 as omnipresent as the twilight moon  
 as joyous as children's play  
 
-and for as long as my heart continues to beat  
-these two words you'll continue to hear  
+for as long as my heart continues to beat  
+these two words you'll continue to hear:  
 
 of course  
 of course
