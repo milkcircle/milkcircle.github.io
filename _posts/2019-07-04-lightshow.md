@@ -29,15 +29,17 @@ released when your touch
 triggers the mechanoreceptors  
 within my jaded skin  
 
-feu d'artifice  
+feu d'artifice is  
 
-is the ephemeral swell  
+the ephemeral swell  
 of pizzicato plucks  
 peaking with the chaotic friction  
 of resin on strings  
 
-and when the lightshow ends   
+and when the lightshow ends...   
 
-you and i are the residual night sky  
+you and i are  
+
+the residual night sky  
 with only the drifting smoke  
 as evidence of our fleeting and vivid past.
