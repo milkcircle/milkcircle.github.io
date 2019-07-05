@@ -40,4 +40,4 @@ and when the lightshow ends
 
 you and i are the residual night sky  
 with only the drifting smoke  
-as evidence of the fleeting and vivid past.
+as evidence of our fleeting and vivid past.
