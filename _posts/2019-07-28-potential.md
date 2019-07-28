@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the pleural cavity is a potential space
-date: 2018-07-01 12:00:00 -0700
+date: 2019-07-28 12:00:00 -0700
 categories: poetry 
 math: true
 comments: true
