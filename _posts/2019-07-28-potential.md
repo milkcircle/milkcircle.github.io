@@ -1,12 +1,19 @@
 ---
+excerpt: ""
+include: true
+
 layout: post
-title: the pleural cavity is a potential space
-date: 2019-07-28 12:00:00 -0700
-categories: poetry 
+title: the pleural cavity is a potential space 
+date: 2019-07-28 1:01:00 -0700
+categories: poetry
 math: true
 comments: true
 author: Aaron
 ---
+
+
+
+
 the pleural cavity is a potential space  
 might it someday fill  
 with serum? or lymph?
