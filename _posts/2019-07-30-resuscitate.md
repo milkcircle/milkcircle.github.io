@@ -13,13 +13,11 @@ author: Aaron
 
 
 
-
 we are full code  
 and i whisper to myself  
-the silent rhythm  
-of the compressions i deliver  
+a silent rhythm  
 to keep us alive  
-even as your heart stops beating for us.  
+as your heart stops beating for us.  
 
 and through cracked ribs  
 and hemorrhaging lungs  
