@@ -42,4 +42,4 @@ until he falls asleep drooling on your pillow shoulders
 as you realize that deep inside  
 your hardened adult shell  
 you are wailing with him,  
-wishing someone would let you cry into their shoulders too.
+wishing someone would let you weep into their shoulders too.
