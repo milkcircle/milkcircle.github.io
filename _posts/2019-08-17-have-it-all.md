@@ -48,7 +48,7 @@ you can have my toil and tears
 which i'll bake into the sweets  
 that i make by hand for you  
 and the cards i'll pepper around  
-your home around the holidays  
+your home during the holidays  
 so you're always with the images  
 my idle mind forms of you.  
 
