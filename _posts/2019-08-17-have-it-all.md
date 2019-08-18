@@ -70,5 +70,6 @@ and you could have my trunk
 and you could have the shade i'd hold  
 over your tired, lonesome head  
 
-but darling, you can't have it all, my dear...  
-won't you take what you can get?
+darling, you can't have it all, my dear...  
+but all of what i have  
+is yours.
