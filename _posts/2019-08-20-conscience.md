@@ -20,7 +20,7 @@ and the townsfolk huddle in anxious masses:
 
 but the village children exchange sly glances,  
 for they know  
-that the conscience comes not in loud angry claps  
+that conscience comes not in loud angry claps  
 of zippered lightning,
 
 but in shy whispered winds  
@@ -28,7 +28,7 @@ and quiet swells of waves
 and the occasional flutter of a soft heartbeat  
 
 and though inaudible to the ear  
-the conscience in this form  
+conscience in this form  
 masks all other sounds  
 and its omnipotence  
 reverberates and is felt  
