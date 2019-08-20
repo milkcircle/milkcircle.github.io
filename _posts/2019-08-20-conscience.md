@@ -12,7 +12,7 @@ author: Aaron
 ---
 
 
-deafening comes the thunder  
+deafeningly comes the thunder  
 from overcast mournful skies  
 and the townsfolk huddle in anxious masses:  
 "tonight," they cry,  
