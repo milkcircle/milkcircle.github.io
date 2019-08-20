@@ -4,7 +4,7 @@ include: true
 
 layout: post
 title: conscience
-date: 2019-08-12 1:02:00 -0700
+date: 2019-08-20 1:02:00 -0700
 categories: poetry
 math: true
 comments: true
