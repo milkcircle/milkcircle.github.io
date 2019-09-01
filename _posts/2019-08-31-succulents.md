@@ -12,8 +12,8 @@ author: Aaron
 ---
 
 slow!  
-how succulents grow  
-and reach toward the window  
+slow, how succulents grow  
+and snake toward the window  
 as though to feel the soft winds blow  
 and the heat of the sun aglow...  
 
@@ -24,7 +24,7 @@ whose light brightens this atmosphere)
 
 and as a flower will bend toward  
 the sun -- so i bend toward you, my young adored:  
-and as a flower carves a path of its own accord  
+and as a flower moves of its own accord  
 so do i wish you -- my dear -- would come aboard...  
 
 
