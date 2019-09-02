@@ -24,4 +24,4 @@ and you broke out into a smile
 i thought i'd let you know, my friend  
 you and your chipmunk cheeks  
 made a tired student laugh to no end  
-on a night that was otherwise bleak
+on a night that was otherwise brute and bleak.
