@@ -20,5 +20,5 @@ every step a heart to crush.
 but there remains a life alive  
 and a beating heart whose sounds you hear  
 
-come and feed this beating heart of mine  
+come and feed this heart of mine  
 kindle the quiet flame!
