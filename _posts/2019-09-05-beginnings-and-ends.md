@@ -17,8 +17,8 @@ over the span of weeks, dance a
 miserable dance with you, me, him:  
 every step a heart to crush.  
 
-but there remains a life alive
-and a beating heart whose sounds you hear
+but there remains a life alive  
+and a beating heart whose sounds you hear  
 
-come and feed this beating heart of mine
+come and feed this beating heart of mine  
 kindle the quiet flame!
