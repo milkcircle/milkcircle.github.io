@@ -4,7 +4,7 @@ include: true
 
 layout: post
 title: crypt 
-date: 2019-09-04 1:00:00 -0700
+date: 2019-09-05 1:00:00 -0700
 categories: poetry
 math: true
 comments: true
