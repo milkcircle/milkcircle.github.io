@@ -14,7 +14,7 @@ author: Aaron
 i've been the devil's advocate,   
 been inside the devil's head  
 impaled myself with the devil's horns  
-and shared the heat of the devil's bed  
+shared the heat of the devil's bed  
 
 i've been the devil's greatest fan,  
 wiped the devil's two-faced tears  
