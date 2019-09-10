@@ -36,11 +36,6 @@ always amidst a throng of friends --
 nevertheless is known by no-one,  
 living this life of pure pretend  
 
-the wretched devil lost her way  
-living a tangled lie that only  
-those she's hurt can enumerate...  
-leading a life so lonely  
-
 how strange it is, isn't it?  
 that even amidst a crowd so loud  
 that picks you up and cheers you on  
