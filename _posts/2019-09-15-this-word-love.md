@@ -43,7 +43,7 @@ to use the golden word
 and stored them in a jar  
 in a quiet dark cupboard  
 behind my secret stash of cookies  
-and the most expensive bottles of oil i have  
+and the most expensive bottles of wine i have  
 
 in anticipation for the day  
 &nbsp;&nbsp;&nbsp;you come back  
