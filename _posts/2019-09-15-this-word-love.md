@@ -52,5 +52,7 @@ at which point i will retrieve the hidden jar
 and shower you with the breathless iloveyous  
 i've saved up over the year  
 
-and adorn you with the precious linguistic jewelry  
-i've smithed for you.
+until i've run out of the precious word  
+and all you can sense  
+is my residual heavy breathing  
+as i wait until i can say it again.
