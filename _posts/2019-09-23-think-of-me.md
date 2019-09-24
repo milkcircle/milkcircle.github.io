@@ -15,7 +15,7 @@ author: Aaron
 
 i hope you think of me sometimes  
 in between bites of breakfast bagels  
-(who would've guessed gluten-free would be so good?)  
+(who would've guessed vegan could be so good?)  
 
 i hope you think of me sometimes  
 when on a quiet dim-lit street  
