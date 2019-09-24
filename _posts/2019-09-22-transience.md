@@ -40,7 +40,7 @@ and this assembly line of dying patients
 reminds me of you  
 and your assembly line of people who love you  
 
-reminds me of the ghosts of partners past  
+the ghosts of partners past  
 who had been hastily and abruptly killed  
 to make way for me  
 before i too was wrapped in a black tarp  
