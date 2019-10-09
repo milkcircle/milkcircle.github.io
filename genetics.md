@@ -10,14 +10,14 @@ into pitch black
 wondering whether there is anyone to catch me  
 
 i do it anyway  
-knowing the near-nil chance of you  
+despite the near-nil chance of you  
 finding clue after clue  
 and deciphering them  
 
 and as i fall i wonder  
-do you like it?  
 do you see it?  
 do you hear it?  
+do you like it?  
 
 are you even here?  
 
