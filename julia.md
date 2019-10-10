@@ -4,6 +4,6 @@ title: you
 permalink: /julia/
 ---
 
-i can't believe you're here  
+<iframe src="https://drive.google.com/file/d/1s-mzDWbCX5HYss321rO7Pf-Gc2XEuYHo/preview" width="640" height="480"></iframe>
 
-check back later for updates
+check back for updates
