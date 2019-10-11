@@ -11,19 +11,24 @@ do they make you smile?
 
 ---
 
-although i am not with you here
-you’ll know i’m with you far and near
+although i am not with you here  
+you’ll know i’m with you far and near  
 
-i am the warmth that quells your fears
-i am the salt inside your tears
+i am the warmth that quells your fears  
+i am the salt inside your tears  
 
-i am the chirps that songbirds sing
-i am the calm that breezes bring
+i am the chirps that songbirds sing  
+i am the calm that breezes bring  
 
-i am the heartbeats in your chest
-i am your spices and your zest
+i am the heartbeats in your chest  
+i am your spices and your zest  
 
-and though you must now carry on
-i am not gone
+and though you must now carry on  
+i am not gone  
 
-i am not gone
+i am not gone  
+
+---
+
+i hope you stay dry  
+goodbye, goodbye
