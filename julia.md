@@ -9,13 +9,21 @@ permalink: /julia/
 these are for you  
 do they make you smile?  
 
-i wish i could  
-be with you a while  
+---
 
-and sing a little more  
-for the one i adore  
+although i am not with you here
+you’ll know i’m with you far and near
 
-that's all i can  
-really ask for
+i am the warmth that quells your fears
+i am the salt inside your tears
 
-broad@now
+i am the chirps that songbirds sing
+i am the calm that breezes bring
+
+i am the heartbeats in your chest
+i am your spices and your zest
+
+and though you must now carry on
+i am not gone
+
+i am not gone
