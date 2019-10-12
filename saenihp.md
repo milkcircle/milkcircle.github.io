@@ -1,7 +1,7 @@
 ---
 layout: page
 title: you 
-permalink: /saeniph/
+permalink: /saenihp/
 ---
 
 nice  
