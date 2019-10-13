@@ -16,5 +16,5 @@ tkd
 ---
 
 this is a harder one, love  
-aaroncheng.me/{bref}  
+aaroncheng.me/{bref&}  
 you might need to think in several different directions
