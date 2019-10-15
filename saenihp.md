@@ -8,4 +8,4 @@ permalink: /saenihp/
 
 for you i'd bleed myself dry  
 
-check back for updates
+aaroncheng.me/{_sound}
