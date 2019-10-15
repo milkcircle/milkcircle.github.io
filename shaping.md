@@ -1,6 +1,6 @@
 ---
 layout: page
-title: do 
+title: you
 permalink: /shaping/
 ---
 
