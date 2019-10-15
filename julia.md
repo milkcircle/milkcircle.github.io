@@ -11,10 +11,4 @@ do they make you smile?
 
 ---
 
-tkd  
-
----
-
-this is a harder one, love  
 aaroncheng.me/{bref&}  
-you might need to think in several different directions
