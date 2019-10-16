@@ -22,4 +22,4 @@ it's such a shame for us to part..."
 
 ---
 
-aaroncheng.me/{derivative} (you might find the *fermi p.* helpful)
+aaroncheng.me/{derivative} (you might find the *fermi p.* helpful, but honestly it's all a jumbled mess)
