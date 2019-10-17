@@ -4,14 +4,7 @@ title: miss
 permalink: /fprime/
 ---
 
-sing to me in sibilance  
-and dance with me in shadows  
-for you and i are royalty  
-of undefined unknowns  
-
-play with me in darkness  
-and eat with me in shades  
-for you and i make music  
-in quiet overtones  
+<iframe width="640" height="480" src="https://www.youtube.com/embed/DBraCqstJjs??modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 check back soon
+
