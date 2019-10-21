@@ -23,6 +23,7 @@ permalink: /reading/
   <div class="showmore" id="showoncologypapers" style="display:inline-block;">Oncology</div>
   <div class="showmore" id="showpreventivepapers" style="display:inline-block;">Preventive</div>
   <div class="showmore" id="showbookpapers" style="display:inline-block;">Books</div>
+  <div class="showmore" id="showcasepapers" style="display:inline-block;">Cases</div>
 </center>
 <!-- <div id="sparse-ntm" style="display:none;"> -->
 
@@ -30,6 +31,27 @@ permalink: /reading/
   <div id="timeline">
     
   <div class="tyear">2019</div>
+	<div id="casepapers" class="timelineitem">
+      <div class="tdate">October</div>
+      <div class="ttitle" onClick="showDetails('ataxia')">
+        A 70-year-old woman with rapidly progressive ataxia
+        <a href="/download/201910_ataxia.pdf">
+          <sup class="tlink">link</sup>
+        </a>
+      </div>
+      <div id="ataxia" style="display:none;">
+        <div class="tauthor">Bart K. Chwalisz, Bradley R. Buchbinder, Jeremy D. Schmahmann, Wesley R. Samore</div>
+        <div class="tcontent">
+          <div class="timg_border"><img class="timage" src="/assets/papers/ataxia.png"></div>
+        </div>
+          <div class="tdesc">
+            <p>
+	      <i>Chwalisz, et. al.</i> describe an elderly woman who presents with a rapid progression of neurologic symptoms, initially demonstrating issues with balance, worsening with the addition of random limb flailing, and culminating in neuropsychiatric symptoms leading to death 4 months from initial onset of symptoms. A thorough workup revealed a cerebellar subtype of Creutzfeldt-Jakob disease.
+            </p>
+          </div>
+        </div>
+      </div>
+
 
   <div id="bookpapers" class="timelineitem">
       <div class="tdate">May</div>
@@ -304,6 +326,28 @@ function start() {
       show_book_papers = false;
     }
   });
+
+    var show_case_papers = true;
+  $("#showcasepapers").click(function() {
+    if(!show_case_papers) {
+      $('[id=casepapers]').each(function() {
+        $('[id=casepapers]').slideDown('fast', function() {
+          $("#showcasepapers").css('border', '2px solid #777');
+          $("#showcasepapers").css('color', '#777');
+        })
+      });
+      show_case_papers = true;
+    } else {
+      $('[id=casepapers]').each(function() {
+        $('[id=casepapers]').slideUp('fast', function() {
+          $("#showcasepapers").css('border', '2px solid #CCC');
+          $("#showcasepapers").css('color', '#CCC');
+        })
+      });
+      show_case_papers = false;
+    }
+  });
+
 
 
 }
