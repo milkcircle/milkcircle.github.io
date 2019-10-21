@@ -8,4 +8,4 @@ permalink: /fprime/
 
 aaroncheng.me/{i planned in secret to make this for you one day.  
 think hard of the things you like, darling -- it's only a single word!  
-i'll keep working on it till i can share it with you sometime}
+will you find me some day? would you let me show you?}
