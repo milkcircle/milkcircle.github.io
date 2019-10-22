@@ -4,5 +4,7 @@ title: me?
 permalink: /focaccia/
 ---
 
-will you find me, like you'd promised?  
-will you find me before i leave?
+if you want to talk  
+let's talk  
+find me and i promise  
+i'll be okay
