@@ -5,7 +5,7 @@ permalink: /seine/
 ---
 
 *there is a thing called love*  
-(a love poem constructed for you,  
+(a poem constructed for you,  
 as all my poems are)
 
 there is a thing called love  
