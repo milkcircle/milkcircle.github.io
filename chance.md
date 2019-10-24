@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /seine/
+permalink: /chance/
 ---
 
 if you care about me  
