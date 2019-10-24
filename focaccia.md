@@ -30,4 +30,5 @@ i'm with you far and near
 aaroncheng.me/  
 { where i'd hoped to take you some day in the far off future  
 where i'd been before, and you'd been too (i think)  
-but where we'd never been together }
+but where we'd never been together  
+"i wish you were here with me" }
