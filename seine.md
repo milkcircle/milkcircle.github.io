@@ -42,4 +42,9 @@ aaroncheng.me/{
 you've guessed what i'd make you  
 you've guessed where i'd take you  
 can you guess what i'd give you?  
-have you given up? } 
+have you given up?  
+think hard, love -- you asked for it  
+i gave it  
+you took it  
+and you threw it away } 
+
