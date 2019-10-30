@@ -11,10 +11,6 @@ comments: true
 author: Aaron
 ---
 
-
-
-
-
 the closest thing to  
 a religious moment  
 i've experienced  
@@ -27,7 +23,7 @@ of lukewarm coffee:
 
 "Ms. Smith in 113 passed."  
 
-and the deafening hush that befalls  
+the deafening hush that befalls  
 the tiny huddle of  
 decade-old computers  
 
