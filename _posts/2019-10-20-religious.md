@@ -31,7 +31,7 @@ and the deafening hush that befalls
 the tiny huddle of  
 decade-old computers  
 
-silences even the  
+muffles even the  
 nervous beeps of IV poles  
 rings of distant phones  
 squeaky wheels of hospital beds in transit  
@@ -46,7 +46,7 @@ look up for a split second --
 in remembrance of the lady  
 with the newly diagnosed cancer  
 who just last week was on a family vacation  
-and collapsed from a seizure --   
+when she collapsed from a seizure --   
 
 before taking another sip of bitter caffeine,  
 swiveling around in the plastic chair  
