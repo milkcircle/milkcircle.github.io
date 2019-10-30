@@ -48,3 +48,8 @@ i gave it
 you took it  
 and you threw it away } 
 
+they tell me you aren't worth it  
+so why don't i feel it?  
+why do i find myself  
+defending you  
+when everyone else isn't?  
