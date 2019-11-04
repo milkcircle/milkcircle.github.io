@@ -48,5 +48,5 @@ i gave it
 you took it  
 and you threw it away }  
 
-find your delta  
-and i'll give it again  
+there's someone new  
+should i wait?
