@@ -5,4 +5,6 @@ permalink: /achance/
 ---
 
 if you care about me  
-can you tell me you made it this far?
+can you tell me you made it this far?  
+
+check back soon
