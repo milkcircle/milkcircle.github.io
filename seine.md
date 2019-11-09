@@ -9,4 +9,6 @@ i gave you __,
 will you give it to me too? }
 
 there's someone new  
-should i wait?
+should i wait?  
+
+i'm hanging on until we can make music together again
