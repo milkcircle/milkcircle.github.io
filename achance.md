@@ -13,4 +13,3 @@ can you tell me you made it this far?
 
 aaroncheng.me/{the next song}
 
-lamont (hungry?)
