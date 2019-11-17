@@ -6,10 +6,12 @@ permalink: /achance/
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/PwAsg2lYt9U?modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-a surprise awaits you  
-for when you do the right thing
+you're around,  
+let's talk  
+or go for a walk  
 
 aaroncheng.me/{the next song}
+
 
 
 
