@@ -15,7 +15,7 @@ what does it matter --
 what i eat in the morning?  
 or the light blaring through  
 the cover of cumulus curtains  
-in the chill of the morning?  
+in the chill of daybreak?  
 
 what does it matter --  
 what i do, how i wander  
