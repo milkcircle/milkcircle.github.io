@@ -8,7 +8,8 @@ permalink: /achance/
 
 and for you, the world
 
-aaroncheng.me/{the next song (i learned it for you)}
+aaroncheng.me/{the next song (i learned it for you)  
+https://aaroncheng.me/poetry/2019/11/25/hint.html}
 
 
 
