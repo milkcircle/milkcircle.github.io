@@ -6,7 +6,7 @@ permalink: /achance/
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/PwAsg2lYt9U?modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-and for you, the world
+good luck  
 
 aaroncheng.me/{the next song (i learned it for you)  
 https://aaroncheng.me/poetry/2019/11/25/hint.html}
