@@ -12,7 +12,7 @@ And how devastating is it, that once we have seen the light we can never unsee i
 
 So it must be -- keep the ones you love too much at a distance, for they are magnets that grow in attraction proportional to inverse radius squared. Keep them at a distance, so the inevitable collision of metal on metal is kept at bay. And maybe this distance isn't to be maintained forever. Maybe the magnets inch toward each other, bit by bit... imperceptible at first (since of course they start far apart), but on a crash course toward the other in such a way that one day, *snap!* they're back at it again, destroying each other in a fit of attraction.  
 
-And so it is, that the things I want will end up killing me. I will fall into yellow, and orange, and pink, and red, and come out black and blue and bleeding, but seeing roses, and I will send them to you --  
+And so it is, that the things I want will end up killing me (...for how am I supposed to do anything except love beautiful things?). I will fall into yellow, and orange, and pink, and red, and come out black and blue and bleeding, but seeing roses, and I will send them to you --  
 
 May your singing rays of sunshine be everlasting, your radiance be unclouded, your resonance be unhindered, your vibrance be forever reverberant. Happy Thanksgiving
 
