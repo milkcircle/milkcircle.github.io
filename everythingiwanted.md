@@ -9,4 +9,6 @@ permalink: /everythingiwanted/
 42-18-16, 237  
 (for you: everything)  
 
+good luck  
+
 aaroncheng.me/{ you are __ }
