@@ -9,6 +9,7 @@ permalink: /everythingiwanted/
 42-18-16, 237  
 (for you: everything)  
 
-good luck  
+i would remember the clues  
+these won't be here for much longer  
 
 aaroncheng.me/{ you are __ }
