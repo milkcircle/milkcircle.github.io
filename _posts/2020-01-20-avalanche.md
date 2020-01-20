@@ -4,7 +4,7 @@ include: true
 
 layout: post
 title: avalanche 
-date: 2020-01-19 1:00:00 -0700
+date: 2020-01-20 1:00:00 -0700
 categories: poetry
 math: true
 comments: true
