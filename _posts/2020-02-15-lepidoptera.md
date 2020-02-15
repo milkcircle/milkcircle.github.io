@@ -18,6 +18,6 @@ and a serpent tongue
 reach a fork in the road,  
 and, after not a moment's consideration,  
 descend into the  
-winding road of dishonesty,  
+winding path of dishonesty,  
 lust,  
 and everlasting conditionals.
