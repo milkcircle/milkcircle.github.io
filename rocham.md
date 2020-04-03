@@ -10,3 +10,10 @@ i'm thinking of you
 will you tell me what's going on?  
 
 ac.me/{park}
+ah, i would have gone with you  
+but we're nearing the  
+irrecoverable end,  
+for an option is an option  
+only for so long,  
+and there's such a thing as a wick burning out  
+and finding other candles, as you have.
