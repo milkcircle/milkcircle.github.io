@@ -4,10 +4,8 @@ title:
 permalink: /rocham/
 ---
 
-i have things to give  
-and things to say  
-and i hope i'll see you  
-again one day  
+(learning to make things  
+for you)
 
 ac.me/{park}  
 &nbsp;  
