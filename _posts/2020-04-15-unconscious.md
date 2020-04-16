@@ -1,7 +1,6 @@
 ---
 excerpt: ""
 include: true
-
 layout: post
 title: unconscious 
 date: 2020-04-15 1:00:00 -0700
