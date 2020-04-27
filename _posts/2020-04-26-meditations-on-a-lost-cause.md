@@ -11,7 +11,7 @@ author: Aaron
 ---
 
 trust  
-is a slippery substance:  
+is a slick substance:  
 it takes but a  
 simple slip  
 to reveal your cards,  
