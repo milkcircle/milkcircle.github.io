@@ -5,7 +5,7 @@ permalink: /lux/
 ---
 
 <audio controls>
-  <source src="{{site.url}}/assets/waiting.mp3" type="audio/mpeg">
+  <source src="{{site.url}}/assets/waiting2.mp3" type="audio/mpeg">
 </audio>  
 
 why should i stay  
