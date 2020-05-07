@@ -25,6 +25,6 @@ and in so doing,
 validates the tragic trope  
 of the absurd, head-in-cloud parasite  
 whose locust heart murders everything in the way,  
-and never look back on the dead  
+and never looks back on the dead  
 
 acme{<del>gift</del>}
