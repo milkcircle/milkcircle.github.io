@@ -4,6 +4,8 @@ title:
 permalink: /austen/
 ---
 
+could beauty, my lord, have better commerce than with honesty?  
+
 <audio controls>
   <source src="{{site.url}}/assets/souvenir.mp3" type="audio/mpeg">
 </audio>  
