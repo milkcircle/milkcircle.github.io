@@ -18,7 +18,7 @@ serial infidelity,
 selfishness:  
 a textbook example  
 of someone who expends more effort  
-in telling others she wants to change  
+in announcing what she'll change  
 than in making any actual changes...  
 
 and in so doing,  
