@@ -15,11 +15,14 @@ of sociopathy,
 narcissism,  
 compulsive dishonesty,  
 serial infidelity,  
-selfishness,  
-and a prime example  
+selfishness:  
+a textbook example  
 of someone who expends more effort  
 in telling others she wants to change  
 than in making any actual changes...  
+
 and in so doing,  
-validates the stereotypes  
-i wished weren't true
+validates the tragic  stereotype  
+of the absurd, head-in-cloud parasites  
+whose locust hearts murder everything in the way,  
+and never look back on the dead
