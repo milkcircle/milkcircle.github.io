@@ -27,4 +27,4 @@ of the absurd, head-in-cloud parasite
 whose locust heart murders everything in the way,  
 and never look back on the dead  
 
-acme{gift}
+acme{<del>gift</del>}
