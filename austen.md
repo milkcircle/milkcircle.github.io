@@ -4,8 +4,14 @@ title:
 permalink: /austen/
 ---
 
-<audio controls>
-  <source src="{{site.url}}/assets/souvenir.mp3" type="audio/mpeg">
-</audio>  
+"you are most like  
+those you choose to be your friends,  
+so choose people who you want to emulate"  
+
+they told me,  
+as they reminded me  
+there are alternatives  
+beyond toxic, unchanging people,  
+whose behavior is not mine to change.  
 
 acme{<del>gift</del>}
