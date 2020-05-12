@@ -8,8 +8,8 @@ permalink: /austen/
 those you choose to be your friends,  
 so choose people who you want to emulate"  
 
-they told me,  
-as they reminded me  
+she told me,  
+as she reminded me  
 there are alternatives  
 beyond toxic, unchanging people,  
 whose behavior is not mine to change.  
