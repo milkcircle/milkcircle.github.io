@@ -4,14 +4,13 @@ title:
 permalink: /austen/
 ---
 
-dear cathy ames,  
-what a damn shame,  
+"your honesty deserves the same on my part in kind,"  
+you said,  
+as you laughed at the  
+scum of the earth before you  
+and wondered just how much more you could get away with  
 
-to hear you commit to lies  
-where truth is known  
+until the weight of your words  
+could cut deep enough to kill him  
 
-is to watch a sad, pathetic creature  
-dig herself into a hole  
-she cannot crawl out of.  
-
-acme{<del>gift</del>}
+acme{gift}
