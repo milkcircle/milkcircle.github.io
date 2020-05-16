@@ -17,6 +17,6 @@ the demonic and lazy
 are remorseless in their actions,  
 unchanging in their vices,  
 sarcastic in their apologies,  
-and pitiful.  
+and utterly pitiful.  
 
 acme{ gift }
