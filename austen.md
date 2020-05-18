@@ -11,6 +11,6 @@ sarcastic in their apologies,
 utterly pitiful,  
 and easily replaced by  
 any one of the multitude of  
-people with an ounce of empathy.  
+people with an ounce of conscience.  
 
 acme{ gift }
