@@ -15,7 +15,7 @@ south into the commons
 and there's the faint skunky smell of weed  
 and the flowers are bursting like  
 a proofing sourdough and  
-girls chasing their puppies  
+girls are chasing their puppies  
 which are chasing squirrels  
 which are running up trees and  
 it's enough to overlook for just a minute  
