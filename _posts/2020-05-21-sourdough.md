@@ -14,7 +14,7 @@ there's a step near the end
 where you're supposed to take a razorblade  
 and score the dough before the final bake  
 
-or else the rise will break  
+or else the rise will burst  
 through the dough's weakest point  
 and spill out the side  
 
