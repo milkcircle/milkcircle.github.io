@@ -4,7 +4,8 @@ title:
 permalink: /austen/
 ---
 
-your friends say  
+i've been talking to your friends,  
+who say  
 they see through your lies  
 and know you are superficial,  
 golddigging, and dishonest,  
