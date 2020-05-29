@@ -4,6 +4,6 @@ title:
 permalink: /austen/
 ---
 
-did it go through  
+i deserve to know  
 
-acme{ gift is sent }
+acme{ ........... }
