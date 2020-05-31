@@ -16,7 +16,7 @@ thyroid cartilage against
 gravelly pavement;  
 damaged ventricle supplied by  
 twice-replaced coronaries  
-pump against a growing gradient;  
+pumps against a growing gradient;  
 lungs, soaked in sorrow and fear,  
 drenched in backup fluid,  
 where is mama,  
