@@ -19,6 +19,8 @@ twice-replaced coronaries
 pumps against a growing gradient;  
 lungs, soaked in sorrow and fear,  
 drenched in backup fluid,  
+borders reddening in blood  
+and blurring in presyncope,  
 where is mama,  
 what am i doing wrong,  
 let me breathe
