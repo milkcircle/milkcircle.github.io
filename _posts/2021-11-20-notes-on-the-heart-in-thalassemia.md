@@ -1,4 +1,5 @@
 ---
+excerpt: ""
 include: true
 layout: post
 title: Notes on the Heart in Thalassemia
