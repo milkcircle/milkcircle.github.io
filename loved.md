@@ -1,7 +1,7 @@
 ---
 layout: page
 title: i love you 
-permalink: /test/
+permalink: /loved/
 ---
 
 you are  
