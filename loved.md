@@ -19,4 +19,4 @@ the reason why i wake
 how can i do anything but feel  
 the exquisite hurt of a half torn away?  
 
-/datesHown
+/date sHown
