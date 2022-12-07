@@ -5,7 +5,7 @@ permalink: /hadestown/
 ---
 
 you, and the story of how  
-you left for "ambition" ("sorry sorry but while i was with him i was thinking of you")
+you left for "ambition" ("sorry sorry but while i was with him i was thinking of you")  
 became you came back for "change in values"  
 became you left for lack of desire to change, (and  
 for difference in "ambition"),  
