@@ -17,4 +17,6 @@ the sparks in a monochrome sky,
 the reason why i wake  
 
 how can i do anything but feel  
-the exquisite hurt of a half torn away?
+the exquisite hurt of a half torn away?  
+
+/datesHown
