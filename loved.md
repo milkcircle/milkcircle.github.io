@@ -4,4 +4,4 @@ title:
 permalink: /loved/
 ---
 
-/date sHown
+/datesHown
