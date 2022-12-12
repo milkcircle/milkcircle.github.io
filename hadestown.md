@@ -4,4 +4,4 @@ title:
 permalink: /hadestown/
 ---
 
-/rand
+/¯\_(ツ)_/¯
