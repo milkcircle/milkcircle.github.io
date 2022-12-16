@@ -4,7 +4,7 @@ title: goodbye
 permalink: /hadestown/
 ---
 
-Dearest beloved,  
+*Dearest beloved,  
 
 This is my final letter to you. I had hoped that I could make sure, one last time, that you were eating okay and handling what I can only imagine is now an overwhelming and busy stretch for you, and that you knew despite our differences that there is someone out there who cares for and about you. It wasn't meant to happen, and that's okay; I've had enough closure to understand that we have never been what the other was seeking.  
 
