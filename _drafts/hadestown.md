@@ -1,30 +1,33 @@
 ---
 layout: page
-title: lies
+title: goodbye
 permalink: /hadestown/
 ---
 
-shame is the story of how  
-you left for "ambition" ("i said i loved you but you shouldn't have expected anything, your hurt was your fault")  
-became you came back for "change in values" ("sorry sorry but when i was with him i was thinking of you")  
-became you started chatting with an ex overnight -- "don't worry about the hike it's in a group" --  
-became you stayed up texting guys about how incompatible we were --  
-became you left for a lack of desire to change (and for difference in "ambition")  
-(and probably for someone you've been talking to)  
-became i saw that you'll never change,  
-became i came to realize that a person's "good" or "bad" was the sum of the person's choices, and you have always chosen bad, selfish, hurtful  
-became i saw after taking off the rose colored glasses that you've always been draped in a red flag,  
-became i gave up on changing for a person who would never change  
-became i'm looking for something better.  
+*Dearest beloved,  
 
-darling, i stand by my unconditional love, but  
-can't ignore any longer that you are, by your own definition, a bad person  
-(despite how easily you can fake it)  
-and seem to be proud of it  
-and i find it so sad to see  
+This is my final letter to you. I had hoped that I could make sure, one last time, that you were eating okay and handling what I can only imagine is now an overwhelming and busy stretch for you, and that you knew despite our differences that there is someone out there who cares for and about you. It wasn't meant to happen, and that's okay; I've had enough closure to understand that we have never been what the other was seeking.  
 
-here's to hoping you will find someone  
-who will bend over backward to accept your flaws  
-as much as i have tried  
+I have a hunch you are already starting to see someone. Maybe it even happened when we were together, or maybe you had caught feelings near the end. I couldn't, and still cannot, trust you, but I can and have forgiven you. Everyone tells me I shouldn't have agreed to enter the relationship knowing what I had known about you, but I stand by my philosophy that your past doesn't define your future. I was naive and in love, and wanted nothing more than to believe that someone who had wanted to modify her core values could do so in a way that would overlap with mine. I wanted too foolishly to believe that a person was neither good nor bad at his or her core. But I've since changed this to the idea that a person can lean good or bad based on the choices he/she makes, and ultimately have come to the conclusion I had known deep down from the start -- you have always chosen convenience, dishonesty, appearance, status, and selfishness, all of which are contrary to who I am and who I want to be. It's obvious that despite our chemistry, we would not work; I would make you dissatisfied and miserable, and you would make me compromise the core values I want to uphold in my family.  
 
-/rand
+That is not to say you haven't changed the way I view the world. I am not so foolish to blindly believe that money, status, impact, and legacy do not make a difference, and ultimately agree with you that in many ways they may -- in moderation and with great care -- contribute to the well being of an individual and family. This I get, and this has shifted my vision for myself somewhat. Up until recently I have always simply wanted to take care of people like me in the future in the way that has shaped who I am growing up. This will take the form of being an excellent hematologist leading the care of adolescents and adults with thalassemia. Being able to pay forward what I've gained through my own doctors will remain my top priority and my driving motivation. But now I've adapted my vision to include the possibility of impacting medicine more broadly through interfacing with biotech and by developing a deep understanding of gene therapy, so I can help to bring what I hope will be a cure for the thal community to even more people. I see the role of money in funding this vision, and have adapted to include this in a possible variation of my career. But at its core, the difference between us is that I hope ultimately my contentment in life is not contingent on money and status, and that unlike you, I am proud of my goal to be a great doctor; my drive comes from being good to people, not from being famous or rich or well credentialed. I think my vision is enough to form a career to be proud of. I'm not sure that you have ever felt that way. Maybe being "only a doctor" is too "unambitious" for you to imagine in a partner. If that's the case, I think that's pretty sad.  
+
+I should also say that I've never been opposed either to the idea of comfort/luxury in my own life as it relates to money, and I'm sorry to see you had that idea of me. I acknowledge the role for money in providing an enriching life for my family, and will earn and spend what it takes to achieve that. But I don't tie this, nor metrics of external validation, to the contentment and happiness of me and my family. That is a dangerous road and something I will consciously prevent in my family. This doesn't mean I won't have wealth. What it does mean is my definition of wealth comes from sources outside of money and reputation, and will at its core result from the concepts of hard work, self drive, love, and passion. I fully expect and believe that status and money will come to me as I pursue my career path, but I'm not chasing it. And when it comes in due time -- and it will --, I will adjust my life luxuries to match it. I'm only frugal in that I am earning a resident salary right now. Perhaps our attitudes toward money, and your idea that I am "unambitious" comes from our family's financial backgrounds and that I am protective of the values that have shaped who I am.   
+
+I have two more things to say. First -- and this is important -- despite the rollercoasters you have put me through over the past 5-6 years, I have *never* stopped loving you. The concept of unconditional love is immensely important to me, and despite your flaws and despite the hurt, I see you as a human deserving and capable of love. You haven't shown me unconditional love, but rather temporary attraction that comes in waves and is contingent upon who else is available and interested, and it has been dependent on the external metrics of success that I have achieved. I hope you experience unconditional love at some point. I love you despite how sad I think it is that you've grown comfortable hurting people and will continue to do so. I love you despite all of this.
+
+Second: after much discussion with many people who know us both, and after much self reflection, I have come to accept that we will never be together in this capacity again. You mentioned that if in several years we were still single we might as well get together. This is unfortunately entirely reflective of how you've always treated me since you've known me -- a backup until someone more "ambitious" and accomplished comes along. I will not come back to you. I know I am absolutely ambitious, and I am proud of the goals I've set myself. I'm seeking someone better than you, who espouses empathy and honesty in the way you've never demonstrated, and based on the interest I've been seeing I'm confident I will find what I'm looking for. I deserve more than being the recipient of your treatment, and recognize that I can do better than a person who lies, cheats, and runs over the people who love her out of selfish and superficial reasons. I see now that after what you've put so many people through and what you've put me through, my efforts are better directed toward someone more suitable for me and my values. I had so deeply hoped you matched my image of you, but that never materialized.  
+
+I'm not worried about you. You will continue to get interest from high profile people whose ambitions match what you are looking for. You're probably finding chemistry with one of them right now. I hope you find what you want in life, but I also hope that whoever that is will give you the unconditional love that I've tried so hard to give you despite our past. You'll be okay, and so will I.  
+
+I've loved you, I love you, I will love you. Happy holidays to you, happy birthday, happy Valentine's day, happy residency graduation. Congratulations to all of your immense success and degrees. I'm proud of you and everything you've accomplished even on top of residency. Even though my ambitions and achievements were not enough for your warped standards, you should know that you had always been enough for me. Good luck with Atlas. Best wishes with the start of your new career. I sincerely hope it's every bit as exhilarating and fulfilling as you've imagined, and that you can go on that journey with someone who has cared for you to the degree I have and who will write you poetry and learn the guitar for you. As for me, I'll get to do these things for someone else soon.  
+
+your lips of stardust  
+once brought me soaring to the skies  
+and now, grounded on earth  
+i look up at our fading constellation  
+remembering the storied past  
+that immortalized it in my heart  
+
+Love,  
+AC
